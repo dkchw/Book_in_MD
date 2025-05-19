@@ -1,381 +1,3 @@
-# ELEVENTH EDITION 
-
-## Inderbir Singh's HUMAN
-
-![img-0.jpeg](img-0.jpeg.jpg)
-
-Edited by
-V Subhadra Devi
-
-Inderbir Singh's
-HUMAN
-EMBRYOLOGY
-
-![img-1.jpeg](img-1.jpeg.jpg)
-
-Late Professor Inderbir Singh
-(1930-2014)
-
-# Tribute to a Legend 
-
-Professor Inderbir Singh, a legendary anatomist, is renowned for being a pillar in the education of generations of medical graduates across the globe. He was one of the greatest teachers of his time. He was a passionate writer who poured his soul into his work. His eagle's eye for details and meticulous way of writing made his books immensely popular amongst students. He managed his lifetime to become enmeshed in millions of hearts. He was conferred the title of Professor Emeritus by Maharshi Dayanand University, Rohtak.
-On 12th May, 2014, he was awarded posthumously with Emeritus Teacher Award by National Board of Examination for making invaluable contribution in teaching of Anatomy. This award is given to honour legends who have made tremendous contribution in the field of medical education. He was a visionary for his time, and the legacies he left behind are his various textbooks on Gross Anatomy, Histology, Neuroanatomy and Embryology. Although his mortal frame is not present amongst us, his genius will live on forever.
-
-# Inderbir Singh's HUMAN EMBRYOLOGY 
-
-## ELEVENTH EDITION
-
-Edited by<br>V Subhadra Devi MS (Anatomy)<br>Professor and Head<br>Department of Anatomy<br>Sri Venkateswara Institute of Medical Sciences (SVIMS)<br>Tirupati, Andhra Pradesh, India
-
-![img-2.jpeg](img-2.jpeg.jpg)
-
-The Health Sciences Publisher
-New Delhi | London | Panama
-
-# Jaypee Brothers Medical Publishers (P) Ltd 
-
-Headquarters
-Jaypee Brothers Medical Publishers (P) Ltd
-4838/24, Ansari Road, Daryaganj
-New Delhi 110 002, India
-Phone: +91-11-43574357
-Fax: +91-11-43574314
-Email: jaypee@jaypeebrothers.com
-
-## Overseas Offices
-
-J.P. Medical Ltd
-
-Jaypee-Highlights Medical Publishers Inc
-83 Victoria Street, London
-City of Knowledge, Bld. 235, 2nd Floor, Clayton
-SW1H 0HW (UK)
-Panama City, Panama
-Phone: +44 2031708910
-Phone: +1 507-301-0496
-Fax: +44 (0)20 30086180
-Email: cservice@jphmedical.com
-Email: nfo@jpmedpub.com
-Jaypee Brothers Medical Publishers (P) Ltd
-Jaypee Brothers Medical Publishers (P) Ltd
-17/1-B Babar Road, Block-B, Shaymali
-Bhotahity, Kathmandu, Nepal
-Mohammadpur, Dhaka-1207
-Phone: +977-9741283608
-Bangladesh
-Email: kathmandu@jaypeebrothers.com
-Mobile: +08801912003485
-Email: jaypeedhaka@gmail.com
-Website: www.jaypeebrothers.com
-Website: www.jaypeedigital.com
-© 2018, Jaypee Brothers Medical Publishers
-The views and opinions expressed in this book are solely those of the original contributor(s)/author(s) and do not necessarily represent those of editor(s) of the book.
-All rights reserved. No part of this publication may be reproduced, stored or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission in writing of the publishers.
-All brand names and product names used in this book are trade names, service marks, trademarks or registered trademarks of their respective owners. The publisher is not associated with any product or vendor mentioned in this book.
-Medical knowledge and practice change constantly. This book is designed to provide accurate, authoritative information about the subject matter in question. However, readers are advised to check the most current information available on procedures included and check information from the manufacturer of each product to be administered, to verify the recommended dose, formula, method and duration of administration, adverse effects and contraindications. It is the responsibility of the practitioner to take all appropriate safety precautions. Neither the publisher nor the author(s)/editor(s) assume any liability for any injury and/or damage to persons or property arising from or related to use of material in this book.
-This book is sold on the understanding that the publisher is not engaged in providing professional medical services. If such advice or services are required, the services of a competent medical professional should be sought.
-Every effort has been made where necessary to contact holders of copyright to obtain permission to reproduce copyright material. If any have been inadvertently overlooked, the publisher will be pleased to make the necessary arrangements at the first opportunity.
-
-Inquiries for bulk sales may be solicited at: jaypee@jaypeebrothers.com
-
-## Human Embryology
-
-First to Ninth Editions published by Macmillan Publishers India Ltd (1976-2013)
-Tenth Edition published by Jaypee Brothers Medical Publishers (P) Ltd (2014)
-Eleventh Edition: 2018
-ISBN: 978-93-5270-115-5
-
-# Dedicated to 
-
-My husband Dr VH Rao who has been my inspiration and the driving force for all my accomplishments in both personal and professional life.
-
-# Preface to the Eleventh Edition 
-
-During the publication of my earlier book - "Basic Histology - A Color Atlas and Text" the publishers proposed to me to revise the embryology book written by late Prof Inderbir Singh. Notwithstanding 35 years of experience in teaching embryology and several publications in human developmental anatomy, I was skeptical because it is simply difficult for anyone to match the simplicity of expression and sheer elegance of images so diligently originated by Prof. Singh. With the encouragement provided by the publishers and colleagues, I have taken the proverbial plunge.
-
-When I started my career as a medical teacher way back in 1981, I used to reproduce the diagrams from Prof. Inderbir Singh's embryology on black board. With the evolution of technology, I have initially transcribed the figures on to OHP sheets and recently upgraded several of them into 3D images, some of which are included in the present edition of the book.
-
-Like all its previous editions, this is also a one person effort which clearly offers scope for improvement. Suggestions from academics, students and professionals are welcome for incorporation in the coming editions.
-
-I thank all my students who are my inspiration for revising this book. I am thankful to all staff and students in the Department of Anatomy, SV Medical College and Sri Venkateswara Institute of Medical Sciences, Tirupati, Andhra Pradesh, India, for their continuous support and constructive feedback at different stages while this book is evolving. I make a special mention of Mr. K Thyagaraju, Assistant Professor, for drawing and Photoshop editing several of the figures. Some of the figures in the present edition originated from the research carried out by the postgraduate students in my lab.
-
-I am also thankful to Shri Jitendar P Vij (Group Chairman), Mr Ankit Vij (Group President) of M/s Jaypee Brothers Medical Publishers (P) Ltd, New Delhi, India, for kindly agreeing to publish this book, and the production team especially Ms. Ritu Sharma, Dr Madhu Chaudhary, Dr Pinky Chauhan and Ms. Samina Khan for their dedicated work.
-
-# Preface to the First Edition 
-
-This book on human embryology has been written keeping in mind the requirements of undergraduate medical students. The subject of embryology has traditionally been studied from imported textbooks of anatomy or of embryology. Experience has shown that the treatment of the subject in most of these books is way above the head of the average medical student in India. The difficulty has increased from year to year as there has been, and continues to be, progressive deterioration in the standards of the teaching of English in our schools and colleges. The combination of unfamiliar sophistications of language and of an involved technical subject, has very often left the student bewildered.
-
-In this book, care has been taken to ensure that the text provides all the information necessary for an intelligent understanding of the essential features of the development of various organs and tissues of the human body. At the same time, several innovations have been used to make the subject easy to understand.
-
-Firstly, the language has been kept simple. Care has been taken not to compress too many facts into an involved sentence. New words are clearly explained.
-
-Secondly, simultaneous references to the development of more than one structure have been avoided as far as possible. While this has necessitated some repetition, it is hoped that this has removed one of the greatest factors leading to confusion in the study of this subject.
-
-Thirdly, almost every step in development has been shown in a simple, easy to understand, illustration. To avoid confusion, only structures relevant to the discussion are shown. As far as possible, the drawings have been oriented as in adult anatomy to facilitate comprehension.
-
-Fourthly, the chapters have been arranged so that all structures referred to at a particular stage have already been adequately introduced.
-
-In an effort of this kind it is inevitable that some errors of omission, and of commission, are liable to creep in. To obviate as many of these as possible a number of eminent anatomists were requested to read through the text. Their suggestions have greatly added to the accuracy and usefulness of this book. Nevertheless, scope for further improvement remains, and the author would welcome suggestions to this end both from teachers and from students.
-
-Rohtak
-Inderbir Singh
-January 1976
-
-# Contents 
-
-1. Introduction and Some Preliminary Considerations ..... 1
-
-- Basic Qualities of Living Organisms ..... 1
-- Reproduction ..... 1
-- Development of a Human Being ..... 2
-- Embryology ..... 3
-- Subdivisions of Embryology ..... 3
-- Importance of Embryology in the Medical Profession ..... 4
-- Basic Processes in Embryology ..... 4
-
-2. Genetics and Molecular Biology in Embryology ..... 7
-
-- Genetic Basis of Developmental Anatomy ..... 7
-- Genes ..... 8
-- Chromosomes ..... 11
-- Inheritance of Genetic Disorders ..... 16
-- Cell Division ..... 18
-
-3. Reproductive System, Gametogenesis, Ovarian and Menstrual Cycles ..... 22
-
-- Male Reproductive System ..... 23
-- Female Reproductive System ..... 25
-- Gametogenesis ..... 27
-- Ovarian Cycle ..... 33
-- Menstrual Cycle ..... 39
-- Hormonal Control of Ovarian and Uterine Cycles ..... 43
-
-4. Fertilization and Formation of Germ Layers ..... 45
-
-- Fertilization ..... 46
-- Sex Determination ..... 51
-- Test Tube Babies/In Vitro Fertilization ..... 51
-- Cleavage ..... 52
-- Formation of Germ Layers ..... 54
-- Time Table of Events Described in this Chapter ..... 58
-- Embryological Explanation for Clinical Conditions orAnatomical Observations59
-
-5. Further Development of Embryonic Disc ..... 61
-
-- Formation of Notochord ..... 62
-- Formation of the Neural Tube ..... 65
-- Subdivisions of Intraembryonic Mesoderm ..... 65
-- Lateral Plate Mesoderm-Formation of Intraembryonic Coelom ..... 67
-- Intermediate Mesoderm ..... 67
-- Yolk Sac ..... 67
-- Folding of Embryo ..... 67
-- Connecting Stalk ..... 69
-- Allantoic Diverticulum ..... 69
-- Effect of Head and Tail Folds on Positions of Other Structures ..... 71
-- Time Table of Events Described in this Chapter ..... 72
-
-6. Placenta, Fetal Membranes and Twinning ..... 73
-
-- Formation of Placenta ..... 73
-- Fetal/Extraembryonic Membranes ..... 88
-- Multiple Births and Twinning ..... 93
-- Embryological Basis for Clinical Conditions orAnatomical Observations 95
-
-7. Formation of Tissues of the Body ..... 98
-
-- Epithelia ..... 99
-- Connective Tissue ..... 101
-- Muscular Tissue ..... 112
-- Nervous Tissue ..... 114
-
-8. Integumentary System (Skin and Its Appendages, Mammary Gland) ..... 118
-
-- Skin ..... 118
-- Appendages of Skin ..... 120
-- Time Table of Some Events Described in this Chapter ..... 124
-- Embryological Explanation for Clinical Conditions orAnatomical Observations in Skin 124
-
-9. Pharyngeal Arches ..... 126
-
-- Pharyngeal/Branchial Arches ..... 127
-- Derivatives of Skeletal Elements ..... 128
-- Nerves and Muscles of the Arches ..... 129
-- Fate of Ectodermal Clefts ..... 129
-- Fate of Endodermal Pouches ..... 131
-- Development of Palatine Tonsil ..... 132
-- Development of the Thymus ..... 132
-- Development of Parathyroid Glands ..... 133
-- Development of Thyroid Gland ..... 133
-- Time Table of Some Events in the Development ofPharyngeal Arches 135
-- Embryological Explanation for Clinical Conditions orAnatomical Observations 135
-
-10. Skeletal System and Muscular System ..... 137
-Part 1: Skeletal System ..... 138
-
-- Somites ..... 138
-- Development of Axial Skeleton ..... 139
-- Formation of Limbs ..... 145
-- Joints ..... 146
-Part 2: Muscular System ..... 147
-- Skeletal Muscle ..... 147
-- Development of Muscular System ..... 148
-- Time Table of Some Events ..... 150
-- Clinical Case with Prenatal Ultrasound and Aborted Fetal Images:Embryological and Clinical Explanation 151
-
-11. Face, Nose and Palate ..... 152
-
-- Development of the Face ..... 152
-- Development of Various Parts of Face ..... 153
-- Development of Palate ..... 159
-- Time Table of Some Events in the Development of Face,Nose and Palate 161
-- Embryological Explanation for Clinical Conditions orAnatomical Observations 162
-
-12. Alimentary System-I: Mouth, Pharynx and Related Structures ..... 163
-
-- Mouth 163
-- Teeth 164
-- Pharynx 168
-- Tongue 168
-- Derivatives of Oral Cavity 170
-- Salivary Glands 171
-- Time Table of Some Events Described in this Chapter 171
-
-13. Alimentary System-II: Gastrointestinal Tract ..... 172
-
-- Derivation of Individual Parts of Alimentary Tract 176
-- Rotation of the Gut 181
-- Fixation of the Gut 183
-- Time Table of Some Events Described in this Chapter 185
-- Embryological Basis for Clinical Conditions or Anatomical Observations 185
-
-14. Liver and Biliary Apparatus; Pancreas and Spleen; Respiratory System; Body Cavities and Diaphragm ..... 190
-Liver and Biliary Apparatus ..... 190
-
-- Liver and Intrahepatic Biliary Apparatus 190
-- Gallbladder and Extrahepatic Biliary Passages (Extrahepatic Biliary Apparatus) 193
-Pancreas and Spleen ..... 197
-- Pancreas 197
-- Spleen 199
-Body Cavities and Diaphragm ..... 201
-- Body Cavities 201
-- Diaphragm 211
-Respiratory System ..... 214
-- Larynx 215
-- Trachea 217
-- Extrapulmonary Bronchi 217
-- Intrapulmonary Bronchi and Lungs 217
-- Embryological Basis for Clinical Conditions or Anatomical Observations 224
-
-15. Cardiovascular System ..... 226
-Part 1: Heart ..... 227
-
-- Components of Blood Vascular System 227
-- Formation of Blood Cells and Vessels 227
-- Extraembryonic Blood Vascular System 228
-- Intraembryonic Blood Vascular System 228
-- Development of Heart 229
-- Development of Various Chambers of the Heart 230
-- Exterior of the Heart 239
-- Valves of the Heart 239
-- Conducting System of the Heart 240
-- Pericardial Cavity 240
-Part 2: Arteries ..... 243
-- Pharyngeal Arch Arteries and their Fate 243
-- Development of Other Arteries 246
-Part 3: Veins ..... 251
-- Visceral Veins 251
-- Somatic Veins 253
-
-- Veins of the Abdomen 255
-- Azygos System of Veins 257
-
-Part 4: Fetal Circulation 258
-
-- Changes in the Circulation at Birth 260
-
-Part 5: Lymphatic System 260
-
-- Time Table of Some Events Described in this Chapter 261
-- Embryological Basis for Clinical Conditions or Anatomical Observations 261
-
-16. Urogenital System ..... 264
-
-- Development of Kidneys 265
-- Absorption of Lower Parts of Mesonephric Ducts into Cloaca 269
-- Development of the Ureter 270
-- Development of the Urinary Bladder 270
-- Development of the Female Urethra 271
-- Development of the Male Urethra 271
-- Development of the Prostate 272
-- Paramesonephric Ducts 273
-- Development of Uterus and Uterine Tubes 273
-- Development of Vagina 274
-- Development of External Genitalia 275
-- Development of Testes 278
-- Development of the Ovary 283
-- Fate of Mesonephric Duct and Tubules in the Male 284
-- Fate of Mesonephric Ducts and Tubules in the Female 285
-- Control of Differentiation of Genital Organs 286
-- Time Table of Some Events Described in this Chapter 287
-
-17. Nervous System ..... 288
-
-- Neural Tube and Its Subdivisions 289
-- Neural Crest Cells 292
-- Spinal Cord 293
-- Brainstem 296
-- Cerebellum 300
-- Cerebral Hemisphere 300
-- Autonomic Nervous System 308
-- Time Table of Some Events in Nervous System Development 311
-- Embryological Explanation for Clinical Conditions or Anatomical Observations of Nervous System 312
-
-18. Endocrine Glands ..... 313
-
-- Classification of Endocrine Glands 313
-- Hypophysis Cerebri or Pituitary Gland 314
-- Pineal Gland 315
-- Adrenal Gland 315
-- Chromaffin Tissue 316
-- Time Table of Some Events Described in this Chapter 316
-- Embryological Explanation for Clinical Conditions or Anatomical Observations in Eyeball 316
-
-19. Development of Eye ..... 318
-
-- Formation of the Optic Vesicle 318
-- Formation of Lens Vesicle 318
-- Formation of the Optic Cup 319
-
-- Derivation of Parts of the Eyeball 320
-- Accessory Structures of Eyeball 323
-- Time Table of Some Important Events Described in this Chapter 326
-- Embryological Explanation for Clinical Conditions or Anatomical Observations in Eyeball 326
-
-20. Development of the Ear ..... 328
-
-- Internal Ear 328
-- Middle Ear 330
-- External Ear 330
-- Time Table of Some Events Described in this Chapter 334
-- Embryological Explanation for Clinical Conditions or Anatomical Observations in Ear 334
-
-21. Clinical Applications of Embryology ..... 336
-
-- Gestational Period 336
-- Growth of the Embryo 336
-- Determining the Age of an Embryo 337
-- Further Growth of the Fetus 337
-- Determining the Age of a Living Fetus 339
-- Control of Fetal Growth 339
-- Causation of Congenital Anomalies (Teratogenesis) 342
-- Prenatal Diagnosis of Fetal Diseases and Malformations 343
-- Fetal Therapies 344
-
-22. Embryology Ready Reckoner ..... 345
-
-- Developmental Anatomy at a Glance 345
-Index ..... 353
-
 # Chapter 1 
 
 ## Introduction and Some Preliminary Considerations
@@ -417,7 +39,7 @@ Nature facilitates for nurturing these three basic qualities.
 - The internal sex organs (gonads) produce gametes that differ in each sex.
 
 
-## Gonads and Gametes
+### Gonads and Gametes
 
 - Gonads are the paired sex glands that are responsible for the production of gametes or sex cells that carry out the special function of reproduction. The male sex cells (spermatozoa) are produced in the male gonads (testes) while the female sex cells (ova) are produced in female gonads (ovaries).
 - The formation of spermatozoa in testis is called spermatogenesis, while the formation of ova in the ovary is called oogenesis. The two are collectively referred to as gametogenesis.
@@ -430,7 +52,7 @@ Nature facilitates for nurturing these three basic qualities.
 Development is a process where someone or something grows or changes and becomes more advanced. Human development is a continuous process that does not stop at
 birth. It continues after birth for increase in the size of the body, eruption of teeth, etc. Development before birth is called prenatal development, and that after birth is called postnatal development. Each period is further subdivided into several stages (Fig. 1.1).
 
-## Prenatal Development
+### Prenatal Development
 
 There are three stages in prenatal development. They are:
 
@@ -438,7 +60,7 @@ There are three stages in prenatal development. They are:
 2. Embryonic period
 3. Fetal period.
 
-## Preimplantation/Pre-embryonic Period
+### Preimplantation/Pre-embryonic Period
 
 It extends from fusion of male and female gametes to form single-celled zygote to formation of primitive germ layers of developing organism. It includes 1st and 2nd weeks of intrauterine development. The following morphogenetic events take place during this period.
 
@@ -447,7 +69,7 @@ It extends from fusion of male and female gametes to form single-celled zygote t
 3. Transportation of cleaving zygote, i.e. morula along the fallopian tube toward the uterus.
 4. Blastocyst: Structural and functional specialization and reorganization of cells (blastomeres) of cleaving zygote that becomes blastocyst.
 5. Implantation: Process of attachment of blastocyst to the uterine endometrium is called implantation.
-![img-3.jpeg](img-3.jpeg.jpg)
+![img-3.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-3.jpeg.jpg)
 
 Fig. 1.1: Ontogeny/Life cycle of a human
 
@@ -455,7 +77,7 @@ Fig. 1.1: Ontogeny/Life cycle of a human
 7. Differentiation of embryoblast-to form the primitive two layered (bilaminar) germ disc having ectoderm and endoderm.
 8. Differentiation of trophoblast into cytotrophoblast and syncytiotrophoblast.
 
-## Embryonic Period
+### Embryonic Period
 
 It extends from 3rd week of intrauterine life to 8th week of intrauterine life. The following morphogenetic events take place during this period.
 
@@ -463,14 +85,14 @@ It extends from 3rd week of intrauterine life to 8th week of intrauterine life. 
 2. Early organogenesis: Formation of primordia of various organs like lungs, heart, liver, etc.
 3. Formation of extraembryonic supportive organs and membranes: Placenta, umbilical cord, amnion, allantois.
 
-## Fetal Period
+### Fetal Period
 
 It extends from 9th week to 9th month. This period includes the following:
 
 1. Growth of fetus in all dimensions
 2. Specialization of various body structures.
 
-## Postnatal Period of Development
+### Postnatal Period of Development
 
 It extends from birth of an individual to adulthood. The various stages in postnatal development are as follows:
 
@@ -524,7 +146,7 @@ Stem cell therapy: Cells forming tissues in the embryo are called stem cells. Th
 
 Growth and differentiation are the two basic processes involved in the conversion of a single-celled zygote into a multicellular human newborn.
 
-## Growth
+### Growth
 
 It is a quantitative change, i.e. Increase in the bulk. Growth of cells is either by synthesizing new protoplasm in the interphase (G1, S and G2) of cell cycle or reproduction of individual cells of body by mitotic cell divisions. There are four types of growth. They are as follows:
 
@@ -535,7 +157,7 @@ ratio without alterations in structural genes. If the ratio is altered, it makes
 3. Accretionary: Increased accumulation of intercellular substance resulting in overall growth of structure. This causes increase in length. Example-increase in length of bone and cartilage.
 4. Appositional: Addition of new layers on previously formed ones. It takes place at the edges, is seen in rigid structures and is responsible for contours. Exampleincrease in width of bone by addition of lamellae.
 
-## Differentiation
+### Differentiation
 
 It is a qualitative change in structure with an assigned function. Different types of differentiation are as follows:
 
@@ -545,7 +167,7 @@ It is a qualitative change in structure with an assigned function. Different typ
 - Functional differentiation: Hemodynamic changes in blood vessels.
 
 
-## Organizer
+### Organizer
 
 Any part of the embryo which exerts a morphogenetic stimulus on an adjacent part or parts. There are three types of organizers:
 
@@ -553,7 +175,7 @@ Any part of the embryo which exerts a morphogenetic stimulus on an adjacent part
 2. Secondary organizer: Example-notochord acts as a secondary organizer in stimulating the development of brain and spinal cord.
 3. Tertiary organizer: Example-neural tube is the tertiary organizer that induces segmentation of paraxial mesoderm into somites.
 
-## Stem Cells
+### Stem Cells
 
 - These are undifferentiated cells that are capable of giving rise to more number of cells of same type by replication from which some other kinds of cells arise by differentiation (Fig. 1.2).
 - There are two types of stem cells: (1) the embryonic and (2) adult/somatic. Embryonic stem cells are present during embryonic development. Adult stem cells are formed during embryonic development that are tissue-specific and remain so throughout the life of an individual.
@@ -566,16 +188,16 @@ Any part of the embryo which exerts a morphogenetic stimulus on an adjacent part
 - Multipotent: They can develop into more than one cell type, but are more limited than pluripotent cells. Example-adult stem cells (mesenchymal cells), cord blood stem cells and hematopoietic cells.
 
 
-## Clinical correlation
+### Clinical correlation
 
-## Process of differentiation
+### Process of differentiation
 
 - For understanding the various events that lead to the formation of an embryo or fetus knowledge of developmental processes of growth and differentiation are important. It provides explanation for how an entire individual is produced from a single cell the zygote.
 - The cells resulting from the division of zygote are totipotent and are capable of forming an embryo and a new adult. Gradually these cells lose their totipotency and are converted into specialized cells that form various organs like liver, heart, brain, etc. by the process of differentiation. With continuous division, the specialization of embryonic cells gets restricted and is called determination.
 - The nucleus of a cell contains copies of genetic material (genes) for the synthesis of proteins. During the process of differentiation either the cell will form new proteins or lose its ability to form proteins. Differentiation of cells regulates the expression of genes.
 
 
-## Stem cell therapy
+### Stem cell therapy
 
 - Regeneration of tissues and organs: Example-use of stem cells underneath the skin for skin grafting in burns cases.
 - Treatment of cardiovascular and neurological diseases: Regeneration of blood vessels. Use of embryonic stem cells in treating Alzheimer's and Parkinson's diseases.
@@ -584,7 +206,7 @@ Any part of the embryo which exerts a morphogenetic stimulus on an adjacent part
 - Oligopotent: It can develop into cells of one category only. Example-vascular stem cells that form endothelium and smooth muscle; lymphoid or myeloid stem cells that form blood cells.
 - Unipotent: It can develop into only one type of cell. Example-liver cell, muscle cell.
 
-![img-4.jpeg](img-4.jpeg.jpg)
+![img-4.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-4.jpeg.jpg)
 
 Fig. 1.2: Classification of stem cells
 
@@ -598,7 +220,7 @@ TABLE 1.1: Classification of different types of stem cells
 | Oligopotent | Only one category of cells | Vascular stem cells |
 | Unipotent | Only one type of cells | Liver cells |
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Name different types of growth with examples.
 2. What is differentiation? Name the different types of differentiation.
@@ -654,17 +276,17 @@ to offspring at the time of fertilization. Some of the characters/traits are dom
 To understand genetic processes, we have to first know some facts about DNA structure.
 
 
-## Basic Structure of DNA
+### Basic Structure of DNA
 
 - Each of the 100 trillion cells in our body except the red blood cells contains the genetic information (blueprint) of the individual (entire human genome). It is the DNA that contains the entire genetic code for almost every organism and provides template for protein synthesis. Watson and Crick 1953 described the structure of DNA. DNA in a chromosome is in the form of very fine fibers. Each fiber consists of two strands that are twisted spirally to form what is called a double helix resembling a ladder (Fig. 2.1).
 - The two strands are linked to each other at regular intervals. Each strand of the DNA fiber consists of a chain of nucleotides. Each nucleotide consists of a sugar, i.e. deoxyribose, a molecule of phosphate and a base (Fig. 2.2). The phosphate of one nucleotide is linked to the sugar of the next nucleotide.
 - The deoxyribose and phosphate molecules are always the same and provide for the structure (side of the ladder). The only difference between individuals is the order and arrangement of the four bases (rungs of the ladder). The base that is attached to the sugar molecule may be adenine, guanine, cytosine or thymine.
 - The two strands of a DNA fiber are joined together by the linkage of a base on one strand with a base on the opposite strand (Fig. 2.2). This linkage is peculiar in that adenine on one strand is always linked to thymine on the other strand, while cytosine is always linked to guanine. Thus, the two strands are complementary and the arrangement of bases on one strand can be predicted
-![img-5.jpeg](img-5.jpeg.jpg)
+![img-5.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-5.jpeg.jpg)
 
 Fig. 2.1: DNA double helix
 
-![img-6.jpeg](img-6.jpeg.jpg)
+![img-6.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-6.jpeg.jpg)
 
 Fig. 2.2: Linkage of two chains of nucleotides to form part of a DNA molecule
 from the other. The order in which these four bases are arranged along the length of a strand of DNA determines the nature of the protein that can be synthesized under its influence.
@@ -672,7 +294,7 @@ from the other. The order in which these four bases are arranged along the lengt
 - Every protein is made up of a series of amino acids; the nature of the protein depending upon the amino acids present, and the sequence in which they are arranged. Amino acids may be obtained from food or may be synthesized within the cell. Under the influence of DNA, these amino acids are linked together in a particular sequence to form proteins.
 
 
-## Ribonucleic Acid
+### Ribonucleic Acid
 
 In addition to DNA, cells contain another important nucleic acid called ribonucleic acid (RNA). The structure of a molecule of RNA corresponds fairly closely to that of one strand of a DNA molecule, with the following important differences.
 
@@ -681,7 +303,7 @@ In addition to DNA, cells contain another important nucleic acid called ribonucl
 
 Ribonucleic acid is present both in the nucleus and in the cytoplasm of a cell. It is present in three main forms, namely messenger RNA (mRNA), transfer RNA (tRNA) and ribosomal RNA. Messenger RNA acts as an intermediary between the DNA of the chromosome and the amino acids present in the cytoplasm and play a vital role in the synthesis of proteins from amino acids.
 
-## Synthesis of Protein
+### Synthesis of Protein
 
 - A protein is made up of amino acids that are linked together in a definite sequence. This sequence is determined by the order in which the bases are arranged in a strand of DNA.
 - Each amino acid is represented in the DNA molecule by a sequence of three bases (triplet code).
@@ -698,7 +320,7 @@ Ribonucleic acid is present both in the nucleus and in the cytoplasm of a cell. 
 The flow of information from DNA to RNA and finally to protein has been described as the "central dogma of molecular biology".
 
 
-## Control of Development of Embryo
+### Control of Development of Embryo
 
 - Certain regions of the embryo have the ability to influence the differentiation of neighboring regions. For example, the influence exerted by the optic vesicle on the overlying surface ectoderm to differentiate into lens vesicle. If the optic vesicle is removed, the lens vesicle fails to form. Conversely, if the optic vesicle is transplanted elsewhere (e.g. under the skin of abdomen) the overlying skin there forms the lens vesicle. This experiment shows that the optic vesicle induces the differentiation of lens vesicle. The influence exerted by an area (optic vesicle) is called induction whereas the area exerting induction is called organizer. In interactions between tissues, one is inductor and the other is responder. Capacity to respond to the inductor is called competence. The factors that influence the competence to respond are called competence factors.
 - Many inductive interactions are between epithelium and mesenchyme, i.e. epithelial mesenchymal interactions. For example, development of liver and pancreas due to interaction between endoderm of gut and adjacent mesoderm and endoderm of ureteric bud and metanephric blastema of mesodermal origin to form nephron. The interaction between optic vesicle (neuroectodermal derivative) and lens vesicle (surface ectodermal derivative) is an example for epithelial to epithelial interaction.
@@ -709,14 +331,14 @@ The flow of information from DNA to RNA and finally to protein has been describe
 - A study of controlling mechanisms can be termed as "Genetic control of development" or "Molecular control of development".
 
 
-## Molecular (Genetic) Control of Growth, Differentiation and Development
+### Molecular (Genetic) Control of Growth, Differentiation and Development
 
 - Several genes and gene families play important roles in the development of embryo. Most of these genes produce transcription factors that control transcription of RNA.
 - Transcription factors play an important role in gene expression as they can switch genes on and off by activating or repressing them.
 - Many transcription factors control other genes, which regulate fundamental embryological processes of induction, segmentation, migration, differentiation and apoptosis (programmed cell death). These fundamental differentiation factors are mediated by growth and differentiation factors, growth factor receptors and various cytoplasmic proteins.
 
 
-## Components Required for Expression of a Gene
+### Components Required for Expression of a Gene
 
 - Several components are required for gene expression. These are:
 
@@ -748,14 +370,14 @@ TABLE 2.1: Growth and differentiation factors
 
 ## CHROMOSOMES
 
-## Haploid and Diploid Chromosomes
+### Haploid and Diploid Chromosomes
 
 - The number of chromosomes in each cell is fixed for a given species and in human beings, it is 46 . This is referred to as the diploid (or double) number.
 - However, in spermatozoa and ova, the number of chromosomes is only half the diploid number, i.e. 23. This is called the haploid (or half) number.
 - After fertilization, the resulting zygote has 23 chromosomes from the sperm (or father), and 23 from the ovum (or mother). The diploid number is thus restored.
 
 
-## Autosomes and Sex Chromosomes
+### Autosomes and Sex Chromosomes
 
 - The 46 chromosomes in each cell can be divided into 44 autosomes and 2 sex chromosomes. The sex chromosomes may be of two kinds, X or Y .
 - In a male, there are 44 autosomes, one X-chromosome and one Y-chromosome; while in a woman, there are 44 autosomes and two X-chromosomes in each cell (Fig. 2.3).
@@ -765,21 +387,21 @@ TABLE 2.1: Growth and differentiation factors
 To understand the structure of the gametes and to study how they are formed, it is necessary to first review some facts regarding chromosomes and cell division.
 
 
-## Chromosome Structure
+### Chromosome Structure
 
 In a resting cell, chromosomes are not visible under a light microscope, as their chromatin material is highly dispersed. However, during cell division, the chromatin network in the nucleus becomes condensed into a number of chromosomes. The appearance of a typical chromosome is illustrated in Figure 2.4.
 
 It is made up of two rod-shaped structures or chromatids placed more or less parallel to each other. The chromatids are united to each other at a light staining area called
-![img-7.jpeg](img-7.jpeg.jpg)
+![img-7.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-7.jpeg.jpg)
 
 Fig. 2.3: Number of chromosomes in the somatic cell of a man and a woman
-![img-8.jpeg](img-8.jpeg.jpg)
+![img-8.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-8.jpeg.jpg)
 
 Fig. 2.4: Diagram to show the parts of a typical chromosome
 
 the centromere (or kinetochore). Each chromatid has two arms, one on either side of the centromere. Individual chromosomes differ from one another in total length, in the relative length of the two arms and in various other characteristics; these differences enable us to identify each chromosome individually. Classification of chromosomes in this way is called karyotyping. Karyotyping makes it possible for us to detect abnormalities in chromosome number or in individual chromosomes.
 
-## Significance of Chromosomes
+### Significance of Chromosomes
 
 The entire human body develops from the fertilized ovum. It is, therefore, obvious that the fertilized ovum contains all the information necessary for formation of the numerous tissues and organs of the body, and for their orderly assembly and function. Each cell of the body inherits from the fertilized ovum, all the directions that are necessary for it to carry out its functions throughout life. This tremendous volume of information is stored within the chromosomes of each cell.
 
@@ -789,7 +411,7 @@ Traits (characters) of an individual are determined by genes carried on his (or 
 
 When the need arises, this information is used to direct the activities of the cell by synthesizing appropriate proteins. To understand how this becomes possible, we must consider the structure of DNA in some detail.
 
-## Duplication of Chromosomes
+### Duplication of Chromosomes
 
 One of the most remarkable properties of chromosomes is that they are able to duplicate themselves. Duplication of chromosomes involves the duplication (or replication) of DNA. This takes place as follows (Fig. 2.5):
 
@@ -800,14 +422,14 @@ One of the most remarkable properties of chromosomes is that they are able to du
 - It will be noted that each molecule has one strand that belonged to the original molecule and one strand that is new. It will also be noted that the two molecules formed are identical to the original molecule.
 
 
-## Structure of Fully Formed Chromosomes
+### Structure of Fully Formed Chromosomes
 
 - Each chromosome consists of two parallel rod-like elements that are called chromatids (Fig. 2.6).
 - The two chromatids are joined to each other at a narrow area that is light staining and is called the centromere (or kinetochore). In this region, the chromatin of each chromatid is most highly coiled and, therefore, appears to be thinnest. The chromatids appear to the "constricted" here and this region is called the primary constriction.
-![img-9.jpeg](img-9.jpeg.jpg)
+![img-9.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-9.jpeg.jpg)
 
 Fig. 2.5: Scheme to show how a DNA molecule is duplicated
-![img-10.jpeg](img-10.jpeg.jpg)
+![img-10.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-10.jpeg.jpg)
 
 Fig. 2.6: Diagram to show the terms applied to some parts of a typical chromosome
 
@@ -820,7 +442,7 @@ Fig. 2.6: Diagram to show the terms applied to some parts of a typical chromosom
 
 - Differences in the total length of chromosomes and in the position of the centromere are important factors in distinguishing individual chromosomes from each other.
 - Additional help in identification is obtained by the presence in some chromosomes of secondary constrictions. Such constrictions lie near one end of the chromatid. The part of the chromatid "distal" to the constriction may appear to be a rounded body almost
-![img-11.jpeg](img-11.jpeg.jpg)
+![img-11.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-11.jpeg.jpg)
 
 Fig. 2.7: Nomenclature used for different chromosomes based on differences in lengths of the arms of each chromatid
 separate from the rest of the chromatid; such regions are called satellite bodies.
@@ -830,7 +452,7 @@ separate from the rest of the chromatid; such regions are called satellite bodie
 - Chromosomes are distinguishable only during mitosis. In the interphase (between successive mitoses), the chromosomes elongate and assume the form of long threads. These threads are called chromonemata (singular = chromonema).
 
 
-## Karyotyping
+### Karyotyping
 
 - It is the procedure by which chromosomes can be mapped individually in an individual by applying the criteria described above.
 - For this purpose, a sample of blood from the individual is put into a suitable medium in which lymphocytes can multiply. After a few hours, a drug (colchicine, colcemid) that arrests cell division at a stage when chromosomes are most distinct is added to the medium.
@@ -843,7 +465,7 @@ separate from the rest of the chromatid; such regions are called satellite bodie
 According to Denver system of classification, the chromosomes including sex chromosomes are arranged into seven groups based on their length, position of centromere and presence of satellite bodies as shown in Table 2.2. Karyotypes of a normal male and a female are shown in Figures 2.8 and 2.9.
 
 
-## Sex Chromatin
+### Sex Chromatin
 
 - Small, dark-staining, condensed mass of inactivated X-chromosome within the nucleus of nondividing cell, i.e. during interphase.
 - Usually located just inside the nuclear membrane of the interphase nucleus.
@@ -860,10 +482,10 @@ TABLE 2.2: Classification of chromosomes
 | F | 19,20 | Short, metacentric |
 | G | $21,22+$ Y-chromosome | Short, acrocentric <br> Satellite bodies + |
 
-![img-12.jpeg](img-12.jpeg.jpg)
+![img-12.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-12.jpeg.jpg)
 
 Fig. 2.8: Karyotype-Normal male
-![img-13.jpeg](img-13.jpeg.jpg)
+![img-13.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-13.jpeg.jpg)
 
 Fig. 2.9: Karyotype-Normal female
 
@@ -875,7 +497,7 @@ Fig. 2.9: Karyotype-Normal female
 2. Drumstick/Davidson body in polymorphonuclear leukocytes.
 Study of sex chromatin is a relatively simple diagnostic test for certain genetic abnormalities.
 
-## Barr Body (Fig. 2.10A)
+### Barr Body (Fig. 2.10A)
 
 - Barr bodies are most commonly situated at the periphery of the nucleus.
 - Count: Sex differences: males 1-2\%; females 20-80\%.
@@ -885,7 +507,7 @@ Study of sex chromatin is a relatively simple diagnostic test for certain geneti
 - Maximum no. of Barr bodies in diploid cells $=$ No. of X -chromosomes -1 , in tetraploids, it is two less than the no. of X-chromosomes, and in octaploids, it is four less than the no. of X-chromosomes. Patients with 4X-chromosomes have three Barr bodies.
 
 
-## Drumstick (Davidson Body) (Fig. 2.10B)
+### Drumstick (Davidson Body) (Fig. 2.10B)
 
 - Appears as a deeply stained body attached to the nucleus of the polymorphonuclear leukocytes.
 - Appendage is attached to a lobe of nucleus by a filament of variable length and thickness.
@@ -895,15 +517,15 @@ Study of sex chromatin is a relatively simple diagnostic test for certain geneti
 - It is a highly condensed X chromosome which, in the presence of another X chromosome, may be extruded from the main body of the nucleus of polymorphonuclear leukocytes.
 
 
-## Chromosomal Abnormalities
+### Chromosomal Abnormalities
 
 Chromosomal abnormalities are classified broadly into numerical and structural. In each, those involving autosomes and those involving sex chromosomes are included (Tables 2.3 and 2.4).
 
-## Allele
+### Allele
 
 A normal (somatic) cell has two variants (alleles) for a trait/character. A gamete (sperm, egg) contains one allele,
 
-![img-14.jpeg](img-14.jpeg.jpg)
+![img-14.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-14.jpeg.jpg)
 
 Figs 2.10A and B: Sex chromatin: (A) Barr body in buccal smear; (B) Drumstick (Davidson body) in neutrophil
 
@@ -919,7 +541,7 @@ TABLE 2.3: Structural abnormalities of chromosomes
 | Ring chromosome | Chromosome is deleted at both ends Deleted sticky ends adhere to each other in the form of a ring | Clinical manifestations depend on deletion of specific genes |
 | Translocation | Exchange of segments between nonhomologous chromosomes | - May not always produce abnormal phenotype <br> - But can lead to formation of unbalanced gametes <br> - Carries high risk of abnormal progeny |
 
-randomly chosen from the two somatic alleles. For example, if you have one allele for brown eyes (represented as B) and one for blue eyes (represented as b), somatic cells have
+randomly chosen from the two somatic alleles. For example, if you have one allele for brown eyes (represented as B) and one for blue eyes (represented as b), somatic cells have alleles for both (Bb) and each gamete will carry one of it (B or b) chosen randomly.
 
 TABLE 2.4: Numerical abnormalities of chromosomes
 
@@ -931,11 +553,9 @@ TABLE 2.4: Numerical abnormalities of chromosomes
 | Turner's syndrome | 45, XO | Sex chromosomal |
 | Klinefelter's syndrome | 47, XXY | Sex chromosomal |
 
-alleles for both (Bb) and each gamete will carry one of it (B or b) chosen randomly.
-
 If the two alleles are different (heterozygous, e.g. Bb), the trait associated with only one of these will be visible (dominant) while the other will be hidden (recessive). For example, B is dominant, b is recessive. If two alleles are same (dominant/recessive) it is homozygous (e.g. BB/bb).
 
-## Punnett Square
+### Punnett Square
 
 - It is a diagram used to predict the result of a genetic cross (Fig. 2.11).
 - Used to determine the probability of an offspring having a particular genotype.
@@ -945,11 +565,11 @@ If the two alleles are different (heterozygous, e.g. Bb), the trait associated w
 Genotype and phenotype for brown and blue eyes have been shown in Table 2.5.
 
 
-## Symbols Used for Chromosomal Nomenclature
+### Symbols Used for Chromosomal Nomenclature
 
 Symbols used in karyotype have been shown in Table 2.6.
 
-![img-15.jpeg](img-15.jpeg.jpg)
+![img-15.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-15.jpeg.jpg)
 
 Fig. 2.11: Punnett square diagram
 TABLE 2.5: Genotype and phenotype for brown and blue eyes
@@ -979,7 +599,7 @@ TABLE 2.6: Symbols used in karyotype
 
 The pattern of inheritance of genetic disorders facilitates the diagnosis of the disorder, calculation of risk of the disorder in the present and future offspring and for counseling the parents. By obtaining family history, a pedigree chart is prepared to understand the pattern of occurrence (inheritance) of the disease in the families. By drawing a Punnett square the percentage risk can be interpreted.
 
-## Pedigree Chart
+### Pedigree Chart
 
 It is a pictorial representation of generations of a family showing the information of family members and their relationship to one another, marriages among cousins (consanguineous) including details of live births, stillbirths and abortions, etc. A pedigree chart shows genetic connections among individuals using standardized
 symbols. For drawing pedigree charts certain standard symbols are used (Fig. 2.12). Knowledge of probability and Mendelian patterns are required for understanding the basis for a trait. Conclusions are most accurate if they are drawn using large number of pedigrees (generations). A sample pedigree chart is presented in Figure 2.13.
@@ -993,18 +613,18 @@ According to the mode of transmission the genetic disorders can be classified as
 5. Y-linked inheritance
 6. Multifactorial inheritance.
 
-## Autosomal Dominant Inheritance (Fig. 2.14)
+### Autosomal Dominant Inheritance (Fig. 2.14)
 
 - The mode of transmission is vertical. An affected person has an affected parent.
 - There is $50 \%$ of chance of dominant trait being transmitted to offsprings.
 - Both males and females are equally affected.
-![img-16.jpeg](img-16.jpeg.jpg)
+![img-16.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-16.jpeg.jpg)
 
 Fig. 2.12: Symbols used in pedigree chart
-![img-17.jpeg](img-17.jpeg.jpg)
+![img-17.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-17.jpeg.jpg)
 
 Fig. 2.13: Sample pedigree chart
-![img-18.jpeg](img-18.jpeg.jpg)
+![img-18.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-18.jpeg.jpg)
 
 Fig. 2.14: Pedigree chart of autosomal dominant inheritance
 
@@ -1020,7 +640,7 @@ Fig. 2.14: Pedigree chart of autosomal dominant inheritance
 - Osteogenesis imperfecta.
 
 
-## Autosomal Recessive Inheritance (Fig. 2.15)
+### Autosomal Recessive Inheritance (Fig. 2.15)
 
 - Horizontal transmission. The trait appears in sibs and parents are normal.
 - History of consanguineous marriage. The parents are blood related. Both the couple are carriers of abnormal gene.
@@ -1033,7 +653,7 @@ Fig. 2.14: Pedigree chart of autosomal dominant inheritance
 - Hemoglobinopathies-sickle-cell anemia, thalassemia.
 
 
-## X-linked Dominant Inheritance (Fig. 2.16A)
+### X-linked Dominant Inheritance (Fig. 2.16A)
 
 - Trait is more frequent in females than in males.
 - Affected male transmit the trait to all his daughters not to his sons.
@@ -1044,7 +664,7 @@ Fig. 2.14: Pedigree chart of autosomal dominant inheritance
 - Xg blood groups.
 
 
-## X-linked Recessive Inheritance (Fig. 2.16B)
+### X-linked Recessive Inheritance (Fig. 2.16B)
 
 - Females (XX) are the carriers. One X chromosome contains abnormal gene. Allelic gene on other X chromosome is normal.
 - Males are the victims. When abnormal gene involves nonhomologous part of single X chromosome of male (XY) disease is expressed. Defective gene has no corresponding allele in Y chromosome to counteract.
@@ -1056,14 +676,14 @@ Fig. 2.14: Pedigree chart of autosomal dominant inheritance
 - Duchenne muscular dystrophy.
 
 
-## Y-linked Inheritance (Fig. 2.15C)
+### Y-linked Inheritance (Fig. 2.15C)
 
 - Y-linked traits are present in all male descendants of affected male.
 - The genes that are carried on the Y-chromosome are called holandric genes.
-![img-19.jpeg](img-19.jpeg.jpg)
+![img-19.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-19.jpeg.jpg)
 
 Fig. 2.15: Pedigree chart of autosomal recessive inheritance
-![img-20.jpeg](img-20.jpeg.jpg)
+![img-20.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-20.jpeg.jpg)
 
 Figs 2.16A to C: Pedigree chart of sex-linked inheritance. (A) X-linked dominant inheritance; (B) X-linked recessive inheritance; (C) Y-linked inheritance
 
@@ -1072,7 +692,7 @@ Figs 2.16A to C: Pedigree chart of sex-linked inheritance. (A) X-linked dominant
 - Hairy pinna.
 
 
-## Multifactorial Inheritance
+### Multifactorial Inheritance
 
 - It includes genetic and environmental factors like:
 - Drugs-thalidomide, anticancer drugs, antiepileptic drugs and antimalarial drugs.
@@ -1094,7 +714,7 @@ Figs 2.16A to C: Pedigree chart of sex-linked inheritance. (A) X-linked dominant
 - the genetic information in the various gametes produced is not identical.
 
 
-## Mitosis
+### Mitosis
 
 Many cells of the body have a limited span of functional activity, at the end of which they undergo division into two daughter cells. The daughter cells in turn have their own span of activity, followed by another division. The period during which the cell is actively dividing is the phase of
 mitosis. The period between two successive divisions is called the interphase.
@@ -1106,15 +726,15 @@ Metaphase: With the formation of the spindle, chromosomes move to a position mid
 Anaphase: The centromere of each chromosome splits longitudinally into two so that the chromatids now become independent chromosomes. At this stage, the cell can be said to contain 46 pairs of chromosomes. One chromosome of each such pair now moves along the spindle to either pole of the cell (Fig. 2.17F).
 Telophase: In this phase, the two daughter nuclei are formed by appearance of nuclear membranes. Chromosomes gradually elongate and become indistinct. Nucleoli reappear. The centriole is duplicated at this stage or in early interphase (Fig. 2.17G). The division of the nucleus is accompanied by the division of the cytoplasm. In this process, the organelles are presumably duplicated and each daughter cell comes to have a full complement of them.
 
-![img-21.jpeg](img-21.jpeg.jpg)
+![img-21.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-21.jpeg.jpg)
 
 Figs 2.17A to G: Scheme to show the main steps of mitosis
 
-## Meiosis
+### Meiosis
 
 The meiosis consists of two successive divisions called the first and second meiotic divisions. During the interphase preceding the first division, duplication of the DNA content of chromosomes takes place as in mitosis. As a result, another chromatid identical to the original one is formed. Thus, each chromosome is now made up of two chromatids.
 
-## First Meiotic Division
+### First Meiotic Division
 
 Prophase: The prophase of the first meiotic division is prolonged and is usually divided into a number of stages as follows:
 Leptotene: The chromosomes become visible (as in mitosis). Although each chromosome consists of two chromatids, these cannot be distinguished at this stage (Fig. 2.18A).
@@ -1129,23 +749,23 @@ Anaphase: The anaphase differs from that in mitosis in that there is no splittin
 
 Telophase: The anaphase is followed by the telophase in which two daughter nuclei are formed. The division of the nucleus is followed by division of the cytoplasm.
 
-## Second Meiotic Division
+### Second Meiotic Division
 
 The first meiotic division is followed by a short interphase. This differs from the usual interphase in that there is no duplication of DNA. Such duplication is unnecessary as chromosomes of cells resulting from the first division already possess two chromatids each (Fig. 2.19C).
 
 The second meiotic division is similar to mitosis. However, because of the crossing over that has occurred during the first division, the daughter cells are not identical in genetic content (Fig. 2.20).
 
-## Significance of Meiosis
+### Significance of Meiosis
 
 - In this kind of cell division, there is reduction of the number of chromosomes from diploid to haploid. At the time of fertilization, the diploid number (46) is restored.
-![img-22.jpeg](img-22.jpeg.jpg)
+![img-22.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-22.jpeg.jpg)
 
 Figs 2.18A to E: Stages in the prophase of the first meiotic division
-![img-23.jpeg](img-23.jpeg.jpg)
+![img-23.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-23.jpeg.jpg)
 
 Figs 2.19A to C: (A) Metaphase; (B) Anaphase; (C) Telophase of the first meiotic division
 
-![img-24.jpeg](img-24.jpeg.jpg)
+![img-24.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-24.jpeg.jpg)
 
 Fig. 2.20: Daughter cells resulting from the second meiotic division. These are not alike because of the crossing-over during first meiotic division
 
@@ -1157,9 +777,9 @@ This provides consistency of chromosome number from generation to generation.
 not surprising that no two persons (except identical twins) are alike.
 
 
-## Clinical correlation
+### Clinical correlation
 
-## Nondisjunction
+### Nondisjunction
 
 After splitting of centromere one or more chromosomes fail to migrate properly due to abnormal function of achromatic spindle. This results in one daughter with trisomy and one with monosomy.
 
@@ -1171,7 +791,7 @@ After splitting of centromere one or more chromosomes fail to migrate properly d
 - Meiosis II: 2 normal monosomic + 1 abnormal disomic + 1 abnormal nullisomic gametes (Fig. 3.26).
 
 
-## Trisomy
+### Trisomy
 
 - During gametogenesis:
 - Meiosis I: The 2 chromosomes of a pair go to same pole
@@ -1181,7 +801,7 @@ After splitting of centromere one or more chromosomes fail to migrate properly d
 - Abnormal gamete + Normal gamete $=$ Trisomy, i.e. 24 chromosomes +23 chromosomes $=47$ chromosomes in zygote.
 
 
-## Monosomy
+### Monosomy
 
 - During gametogenesis:
 - Meiosis I: The 2 chromosomes of a pair go to one gamete
@@ -1191,7 +811,7 @@ After splitting of centromere one or more chromosomes fail to migrate properly d
 - Abnormal gamete + Normal gamete $=$ Monosomy, i.e. 22 chromosomes +23 chromosomes $=45$ chromosomes in zygote.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Write short notes on sex-chromatin.
 2. Write short notes on allele.
@@ -1241,7 +861,7 @@ It consists of external and internal genital organs. External genital organs inc
 
 Flowchart 3.1: Stages of spermatogenesis
 Spermatogenesis
-![img-25.jpeg](img-25.jpeg.jpg)
+![img-25.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-25.jpeg.jpg)
 
 Internal genital organs include the gonads, the duct system and accessory sex organs. Male organs of reproduction (Fig. 3.1) and their functions are:
 
@@ -1252,7 +872,7 @@ Internal genital organs include the gonads, the duct system and accessory sex or
 - Scrotum: The testis is located in the scrotum. It protects the testis and maintains the temperature suitable for spermatogenesis.
 
 
-## Testis
+### Testis
 
 - Testis is oval in shape and is suspended in the scrotal sac by spermatic cord. It is obliquely oriented in scrotal sac. Its upper end is connected to head of epididymis by efferent ductules and is overlapped by it. Lower end is connected to tail of epididymis by areolar tissue. The lateral surface is overlapped by body of epididymis in its posterior part.
 - Testis is covered by three covering from outside inwards. They are tunica vaginalis (serous layer), tunica albuginea (fibrous capsule) and tunica vasculosa (vascular membrane). The tunica albuginea is thickened on the posterior aspect of the testis to form an incomplete partition called mediastinum testis. From the anterior surface of mediastinum number of septa extend into the substance of testis and divide it into 250-300 lobules (Fig. 3.2).
@@ -1260,10 +880,10 @@ Internal genital organs include the gonads, the duct system and accessory sex or
 - Seminiferous tubule: Seminiferous tubules are structural and functional units of testis. Each seminiferous tubule when uncoiled is about $70-80 \mathrm{~cm}$ (2 feet) in length.
 
 Flowchart 3.2: Stages of oogenesis
-![img-26.jpeg](img-26.jpeg.jpg)
+![img-26.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-26.jpeg.jpg)
 
 Fig. 3.1: Male reproductive system
-![img-27.jpeg](img-27.jpeg.jpg)
+![img-27.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-27.jpeg.jpg)
 
 Fig. 3.2: Vertical section of testis, epididymis and vas deferens
 
@@ -1282,7 +902,7 @@ It consists of external and internal genital organs. External genital organs are
 
 - Gonads: Two in number and are known as ovaries (Plural)/ovary (singular). The ovaries produce female sex cells (oocytes) and secrete female hormones (estrogen and progesterone), inhibin and relaxin.
 - The uterine tube or oviduct transports the oocyte to uterus and is the seat of fertilization. These are a pair of ducts that convey sperms to reach an ovum, and transport secondary oocytes from ovary to uterine tube for fertilization and fertilized ovum from uterine tube to
-![img-28.jpeg](img-28.jpeg.jpg)
+![img-28.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-28.jpeg.jpg)
 
 Figs 3.3A and B: Cut-section of seminiferous tubule showing cells of spermatogenic lineage and Sertoli cells
 
@@ -1292,11 +912,11 @@ uterine cavity. The uterine tube presents two openings and four parts. The two o
 - Vagina is an intromittent organ that receives penis during copulation and is the site of release of sperms. It is the passage for child birth.
 
 
-## Ovaries
+### Ovaries
 
 - Ovaries are almond-shaped structures. They are intraperitoneal organ and dull gray in color. Before puberty, the surface is smooth. Afterwards due to repeated ovulations the surface becomes irregular. They are located one on either side of uterus below and behind the corresponding uterine tube. They are attached to the posterior layer of broad ligament (Fig. 3.4).
 - Each ovary presents two ends, two borders and two surfaces. The tubal end is close to the fimbriae of uterine tube and is attached along with uterine tube to the lateral pelvic wall by suspensory ligament of ovary. The uterine end is connected to the uterus by ligament of ovary.
-![img-29.jpeg](img-29.jpeg.jpg)
+![img-29.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-29.jpeg.jpg)
 
 Fig. 3.4: Female reproductive system
 
@@ -1309,11 +929,11 @@ Fig. 3.4: Female reproductive system
 - The morphology and morphometry of ovarian follicles varies at different periods of life—prenatal, prepubertal, reproductive and menopausal.
 
 
-## Uterus
+### Uterus
 
 - Uterus is a hollow, pear-shaped muscular organ where the embryo/fetus develops.
 - It has three parts: (1) the fundus, (2) body and (3) cervix. The dome shaped upper part above the openings of
-![img-30.jpeg](img-30.jpeg.jpg)
+![img-30.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-30.jpeg.jpg)
 
 Fig. 3.5: Cut-section of ovary showing various stages of development of ovarian follicles, ovulation and degenerating corpus luteum
 
@@ -1329,7 +949,7 @@ To understand the menstrual cycle it is necessary to know the structure of the u
 - The constituents of the endometrium are as follows (Fig. 3.7):
 - The epithelium lining the surface of the endometrium is columnar.
 - The stroma fills the interval between surface epithelium and myometrium. It contains numerous simple tubular glands (uterine glands) that secrete mucus.
-![img-31.jpeg](img-31.jpeg.jpg)
+![img-31.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-31.jpeg.jpg)
 
 Fig. 3.6: Layers in the wall of uterus and components of uterine endometrium that undergo changes during menstrual cycle
 
@@ -1349,10 +969,10 @@ TABLE 3.1: Myometrium-Direction of muscle fiber layers and functions
 The process of formation of gametes is called "gametogenesis". The gametes are derived from primordial germ cells/ primitive sex cells.
 
 - Primordial germ cells (PGC)/Primitive sex cells: Gametes are derived from PGC during 4th week of development. The PGC appear in the wall of yolk sac (Fig. 3.8) from which they migrate to the developing gonad from the coelomic epithelium and adjacent mesenchyme. The PGC undergo mitotic division during their migration resulting in increase in their number.
-![img-32.jpeg](img-32.jpeg.jpg)
+![img-32.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-32.jpeg.jpg)
 
 Fig. 3.7: Different strata of endometrium
-![img-33.jpeg](img-33.jpeg.jpg)
+![img-33.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-33.jpeg.jpg)
 
 Fig. 3.8: Migrating primordial germ cells at the caudal end of yolk sac
 
@@ -1388,7 +1008,7 @@ TABLE 3.2: Differences between spermatogenesis and oogenesis
 - The PGC undergo repeated mitotic divisions during their journey. The decision to develop into male sex cells (spermatogonia) and development of testis or female sex cells (oogonia) and ovary development depend on their own sex-chromosome constitution and on the sex determining region of Y (SRY) gene on the Y chromosome.
 
 
-## Spermatogenesis
+### Spermatogenesis
 
 - Definition: It is the process of maturation of male gametes in the wall of seminiferous tubules.
 - It involves a series of changes leading to the conversion of spermatogonia into spermatozoa.
@@ -1397,7 +1017,7 @@ TABLE 3.2: Differences between spermatogenesis and oogenesis
 - Stages: If we look at one of the seminiferous tubules under a microscope, we find that there are many cells of different sizes and shapes (Fig. 3.3B). Most of these represent stages in the formation of spermatozoa, but some (called Sertoli cells) have only a supporting function. The various cell-stages in spermatogenesis are spermatocytosis, meiosis and spermiogenesis. These stages can be described as follows (Figs 3.3, 3.9 to 3.11 and Flowchart 3.1).
 
 
-## Spermatocytosis (Figs 3.3, 3.9 and Flowchart 3.1)
+### Spermatocytosis (Figs 3.3, 3.9 and Flowchart 3.1)
 
 - It is the process of conversion of spermatognia to primary spermatocytes. It takes 16 days. It is by repeated mitotic divisions.
 - Formation of stem cells: The PGCs give rise to spermatogonial stem cells.
@@ -1405,18 +1025,18 @@ TABLE 3.2: Differences between spermatogenesis and oogenesis
 - Mitotic divisions: Type A spermatogonia $(44+\mathrm{X}+\mathrm{Y})$ undergo a limited number of mitotic divisions and form a clone of cells. The last division of cells become Type B spermatogonia. The Type A spermatogonia are dark and Type B are pale in color. Type A spermatogonia are reserve cells. The spermatogonia (Type B) (44 + $\mathrm{X}+\mathrm{Y}$ ) enlarge, or undergo mitosis, to form primary spermatocytes.
 
 
-## Meiotic Divisions (Figs 3.3, 3.9 and Flowchart 3.1)
+### Meiotic Divisions (Figs 3.3, 3.9 and Flowchart 3.1)
 
 - It is the process of conversion of primary spermatocytes to secondary spermatocytes and then spermatids. It takes 24 days.
 
 - The primary spermatocytes $(44+X+Y)$ now divide so that each of them forms two secondary spermatocytes. This is the first meiotic division: it reduces the number of chromosomes to half.
 - Each secondary spermatocyte has $22+X$ or $22+Y$ chromosomes. It divides to form two spermatids. This
-![img-34.jpeg](img-34.jpeg.jpg)
+![img-34.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-34.jpeg.jpg)
 
 Fig. 3.9: Stages in spermatogenesis. Note the number of chromosomes at each stage
 is the second meiotic division and this time there is no reduction in chromosome number. It is called equation meiosis. There occurs balancing of species specific chromosome number and DNA content by reduction and equation divisions.
 
-## Spermiogenesis (Figs 3.3, 3.9, 3.10 and Flowchart 3.1)
+### Spermiogenesis (Figs 3.3, 3.9, 3.10 and Flowchart 3.1)
 
 - It is the process of metamorphosis of spermatids to spermatozoa and takes 24 days.
 - The process by which a spermatid $(22+X / 22+Y)$ gradually changes its shape to become a spermatozoon is called spermiogenesis (or spermateleosis). It is the final stage in the maturation of spermatids into mature, motile spermatozoa.
@@ -1431,11 +1051,11 @@ is the second meiotic division and this time there is no reduction in chromosome
 - Nucleus: Condensation of nucleus and its movement to one pole forms the head.
 - Golgi apparatus: The Golgi apparatus is transformed into the acrosomic cap. Acrosomal cap covers twothird of nucleus.
 - Centrosome: The centriole divides into two parts that are at first close together. The proximal centriole
-![img-35.jpeg](img-35.jpeg.jpg)
+![img-35.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-35.jpeg.jpg)
 
 Fig. 3.10: Parts of a spermatozoon and their derivation
 
-![img-36.jpeg](img-36.jpeg.jpg)
+![img-36.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-36.jpeg.jpg)
 
 Figs 3.11A to F: Stages in spermiogenesis and parts of a spermatozoon
 becomes spherical and comes to lie in the neck. The axial filament appears to grow out of it. Distal centriole forms the distal end of the middle piece, i.e. annulus. Centrioles are concerned for movement.
@@ -1448,13 +1068,13 @@ becomes spherical and comes to lie in the neck. The axial filament appears to gr
 - Sperm-egg fusion.
 
 
-## Difference between Spermatogenesis and Spermiogenesis
+### Difference between Spermatogenesis and Spermiogenesis
 
 - Spermatogenesis is the complete process of formation of a spermatozoon from a spermatogonium. It includes the first and second meiotic divisions and spermiogenesis.
 - On the other hand, spermiogenesis is the process of transformation of a rounded spermatid into a spermatozoon.
 
 
-## Maturation and Capacitation of Spermatozoa
+### Maturation and Capacitation of Spermatozoa
 
 - When first formed in seminiferous tubules, spermatozoa are immature. They are nonmotile and incapable of fertilizing an ovum.
 - A current of fluid in seminiferous tubules carries spermatozoa from the testis to the epididymis. Here they are stored and undergo maturation.
@@ -1466,7 +1086,7 @@ becomes spherical and comes to lie in the neck. The axial filament appears to gr
 - Some enzymes help in digesting the zona pellucida and in penetration of the spermatozoa through it. Changes in the properties of the zona pellucida constitute the zona reaction.
 
 
-## Structure of a Mature Spermatozoon
+### Structure of a Mature Spermatozoon
 
 - A spermatozoon is a highly specialized, free swimming, actively motile cell. The spermatozoon has a head, a neck, a middle piece and a principal piece or tail
 
@@ -1475,14 +1095,14 @@ becomes spherical and comes to lie in the neck. The axial filament appears to gr
 - Head: The head of the human spermatozoon is piriform in shape and measures $4 \mu \mathrm{~m}$ in length. It is derived from the nucleus, which consists of 23 highly condensed chromosomes. The chromatin in the head of the spermatozoon is extremely condensed. This makes the head highly resistant to various physical stresses. The chemical basis for condensation is the replacement of histones by protamines. The head is covered by a cap-like structure called the acrosome (also called the "acrosomic cap" or "galea capitis"). The acrosome contains enzymes that help in penetration of the spermatozoon into the ovum during fertilization (see Chapter 4: Fertilization and Formation of Germ Layers).
 - Neck: The neck is narrow. It contains a funnel-shaped basal body and a spherical centriole. The basal body is also called the connecting piece because it helps to establish an intimate union between the head and the remainder of the spermatozoon (Fig. 3.10). The basal body is made up of nine segmented rod-like structures. On its proximal side (i.e. toward the head of the spermatozoon), the basal body has a convex articular surface which fits into a depression (implantation fossa) in the head.
 - Middle piece and principal piece: The axial filament begins just behind the centriole. It passes through the middle piece and most of the tail. At the point where the middle piece joins the tail, the axial filament passes through a ring-like structure called "the annulus". The part of the axial filament, which lies in the middle piece, is surrounded by a spiral sheath made up of mitochondria. The axial filament is really composed of several fibrils arranged as illustrated in Figure 3.12.
-![img-37.jpeg](img-37.jpeg.jpg)
+![img-37.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-37.jpeg.jpg)
 
 Fig. 3.12: Transverse section across the principal piece (tail) of a spermatozoon to show the arrangement of fibrils
 
 There is a pair of central fibrils, surrounded by nine pairs (doublets) arranged in a circle around the central pair. In addition to the doublets, the axial filament contains nine coarser petal-shaped fibrils, one such fibril lying just outside each doublet. The whole system of fibrils is kept in position by a series of coverings. Immediately outside the fibrils, there is a fibrous sheath. In the region of the middle piece, the fibrous sheath is surrounded by spirally arranged mitochondria.
 Finally, the entire spermatozoon is enclosed in a plasma membrane.
 
-## Oogenesis
+### Oogenesis
 
 - Definition: The process of maturation and differentiation of PGC to oogonia, primary oocytes, secondary oocytes and to mature ova in the female genital tract.
 - Location: Ovarian cortex.
@@ -1504,7 +1124,7 @@ Finally, the entire spermatozoon is enclosed in a plasma membrane.
 - Before 7th month: The oogonia continue to divide mitotically. The oogonia are surrounded by a layer of flat epithelial cells. Some of the oogonia enlarge to form primary oocytes.
 - 7th month to birth: Formation of primordial follicles (primary oocyte with its surrounding flat epithelial cells) and multiplication of primary oocytes to produce millions of germ cells occurs. Primary oocyte enters prophase I of meiosis I at that phase the meiosis is arrested by oocyte maturation inhibitor (OMI) factor.
 
-![img-38.jpeg](img-38.jpeg.jpg)
+![img-38.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-38.jpeg.jpg)
 
 Fig. 3.13: Stages in oogenesis. Compare each stage with the corresponding one in Figure 3.9
 
@@ -1521,7 +1141,7 @@ unequal daughter cells. The larger cell is called ovum. The smaller daughter cel
 - If fertilization does not occur, the secondary oocyte fails to complete the second meiotic division and degenerates about 24 hours after ovulation.
 
 
-## Reproductive Period
+### Reproductive Period
 
 In an individual, the formation of gametes takes place only during the reproductive period which begins at the age of puberty (10-14 years). In women, it ends between the ages of 45 years and 50 years, but in men it may continue till the age of 60 years or more.
 
@@ -1540,13 +1160,13 @@ In each menstrual cycle, 5-30 primary oocytes in primordial follicles start matu
 Definition: Cyclical change in ovaries during 28 day reproductive cycle, terminating in the release of single mature ovum (ovulation) under the influence of anterior pituitary gonadotrophic hormones [follicle stimulating hormone (FSH) and luteinizing hormones (LH)].
 Phases: It includes preovulatory, ovulatory and postovulatory phases.
 
-## Preovulatory Phase
+### Preovulatory Phase
 
 - In a 28-day reproductive cycle this extends from the 5th to 14th day, i.e. up to ovulation. This phase lasts for 8-10 days and may vary from 10-25 days depending on the length of reproductive cycle.
 - During this phase under the influence of FSH in earlier stages and both FSH and LH of anterior pituitary in later stages, 10-15 primordial follicles start maturation process known as folliculogenesis. But only one follicle matures fully while others undergo degeneration or atresia at different stages of development.
 
 
-## Folliculogenesis
+### Folliculogenesis
 
 Definition: It is the process of maturation of ovarian follicles. The various types of follicles that are formed during this process of maturation are primordial, primary, secondary, vesicular, tertiary and mature.
 
@@ -1558,10 +1178,10 @@ Definition: It is the process of maturation of ovarian follicles. The various ty
 - At birth approximately two lakh primary oocytes in primordial follicles are present in each ovary. From the time of birth to puberty there is degeneration of number of primary oocytes resulting in reduction in their number to 40,000 . Of these 40,000 that were present at puberty around 400-450 mature during the reproductive life of a female and release the ovum. The remaining primary oocytes undergo atresia or degeneration at different phases of maturation.
 - Primary follicles: The oocyte resumes and completes its first meiotic division, when it starts maturing after puberty, and is preparing for ovulation. From puberty to menopause, i.e. during the reproductive period of a female under the influence of pituitary gonadotrophic hormones-FSH and LH, several primordial follicles (10-50 numbers) start maturing in each month, to be converted to primary follicles.
 Each primary follicle consists of primary oocyte surrounded by a layer of cuboidal or low columnar follicular cells (Figs 3.5 and 3.15). The growing primary
-![img-39.jpeg](img-39.jpeg.jpg)
+![img-39.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-39.jpeg.jpg)
 
 Fig. 3.14: Primordial follicle
-![img-40.jpeg](img-40.jpeg.jpg)
+![img-40.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-40.jpeg.jpg)
 
 Fig. 3.15: Primary follicle
 
@@ -1570,20 +1190,20 @@ follicle forms a homogenous layer of glycoprotein in between follicular cells an
 - Secondary/Multilaminar follicle: The follicular cells undergo mitotic division and form several layers of follicular cells surrounding the primary oocyte forming a multi-layered stratum granulosum (Figs 3.5 and 3.16). The primary oocyte increases in size up to 40 microns. Its nucleus is large and vesicular. The follicular cells are now called as "granulosa cells". The primary oocyte receives its nutrition from the granulosa cells up to puberty.
 - Preantral follicle: Fluid-filled spaces appear between granulosa cells, and such follicle is known as "preantral follicle" (Figs 3.5 and 3.17). The fluid is secreted by granulosa cells.
 - Tertiary/Antral follicle: With the growth of the follicle, fluid-filled spaces between granulosa cells coalesce
-![img-41.jpeg](img-41.jpeg.jpg)
+![img-41.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-41.jpeg.jpg)
 
 Fig. 3.16: Secondary follicle
-![img-42.jpeg](img-42.jpeg.jpg)
+![img-42.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-42.jpeg.jpg)
 
 Fig. 3.17: Preantral follicle
 and form a bigger cavity known as "follicular antrum" pushing the primary oocyte with surrounding granulosa cells (Figs 3.5 and 3.18). The fluid that is filling the antrum is called liquor folliculi and is secreted by granulosa cells. Because of the proliferation of granulosa cells the size of the follicle increases.
 
 - Mature/Graafian follicle: Around 7th day of sexual cycle one of the tertiary follicles increases in size in response to FSH and LH and forms the largest mature follicle that is known as "Graafian follicle" (Figs 3.5 and 3.19). Remaining follicles degenerate and become atretic.
 - A fully mature Graafian follicle is about 3-5 mm in size. It reaches the periphery of the cortex and starts projecting on to the surface of the ovary. The follicular antrum is filled with fluid pushing the
-![img-43.jpeg](img-43.jpeg.jpg)
+![img-43.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-43.jpeg.jpg)
 
 Fig. 3.18: Tertiary/Antral follicle
-![img-44.jpeg](img-44.jpeg.jpg)
+![img-44.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-44.jpeg.jpg)
 
 Fig. 3.19: Mature graafian follicle
 
@@ -1596,13 +1216,13 @@ primary oocyte with a layer of covering cells to one side of the follicle.
 Hormonal control of ovarian cycle and uterine cycle are represented in Figures 3.22 and 3.23.
 
 
-## Ovulatory Phase
+### Ovulatory Phase
 
 The diploid (46 chromosomes) primary oocyte in the mature Graafian follicle completes its meiosis I, forming two cells of unequal size each with haploid number of chromosomes (23). The smaller cell is called first polar body. The larger cell is called secondary oocyte and at this stage the meiosis
 
 II begins but it is stopped in metaphase II. At this stage the mature follicle ruptures and releases the secondary oocyte.
 
-## Ovulation
+### Ovulation
 
 - The shedding of the ovum from the ovary is called ovulation. The ovarian follicle is at first very small compared to the thickness of the cortex of the ovary (Figs 3.5 and 3.20).
 - As it enlarges the mature Graafian follicle, becomes so big that it not only reaches the surface of the ovary, but also forms a bulging in this situation. Ultimately, the follicle ruptures and the ovum are shed from the ovary (Figs 3.5 and 3.20).
@@ -1611,7 +1231,7 @@ II begins but it is stopped in metaphase II. At this stage the mature follicle r
 - At ovulation the secondary oocyte is released from the surface of the ovary into the pelvic cavity together with first polar body and corona radiata cells (Figs 3.5, 3.20 and 3.21). The ovulated oocyte with its surrounding cells swims toward the fimbrial end of fallopian tube.
 - In the ampulla of fallopian tube several sperms surround the secondary oocyte with its enclosed carona radiata cells. One sperm penetrates the various barriers surrounding the secondary oocyte. This initiates resuming of meiosis II of secondary oocyte.
 - Stage of meiosis at ovulation: Completion of meiosis I resulting in secondary oocyte and the first polar body.
-![img-45.jpeg](img-45.jpeg.jpg)
+![img-45.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-45.jpeg.jpg)
 
 Figs 3.20A to D: Stages in the formation of corpus luteum and transformation of follicular cells to luteal cells
 
@@ -1638,9 +1258,9 @@ The following factors may lead to ovulation:
 - However, the enzymatic digestion of the follicular wall seems to be the main factor responsible for ovulation.
 
 
-## Clinical correlation
+### Clinical correlation
 
-## Detection of time of ovulation:
+### Detection of time of ovulation:
 
 - Basal body temperature recording (Fig. 3.22)—it falls $0.3-0.5^{\circ} \mathrm{C}$ just before ovulation and increases slightly thereafter. Time of ovulation can be determined by recording the morning temperature during mid-cycle.
 - Endometrial biopsy: to observe changes specific for ovulation under the influence of progesterone
@@ -1660,14 +1280,14 @@ Conditions affecting ovulation:
 - Environment—extremes of temperature.
 
 
-## Structure of the Ovum at Ovulation
+### Structure of the Ovum at Ovulation
 
 The ovum that is shed from the ovary is not fully mature. It is a secondary oocyte that is undergoing division to shed off the second polar body (Figs 3.5 and 3.21). At this stage, the ovum has the appearance illustrated in Figure 3.21. Note that it is surrounded by the zona pellucida. Some cells of the corona radiata can be seen sticking to the outside of the zona pellucida. No nucleus is seen, as the nuclear membrane has dissolved for the second meiotic division. A spindle is, however, present. Between the cell membrane (or vitelline membrane) and the zona pellucida, a distinct perivitelline space is seen. The first polar body lies in this space. Note that the ovum is a very large cell and measures more than $100-120 \mu \mathrm{~m}$ in diameter. In contrast, most other cells of the body measure less than $10 \mu \mathrm{~m}(1 \mu \mathrm{~m}$ is 1,000 th of a millimeter). Differences between spermatozoon and ovum are presented in Table 3.3.
-![img-46.jpeg](img-46.jpeg.jpg)
+![img-46.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-46.jpeg.jpg)
 
 Fig. 3.21: Structure of ovum at the time of ovulation
 
-![img-47.jpeg](img-47.jpeg.jpg)
+![img-47.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-47.jpeg.jpg)
 
 Fig. 3.22: Morning temperature and concentration of hormones FSH, LH, estrogen and progesterone during normal menstrual cycle. Ovulation occurs because of a LH surge just before ovulation
 
@@ -1682,14 +1302,14 @@ TABLE 3.3: Differences between male and female gametes
 | Cytoplasm | Very little | Large amount |
 | Chromosomal types | Spermatozoa are of two <br> chromosomal types <br> $(22+X)$ and $(22+Y)$ | All ova have $(22+X)$ <br> chromosomes |
 
-## Postovulatory Phase
+### Postovulatory Phase
 
-## Fate of the Ovum
+### Fate of the Ovum
 
 The ovum that is shed from the ovary is closely embraced by the fimbriated end of the uterine tube. The ovum is easily carried into the tube partly by the follicular fluid discharged from the follicle and partly by the activity of ciliated cells lining the tube. The ovum slowly travels through the tube toward the uterus, taking 3-4 days to do so. If sexual
 intercourse takes place at about this time, the spermatozoa deposited in the vagina swim into the uterus and into the ampulla of uterine tube. One of these spermatozoa may fertilize the ovum. If this happens, the fertilized ovum begins to develop into an embryo. The fertilized ovum travels to the uterus and gets implanted in its wall. On the other hand, if the ovum (secondary oocyte) is not fertilized it dies in 12-24 hours. It passes through the uterus into the vagina and is discharged.
 
-## Corpus Luteum
+### Corpus Luteum
 
 - The corpus luteum is an important structure. It mainly secretes the hormone progesterone, but also secretes some estrogen.
 - The corpus luteum is formed by enlargement and transformation of follicular cells, after-shedding of the ovum (Figs 3.5 and 3.20A).
@@ -1697,7 +1317,7 @@ intercourse takes place at about this time, the spermatozoa deposited in the vag
 - When the follicle ruptures, its wall collapses and becomes folded (Figs 3.20B and C).
 - At this stage, the follicular cells are small and rounded (Fig. 3.20D). They now rapidly enlarge. As they increase in size, their walls press against those of neighboring cells so that the cells acquire a polyhedral shape (Figs 3.20C and D). Their cytoplasm becomes filled with a yellow pigment called lutein. They are now called luteal cells. The presence of this yellow pigment gives the structure a yellow color and that is why it is called the corpus luteum (= yellow body). Some cells of the theca interna also enlarge and contribute to the corpus luteum by becoming paraluteal cells.
 - The corpus luteum secretes progesterone (Fig. 3.23), which is essential for maintenance of pregnancy.
-![img-48.jpeg](img-48.jpeg.jpg)
+![img-48.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-48.jpeg.jpg)
 
 Fig. 3.23: Hormonal control of ovulation and uterine cycles
 
@@ -1706,7 +1326,7 @@ This secretion has to be poured into the blood like secretions of endocrine glan
 - The subsequent fate of the corpus luteum depends on whether the ovum is fertilized or not.
 - If the ovum is not fertilized, the corpus luteum persists for about 14 days. During this period it secretes progesterone. It remains relatively small and is called the corpus luteum of menstruation. At the end of its functional life, it degenerates and forms a mass of fibrous tissue called the corpus albicans (= white body) (Figs 3.5 and 3.24).
 - If the ovum is fertilized and pregnancy results, the corpus luteum persists for 3-4 months. This
-![img-49.jpeg](img-49.jpeg.jpg)
+![img-49.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-49.jpeg.jpg)
 
 Fig. 3.24: Fate of ovarian follicles
 is larger than the corpus luteum of menstruation, and is called the corpus luteum of pregnancy.
@@ -1715,31 +1335,31 @@ is larger than the corpus luteum of menstruation, and is called the corpus luteu
 - The series of changes that begin with the formation of an ovarian follicle and end with the degeneration of the corpus luteum constitute what is called an ovarian cycle. An ovarian cycle has an average duration of 28 days, with ovulation occurring at midcycle, i.e. on the 14th day.
 
 
-## Fate of Ovarian Follicles
+### Fate of Ovarian Follicles
 
 We have seen that in each ovarian cycle, one follicle reaches maturity, sheds an ovum, and becomes a corpus luteum. At the same time, several other follicles also begin to develop, but do not reach maturity (Fig. 3.20). It is interesting to note that, contrary to what one might expect, these follicles do not persist into the next ovarian cycle, but undergo degeneration. The ovum and granulosa cells of each follicle disappear. The cells of the theca interna, however, proliferate to form the interstitial glands, also called the corpora atretica (singular = corpus atreticum). These glands are believed to secrete estrogens. After a period of activity, each gland becomes a mass of scar tissue indistinguishable from the corpus albicans formed from the corpus luteum.
 
-## Ovarian Cycle and Hormones
+### Ovarian Cycle and Hormones
 
 The changes taking place during the ovarian cycle are greatly influenced by certain hormones produced by the hypophysis cerebri (Figs 3.22 and 3.23). The hormones produced by the theca interna and by the corpus luteum in turn influence other parts of the female reproductive system (notably the uterus), resulting in a cycle of changes referred to as the uterine or menstrual cycle.
 
-## Viability of Gametes
+### Viability of Gametes
 
 An ovum usually degenerates 24 hours after ovulation. However, at the most it may survive for 2 days. Similarly, sperms usually degenerate 48 hours after ejaculation, but may survive up to 4 days in female genital tract.
 
-## Clinical correlation
+### Clinical correlation
 
-## Abnormalities in formation of gametes
+### Abnormalities in formation of gametes
 
-## Abnormalities of form
+### Abnormalities of form
 
 Spermatozoa may be too large (giant) or too small (dwarf). The head, body or tail may be duplicated. The ovum may have an unusually large nucleus or two nuclei. Two oocytes may be seen in one follicle.
 
-## Chromosomal abnormalities
+### Chromosomal abnormalities
 
 The gametes may be abnormal in chromosomal content as follows:
 
-## - Nondisjunction:
+-  Nondisjunction:
 
 - During the first meiotic division, the two chromosomes of a pair, instead of separating at anaphase, may both go to the same pole. This is called nondisjunction. The resulting gamete then has 24 chromosomes instead of the normal 23 (Fig. 3.25).
 - During second meiotic division also nondisjunction can take place (Fig. 3.26).
@@ -1760,7 +1380,7 @@ Down's syndrome: Trisomy of chromosome 21 results in this condition. In this con
 - Mosaicism: Chromosomal errors of the type described above may also occur during segmentation of the ovum. This results in a fetus having a mixture of cells with normal and abnormal chromosomes. This is called mosaicism. Such individuals may also show various abnormalities.
 
 
-## Gene abnormalities (gene mutations)
+### Gene abnormalities (gene mutations)
 
 Genes are responsible for normal embryological development. A change in the structure of a gene may occur at the time of gametogenesis. This may give rise to birth defects. The change in the structure or function of a gene is called "gene mutation". At present, many birth defects are known which are caused by gene mutation.
 
@@ -1770,13 +1390,13 @@ Genes are responsible for normal embryological development. A change in the stru
 - Duration of blood flow: The most obvious visible feature is a monthly flow of blood (menstruation). The duration of blood flow is 3-6 days.
 - Length of the cycle: The length of the cycle is usually of 28 days and can vary from 21-40 days. The 1st day of bleeding in the present cycle marks the beginning of
 
-![img-50.jpeg](img-50.jpeg.jpg)
+![img-50.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-50.jpeg.jpg)
 
 Fig. 3.25: Effects of nondisjunction during first meiotic division
-![img-51.jpeg](img-51.jpeg.jpg)
+![img-51.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-51.jpeg.jpg)
 
 Fig. 3.26: Effects of nondisjunction during second meiotic division
-![img-52.jpeg](img-52.jpeg.jpg)
+![img-52.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-52.jpeg.jpg)
 
 Fig. 3.27: Diagram illustrating the definition of menstrual cycle
 the menstrual cycle. Ending of the cycle is the 1st day of bleeding of the next cycle.
@@ -1785,11 +1405,11 @@ the menstrual cycle. Ending of the cycle is the 1st day of bleeding of the next 
 The layers in the wall of uterus and the constituents of endometrium were described in the early part of this chapter and in Figures 3.6 and 3.7.
 - Changes in endometrium: The main changes in the endometrium are (a) increase in thickness, (b) growth of uterine glands, (c) changes in epithelial cells lining the glands and (d) increase in thickness and fluid content of the endometrial stroma (Fig. 3.29).
 - Just before onset of menstruation, the blood supply to superficial parts of the endometrium is cut off (Fig. 3.6). This part is shed off and there is bleeding. The menstrual cycle is influenced by estrogen,progesterone,FSH and LH as represented in Figures 3.22 and 3.23.
-![img-53.jpeg](img-53.jpeg.jpg)
+![img-53.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-53.jpeg.jpg)
 
 Fig. 3.28: Phases of menstrual cycle
 
-# Phases of the Menstrual Cycle 
+### Phases of the Menstrual Cycle 
 
 The menstrual cycle is divided into four phases on the basis of changes taking place in the endometrium (Figs 3.28 and 3.29).
 
@@ -1812,7 +1432,7 @@ Postmenstrual phase: During the postmenstrual phase, the cells of the stroma are
 Proliferative phase: The endometrium increases in thickness, the superficial part of the stroma remains compact, but the part surrounding the bodies of the uterine glands becomes spongy. The deepest part of the stroma also remains compact (Fig. 3.29B). The arteries of the endometrium are small to begin with. They grow in length during the proliferative phase. The stroma can, therefore, be divided into the following three layers from periphery to lumen.
 
 1. Stratum basale (SB): Thin and has a separate blood supply.
-![img-54.jpeg](img-54.jpeg.jpg)
+![img-54.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-54.jpeg.jpg)
 
 Figs 3.29A to F: Changes in uterine epithelium, glands and endometrium during menstrual cycle
 Abbreviations: SC, stratum compactum; SS, stratum spongiosum; SB, stratum basale
@@ -1833,13 +1453,13 @@ The mechanism for onset of menstrual bleeding is as follows:
 - Relaxation of spiral arteries and leakage of blood: Subsequently when the spiral arteries relax and blood again flows into the endometrium, it leaks out through the damaged blood vessels. This leaking blood is responsible for gradual shedding of endometrium.
 
 
-## Time of Ovulation in Relation to Menstruation
+### Time of Ovulation in Relation to Menstruation
 
 In a 28-day menstrual cycle, ovulation takes place at about the middle of the cycle (Fig. 3.30). The period between ovulation and the next menstrual bleeding is constant at about 14 days, but the time of ovulation does not have a constant relationship with the preceding menstruation. This is so because the length of the menstrual cycle may vary from month to month in an individual. Hence, it is difficult to predict the date of the next ovulation from the date of menstruation unless the woman has very regular menstrual periods.
 
 There are many methods of finding out the exact time of ovulation, but the one commonly used is the temperature method. In this technique, the woman's temperature is recorded every morning. When these temperatures are plotted on a graph, we get a curve like that shown in Figure 3.22. The temperature is low during actual menstruation. Subsequently it rises. At about the middle of the cycle, there is a sudden fall in temperature followed by a rise. This rise is believed to indicate that ovulation has occurred.
 
-## Clinical correlation
+### Clinical correlation
 
 Importance of determining the time of ovulation and "safe period"
 
@@ -1847,7 +1467,7 @@ Importance of determining the time of ovulation and "safe period"
 - Where pregnancy is desired: Knowledge regarding the time of ovulation is also of importance in cases of sterility (difficulty in having children), where the couple can be advised to have intercourse during the days most favorable for conception.
 
 
-## Correlation between Ovarian and Uterine Cycles
+### Correlation between Ovarian and Uterine Cycles
 
 The ovarian and uterine cycles run parallel to each other. Both are of 28 days duration. The uterine cycle is dependent on ovarian cycle.
 
@@ -1867,23 +1487,23 @@ takes place under the influence of estrogens. The endometrial stroma progressive
 - If fertilization does not occur, the granulosa cells produce the protein inhibin, which acts on the anterior pituitary and inhibits the secretion of gonadotropins. This leads to regression of the corpus luteum.
 - Due to the regression of the corpus luteum there is a fall in the blood level of estrogen and progesterone. The withdrawal of these hormones causes the endometrium to regress and triggers the onset of menstruation.
 - If fertilization occurs, the corpus luteum does not regress. It continues to secrete progesterone and estrogen. The secretory phase of endometrium continues and menstruation does not occur.
-![img-55.jpeg](img-55.jpeg.jpg)
+![img-55.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-55.jpeg.jpg)
 
 Fig. 3.30: Diagram showing correlation between ovarian and uterine cycles
 
-## Molecular and genetic basis of gametogenesis
+### Molecular and genetic basis of gametogenesis
 
 - During oogenesis the number of layers of granulosal cells increase leading to the formation of theca interna. The oocyte accumulates mRNA molecules that are important for embryogenesis and for formation of zona pellucida.
 - Proliferation of granulosa cells is mediated by growth differentiation factor 9, a member of TGF family.
 
 
-## Clinical correlation
+### Clinical correlation
 
-## Use of hormones in initiation of ovulation
+### Use of hormones in initiation of ovulation
 
 Women of reproductive age with anovulatory cycles require hormonal treatment for treating the inability to conceive in the absence of other reasons for infertility (inability to conceive). The ovulation is induced by human chorionic gonadotrophin (HCG) and clomiphene that suppresses negative feedback of estrogen on adenohypophysis and stimulates release of FSH and LH that induce follicular maturation an ovulation.
 
-## Use of hormones for contraception/suppression of ovulation
+### Use of hormones for contraception/suppression of ovulation
 
 - Ovulation in a woman (and by corollary, pregnancy) can be prevented by administration of contraceptive pills. The most important ingredients of such pills are progestins (in the form of
 synthetic compounds). Better results are obtained when a small amount of estrogen is also given.
@@ -1892,7 +1512,7 @@ synthetic compounds). Better results are obtained when a small amount of estroge
 - Stoppage of pills reduces levels of these hormones in blood. It is this withdrawal that leads to menstrual bleeding. Such pills have almost $100 \%$ success in suppressing maturation of follicles and ovulation.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain spermiogenesis.
 2. Describe structure of spermatozoon.
@@ -1928,7 +1548,7 @@ off the first polar body and becomes a secondary oocyte (Figs 4.1A and E).
 
 At the time of ovulation, the second meiotic division is in progress and a spindle has formed for separation of the second polar body (Fig. 4.1B). At this stage, the "ovum" enters the infundibulum of the uterine tube and passes into the ampulla (Fig. 4.2).
 
-![img-56.jpeg](img-56.jpeg.jpg)
+![img-56.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-56.jpeg.jpg)
 
 Figs 4.1A to E: Some stages in the maturation of the ovum: (A) Ovum just before ovulation; (B) Ovum at the time of ovulation; (C) Ovum at the time of fertilization; (D) Ovum just after fertilization; (E) Sheep secondary oocyte showing metaphase II chromosomes and first polar body in perivitelline space (Image Courtesy: Dr VH Rao)
 
@@ -1939,7 +1559,7 @@ Figs 4.1A to E: Some stages in the maturation of the ovum: (A) Ovum just before 
 male and female gametes have to complete a number of biological processes prior to actual process of fertilization.
 - Fertilization is a signal for completion of second meiotic division. Out of a few hundred capacitated sperms, that surround the ovum, only one pierces the zona pellucida and enters the ovum. As soon as one spermatozoon enters the ovum, the second meiotic division is completed, and the second polar body is extruded.
 
-![img-57.jpeg](img-57.jpeg.jpg)
+![img-57.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-57.jpeg.jpg)
 
 Fig. 4.2: Path taken by the sperm and ovum, for fertilization
 Hence, it is a signal for completion of second meiotic division (Fig. 4.1C).
@@ -1955,7 +1575,7 @@ Hence, it is a signal for completion of second meiotic division (Fig. 4.1C).
 
 1. Approximation of gametes: It is by transport of male and female gametes in the female genital tract (Fig. 4.4-stage 1).
 a. Spermatozoon transport-following events play an important role in successful fertilization.
-![img-58.jpeg](img-58.jpeg.jpg)
+![img-58.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-58.jpeg.jpg)
 
 Figs 4.3A to D: Behavior of chromosomes during fertilization. (A) Male $(22+X / 22+y)$ and female $(22+X)$ pronuclei; (B) Duplication of chromosomes and arrangement at equatorial plate; (C) Anaphase and cytokinesis forming two cells; and (D) Sheep-two cells embryo (Image Courtesy: Dr VH Rao)
 
@@ -1979,7 +1599,7 @@ Four processes are involved in the penetration of these barriers. They are
 i. Acrosome reaction
 ii. Disintegration of barriers
 
-![img-59.jpeg](img-59.jpeg.jpg)
+![img-59.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-59.jpeg.jpg)
 
 Fig. 4.4: Stages in penetration of a spermatozoon into an ovum
 iii. Calcium wave in oocyte cytoplasm
@@ -1990,7 +1610,7 @@ i. Acrosome reaction:
 - Coverings of sperm head: The head of the sperm has three coverings. From inside out they are nuclear envelope, bilaminar acrosomal membrane containing enzymes for penetration of oocyte and plasma membrane (Fig. 4.5).
 - Release of acrosomal enzymes: The acrosome reaction must be completed to facilitate fusion of sperm with the secondary oocyte. It occurs when sperms come into contact with the corona radiata of the oocyte (Figs 4.4-stage 1 and 4.5). Perforations develop in the acrosome. Point fusions of the sperm plasma membrane and the outer acrosomal membrane occur. The acrosome reaction is associated with the release of acrosome enzymes that facilitate penetration of the zona pellucida by the sperm (Figs 4.4 -stages 2 and 3 and 4.5 B and C). The three acrosome enzymes that are released are hyaluronidase, the protease enzyme acrosin and
 
-![img-60.jpeg](img-60.jpeg.jpg)
+![img-60.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-60.jpeg.jpg)
 
 Figs 4.5A to C: Covering of acrosome and release of acrosomal enzymes
 acid phosphatase. The glycoprotein of the zona pellucida is responsible for induction of the acrosomal reaction.
@@ -2063,7 +1683,7 @@ The reasons for using the technique can be as follows:
 - There may be obstruction of the uterine tube.
 - There may be absence of ovulation.
 
-![img-61.jpeg](img-61.jpeg.jpg)
+![img-61.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-61.jpeg.jpg)
 5. Development of embryo up to 8-cell stage in culture medium
 
 Fig. 4.6: In vitro fertilization (IVF) technique-various steps
@@ -2087,10 +1707,10 @@ Subdivisions of cleavage: There are three subdivisions in cleavage. They are:
 4. Stage of compaction: It starts at third division, i.e. at 8 -cell stage. There will be maximal contact between the cells. Outer cells form tight junctions and exhibit polarity. Inner cells form gap junctions. The nutrition to cleaving egg is the meagre store of food in blastomeres and breakdown products of tubal secretion transferred through zona pellucida.
 5. Morula: As cleavage proceeds the ovum comes to have 16 cells, i.e. fourth division. It now looks like a mulberry and is called the morula (Figs 4.7D and 4.8B). It is still surrounded by the zona pellucida. Cells are similar in size and structure. If we cut a section across the morula, we see that it consists of an inner cell mass that is completely surrounded by an outer layer of cells. The cells of the outer layer will later give rise to a structure called the trophoblast that forms the coverings of the embryo (Fig. 4.9A). The inner cell mass gives rise to the embryo proper and is, therefore, also called the embryoblast. The cells of the trophoblast help to provide nutrition to the embryo.
 
-![img-62.jpeg](img-62.jpeg.jpg)
+![img-62.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-62.jpeg.jpg)
 
 Figs 4.7A to D: Some stages in segmentation of the fertilized ovum. (A) Two-cells stage, (B) Three-cells stage, (C) Four-cells stage and (D) Morula
-![img-63.jpeg](img-63.jpeg.jpg)
+![img-63.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-63.jpeg.jpg)
 
 Figs 4.8A to D: Some stages in 1st week of embryo. (A) Sheep embryo-four-cells stage; (B) Rabbit embryo-compacted morula; (C) Goat embryo-expanded blastocyst-beginning of hatching; and (D) Rabbit embryo-hatched blastocyst (Images Courtesy: Dr VH Rao)
 
@@ -2117,7 +1737,7 @@ Hatching of blastocyst: Thinning of zonal pellucida starts on 4th day and it dis
 - There is no increase, rather decrease in protoplasmic volume due to metabolic activity
 - Zygote genome is activated on 2nd day after fertilization. Cleavage is the process whereby a unicellular fertilized ovum (zygote) with exceptionally large ratio of cytoplasm
 
-![img-64.jpeg](img-64.jpeg.jpg)
+![img-64.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-64.jpeg.jpg)
 
 Figs 4.9A to C: Formation of blastocyst
 to nucleus is transformed into a multicellular mass of blastomeres each of which approximates to the ratio found in somatic cells. Thus cleavage facilitates formation of a multicellular organism.
@@ -2160,7 +1780,7 @@ We have seen that the blastocyst is a spherical cyst lined by flattened trophobl
 - Formation of primary yolk sac: Flattened cells arising from the hypoblast (or, according to some, from trophoblast), spread and line the inside of the blastocystic cavity. (This lining of flattened cells is called "Heuser's membrane"). In this way, a cavity, lined on all sides by cells of endodermal origin, is formed. This cavity is called the primary yolk sac (Fig. 4.10D).
 - Formation of extraembryonic mesoderm: The cells of the trophoblast give origin to a mass of cells called the extraembryonic mesoderm (or primary mesoderm). These cells come to lie between the trophoblast and the flattened endodermal cells lining the yolk sac, thus separating them from each other. These cells also separate the wall of the amniotic cavity from the trophoblast (Fig. 4.11A). This mesoderm is called "extraembryonic" because it lies outside the embryonic disc. It does not give rise to any tissues of the embryo.
 - Formation of extraembryonic coelom: Small cavities appear in the extraembryonic mesoderm. Gradually,
-![img-65.jpeg](img-65.jpeg.jpg)
+![img-65.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-65.jpeg.jpg)
 
 Figs 4.10A to D: Differentiation of endoderm and ectoderm, and the formation of the amniotic cavity and the yolk sac
 these join together to form larger spaces and, ultimately, one large cavity is formed. This cavity is called the extraembryonic coelom (Fig. 4.11B) (also called the chorionic cavity). With its formation, the extraembryonic mesoderm is split into two layers. The part lining the inside of the trophoblast, and the outside of the amniotic cavity, is called the parietal or somatopleuric extraembryonic mesoderm (It is also referred to as the chorionic plate). The part lining the outside of the yolk sac is called the visceral or splanchnopleuric extraembryonic mesoderm (Fig. 4.11B).
@@ -2169,7 +1789,7 @@ these join together to form larger spaces and, ultimately, one large cavity is f
 - Formation of chorion and amnion: At this stage, two very important membranes are formed. One is formed by the parietal extraembryonic mesoderm (on the inside) and the overlying trophoblast (on the outside); this is called the chorion (Fig. 4.11B).
 The other is the amnion which is constituted by amniogenic cells forming the wall of the amniotic cavity
 
-![img-66.jpeg](img-66.jpeg.jpg)
+![img-66.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-66.jpeg.jpg)
 
 Figs 4.11A and B: Formation of extraembryonic mesoderm and extraembryonic coelom. Note carefully, the composition of the amnion, and of the chorion
 (excluding the ectodermal floor). These cells are derived from the trophoblast.
@@ -2182,7 +1802,7 @@ The chorion and amnion play an important role in childbirth (parturition) and we
 The appearance of the prochordal plate determines the central axis of the embryo (i.e. enables us to divide it into right and left halves), and also enables us to distinguish its future head and tail ends (Fig. 4.13).
 - Formation of primitive streak:
 - A transient structure that forms in the blastula during the early stages of embryonic development.
-![img-67.jpeg](img-67.jpeg.jpg)
+![img-67.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-67.jpeg.jpg)
 
 Figs 4.12A and B: Embryonic disc before appearance of a central axis. "B" represents a section along the axis XY shown in "A"
 
@@ -2192,15 +1812,15 @@ Figs 4.12A and B: Embryonic disc before appearance of a central axis. "B" repres
 - Formation of primitive streak marks the beginning of gastrulation.
 - Formation of intraembryonic mesoderm: The cells that proliferate in the region of the primitive streak
 
-![img-68.jpeg](img-68.jpeg.jpg)
+![img-68.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-68.jpeg.jpg)
 
 Figs 4.13A and B: Embryonic disc after establishment of a central axis. "B" represents a section along the central axis
-![img-69.jpeg](img-69.jpeg.jpg)
+![img-69.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-69.jpeg.jpg)
 
 Figs 4.14A and B: Appearance of primitive streak. (B) is a section along axis XY shown in (A)
 
 Mesodermal cells spread sidewards from primitive streak
-![img-70.jpeg](img-70.jpeg.jpg)
+![img-70.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-70.jpeg.jpg)
 
 Figs 4.15A and B: Formation of intraembryonic mesoderm. (B) is a section along axis KL in (A)
 pass sideways, pushing themselves between the epiblast and hypoblast (Fig. 4.15). These cells form the intraembryonic mesoderm (or secondary mesoderm). Some cells arising from the primitive streak displace the hypoblast and form the layer that is now known as endoderm. Thus, both endoderm and mesoderm are derived from the epiblast. The remaining cells of the epiblast now form the ectoderm.
@@ -2223,10 +1843,10 @@ Gastrulation: The process of formation of the primitive streak, endoderm and int
 Preorganogenesis period: Development of the embryo from fertilization up to the formation of the bilaminar disc is described as the preorganogenesis period as no organs are as yet recognizable. These events take place in the first 14 days of pregnancy. Anomalies produced by teratogens acting during this period usually result in death of the embryo. These anomalies are, therefore, seldom seen in babies reaching full term.
 Embryonic period: Establishment of the primitive streak and formation of intraembryonic mesoderm mark the onset of gastrulation. Gastrulation begins in the 3rd week and most of it will be considered in the next chapter. The 3rd week
 
-![img-71.jpeg](img-71.jpeg.jpg)
+![img-71.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-71.jpeg.jpg)
 
 Fig. 4.16: Spread of intraembryonic mesoderm. Note that the mesoderm comes to lie between ectoderm and endoderm in all parts of the embryonic disc except at the (1) prochordal plate (2) cloacal membrane (3) region of the notochord
-![img-72.jpeg](img-72.jpeg.jpg)
+![img-72.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-72.jpeg.jpg)
 
 Fig. 4.17: Diagram showing the attachment of the connecting stalk to the caudal end of the embryonic disc. Note the cells of the intraembryonic mesoderm passing into the connecting stalk
 marks the beginning of what is termed the embryonic period (3rd-8th week). Most congenital anomalies are produced by teratogens acting during this period.
@@ -2277,7 +1897,7 @@ In the above case the seminal analysis is suggestive of low sperm count (less th
 
 The couple should be advised about the in vitro fertilization (IVF) technique, as there are no chances for natural method of conception. Because of low antral follicle count, FSH value and the advanced age of the woman (decrease in follicular reserve) the couple should be advised to go for IVF technique.
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Define fertilization.
 2. Describe the stages involved in fertilization.
@@ -2330,14 +1950,14 @@ The notochord is a midline structure that develops in the region lying between t
 During its development, the notochord passes through several stages that are as follows:
 
 - The cranial end of the primitive streak becomes thickened. This thickened part of the streak is called the primitive knot, primitive node or Henson's node (Figs 5.1 A and 5.3 A$)$.
-![img-73.jpeg](img-73.jpeg.jpg)
+![img-73.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-73.jpeg.jpg)
 
 Figs 5.1A to C: Change in the shape of embryonic disc from circular (A) to oval (B) and then pear shape (C)
-![img-74.jpeg](img-74.jpeg.jpg)
+![img-74.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-74.jpeg.jpg)
 
 Fig. 5.2: Bilaminar germ disc with amniotic and yolk sac cavities and primitive streak cells
 
-![img-75.jpeg](img-75.jpeg.jpg)
+![img-75.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-75.jpeg.jpg)
 
 Figs 5.3A to D: Section through embryonic disc showing formation of (A) primitive knot; (B) blastopore; (C) notochordal process and (D) notochordal canal. Note that the notochordal process is deep to ectoderm and that its position is shown diagrammatically
 
@@ -2352,7 +1972,7 @@ These cells form a solid cord called the notochordal process or head process (Fi
 - Gradually the walls of the canal become flattened so that instead of a rounded canal we have a flat plate of cells called the notochordal plate (Fig. 5.4E).
 - However, this process of flattening is soon reversed and the notochordal plate again becomes curved to assume the shape of a tube (Fig. 5.4F). Proliferation of cells of this tube converts it into a solid rod of cells. This rod is the definitive (i.e. finally formed) notochord. It gets completely separated from the endoderm.
 - As the embryo enlarges, the notochord elongates considerably and lies in the midline, in the position to be later occupied by the vertebral column. However, the notochord does not give rise to the vertebral column. Most of it disappears, but parts of it persist in the region of each intervertebral disc
-![img-76.jpeg](img-76.jpeg.jpg)
+![img-76.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-76.jpeg.jpg)
 
 Figs 5.4A to F: Transverse sections through the embryonic disc to illustrate stages in the formation of the notochord
 
@@ -2390,17 +2010,17 @@ Cranial to the prochordal plate, the mesoderm of the two sides meets in the midl
 ## Paraxial Mesoderm
 
 At first, the cells of the paraxial mesoderm are homogenously arranged. Later, the mesoderm gets segmented. The
-![img-77.jpeg](img-77.jpeg.jpg)
+![img-77.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-77.jpeg.jpg)
 
 Fig. 5.5: Proliferating intraembryonic mesoderm from primitive node and primitive streak
 
-![img-78.jpeg](img-78.jpeg.jpg)
+![img-78.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-78.jpeg.jpg)
 
 Fig. 5.6: Subdivisions of intraembryonic mesoderm
-![img-79.jpeg](img-79.jpeg.jpg)
+![img-79.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-79.jpeg.jpg)
 
 Fig. 5.7: Formation of intraembryonic coelom and its subdivisions
-![img-80.jpeg](img-80.jpeg.jpg)
+![img-80.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-80.jpeg.jpg)
 
 Fig. 5.8: Communication between intraembryonic coelom and extraembryonic coelom. Strucutres in the midline of germ disc before folding
 
@@ -2438,11 +2058,11 @@ The changes that now take place will be best understood by a careful study of Fi
 - There is progressive increase in the size of the embryonic disc due to rapid growth of cells of central part of embryonic disc and rapid growth of somites.
 - This causes conversion of flat pear-shaped germ disc into a cylindrical embryo (Fig. 5.10A).
 - The head and tail ends of the disc ( X and Y ), however, remain relatively close together. Hence, the increased length of the disc causes it to bulge upward into the amniotic cavity (Figs 5.10B and C).
-![img-81.jpeg](img-81.jpeg.jpg)
+![img-81.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-81.jpeg.jpg)
 
 Fig. 5.9: Midline section through cranial end of the embryonic disc to show the relationship of the pericardial cavity to other structures
 
-![img-82.jpeg](img-82.jpeg.jpg)
+![img-82.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-82.jpeg.jpg)
 
 Figs 5.10A to H: Figures A to E are formation of head and tail folds and establishment of the gut. F to H is embryonic discrelated structures before (F), during (G) and after (H) formation of head and tail folds. Note the changing relationships of septum transversum, pericardium, buccopharyngeal membrane, cloacal membrane and allantois
 
@@ -2491,14 +2111,14 @@ This tube of amnion, and the structures within it, constitutes the umbilical cor
 
 Before the formation of the tail fold, a small endodermal diverticulum called the allantoic diverticulum arises from the yolk sac near the caudal end of the embryonic disc (Fig. 5.11 E ). This diverticulum grows into the mesoderm of the connecting stalk. After the formation of the tail fold, part of this diverticulum is absorbed into the hindgut. It now passes from the ventral side of the hindgut into the connecting stalk (Fig. 5.11F). We will refer to it again while considering the development of the urinary bladder.
 
-![img-83.jpeg](img-83.jpeg.jpg)
+![img-83.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-83.jpeg.jpg)
 
 Figs 5.11A to F: Stages in the establishment of the umbilical cord, allantoic diverticulum and its relationship to the connecting stalk
-![img-84.jpeg](img-84.jpeg.jpg)
+![img-84.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-84.jpeg.jpg)
 
 Fig. 5.12: Structures forming the umbilical cord
 Abbreviations: FG: Foregut; MG: Midgut; HG: Hindgut; EEC: Extraembryonic coelom
-![img-85.jpeg](img-85.jpeg.jpg)
+![img-85.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-85.jpeg.jpg)
 
 Fig. 5.13: section through umbilical cord
 
@@ -2536,7 +2156,7 @@ change to that shown in Figures 5.10G and H. The important points to note here a
 - The region of the prochordal plate now forms the buccopharyngeal or oral membrane, which closes the foregut cranially. When this membrane breaks down, the foregut communicates with the exterior.
 - The most cranial structure of the embryo is now the enlarged cranial part of the neural tube, which later forms the brain (Fig. 5.10G). This enlarges enormously (Fig. 5.10 H ). There are now two big bulgings on the ventral aspect of the embryo. Cranially, there is the developing brain, and a little below it there is the bulging pericardium (Fig. 5.10H). In between these two, there is a depression called the stomatodeum or stomodeum, the floor of which is formed by the buccopharyngeal membrane.
 - Toward the tail end of the embryo, the primitive streak is now an inconspicuous structure that gradually
-![img-86.jpeg](img-86.jpeg.jpg)
+![img-86.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-86.jpeg.jpg)
 
 Fig. 5.14: An ultrasound image of fetus with holoprosencephaly
 Image Courtesy: Dr Ganesh Kumar and Dr Sasikala
@@ -2567,7 +2187,7 @@ TABLE 5.3: Time table of developmental events
 | 21 | Neural groove is seen. Head fold begins to form. |
 | 23 | Closure of the neural tube. |
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Describe notochord.
 2. Write short notes on prochordal plate.
@@ -2617,12 +2237,12 @@ Process of implantation: For understanding the sequence of events, the whole pro
 A. Processes preliminary to implantation (Fig. 6.2):
 
 1. Release and transport of ovum into the uterine tube: The ovum with its surrounding zona pellucida and corona radiata cells is shed from the ovary at
-![img-87.jpeg](img-87.jpeg.jpg)
+![img-87.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-87.jpeg.jpg)
 
 Figs 6.1A and B: Fetus, umbilical cord and placenta (fetal and maternal surfaces)
 
 Flowchart 6.1: Processes in implantation
-![img-88.jpeg](img-88.jpeg.jpg)
+![img-88.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-88.jpeg.jpg)
 
 ovulation. Later it travels through the fimbrial end of fallopian tube into the ampulla of uterine tube.
 2. Fertilization of ovum: The ovum and sperm fuse in the ampulla of uterine tube. The process of fusion of male and female pronuclei is called fertilization. If fertilization occurs, segmentation of the ovum begins.
@@ -2637,11 +2257,11 @@ B. Processes (stages) at the time of implantation (Figs 6.2 and 6.3):
 - The change in the endometrial stroma with implantation of blastocyst is called the decidual reaction.
 - Hatching of blastocyst: The zona pellucida of the cleaving blastocyst that is rolling on the uterine wall gradually becomes thin on 5th day. This thinning is due to the production of trypsin like enzyme that causes dissolution of zona pellucida. By 6th day, the zona pellucida disappears (Fig. 4.8D).
 - Adhesion of polar trophoblast to columnar uterine epithelium: The trophoblast has the tendency to stick to the structure with which it comes in contact. Once the zona pellucida disappears, the cells of the trophoblast stick to the uterine endometrium. This is called the beginning of the process of implantation
-![img-89.jpeg](img-89.jpeg.jpg)
+![img-89.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-89.jpeg.jpg)
 
 Fig. 6.2: Various processes before and during implantation: ovulation, fertilization, cleavage, blastocyst, trophoblast differentiation, decidual change, hatching of blastocyst, and penetration defect
 
-![img-90.jpeg](img-90.jpeg.jpg)
+![img-90.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-90.jpeg.jpg)
 
 Figs 6.3A to D: Stages of implantation: (A) Hatching blastocyst; (B) Adhesion of blastocyst to uterine epithelium; (C) Penetration of blastocyst through uterine epithelium and erosion of endometrium; (D) Closure of penetration defect and differentiation of trophoblast and embryoblast
 and it takes place on 6th day after fertilization. The disappearance of zona pellucida initiates attachment of polar trophoblastic cells to the columnar uterine epithelium between the mouths of uterine glands.
@@ -2669,7 +2289,7 @@ B. Abnormal sites of implantation [Fig. 6.5 (2-6)]
 
 - Uterine:
 - Lower uterine segment: If the implantation is in the lower uterine segment, it is called placenta previa [Fig. 6.5 (2)].
-![img-91.jpeg](img-91.jpeg.jpg)
+![img-91.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-91.jpeg.jpg)
 
 Figs 6.4A to C: Types of implantation:
 (A) Central; (B) Eccentric; (C) Interstitial
@@ -2703,7 +2323,7 @@ Figs 6.4A to C: Types of implantation:
 Definition: It is the functional stratum (stratum compactum) of uterine endometrium after the implantation of blastocyst (Fig. 6.2). The word decidua means falling off as this part of endometrium separates and falls off during childbirth.
 Change in endometrium: After implantation, the features of the endometrium, which are seen during the secretory phase of the menstrual cycle, are maintained and intensified under the influence of the hormone the human chorionic gonadotropin (hCG) which is secreted by the cells of syncytiotrophoblast. On 17th or 18th day of menstrual cycle, i.e. 5th day after fertilization and at the time of implantation,
 
-![img-92.jpeg](img-92.jpeg.jpg)
+![img-92.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-92.jpeg.jpg)
 
 Fig. 6.5: Normal and abnormal sites of implantation: (1) Normal site of implantation in the upper uterine segment; (2) Abnormal sites of implantation in lower uterine segment; (3) Interstitial implantation; (4) Tubal in ampulla of uterine tube; (5) Abdominal implantation; (6) Ovarian implantation
 the uterine endometrium is highly modified, edematous and vascular.
@@ -2715,7 +2335,7 @@ Decidual reaction: Due to the higher levels of maternal progesterone and the hCG
 1. Decidua basalis/Serotina: The part that contributes for the maternal component of placenta. It is the part that lies deep to the developing blastocyst. The maternal blood vessels (spiral arteries) proliferate in the region of decidua basalis and are filled with blood and dilate to form sinusoids. The decidua basalis consists predominantly of large decidual cells that contain large amounts of lipids and glycogen (that presumably provide a source of nutrition for the embryo). The decidua basalis is also referred to as the decidual plate, and is firmly united to the chorion.
 2. Decidua capsularis/Reflexa: The part of endometrium that surrounds the embryo like a capsule and separates it from the uterine cavity.
 3. Decidua parietalis/Vera: The part of decidua that lines the rest of uterine cavity.
-![img-93.jpeg](img-93.jpeg.jpg)
+![img-93.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-93.jpeg.jpg)
 
 Fig. 6.6: Subdivisions of decidua: basalis, capsularis and parietalis
 Fate of decidua: As the conceptus enlarges during development, the decidua capsularis enlarges into the uterine cavity and finally fuses with decidua parietalis during 3rd month of pregnancy thus obliterating the uterine cavity. At the end of pregnancy, the decidua is shed off, along with the placenta and membranes. It is this shedding off which gives the decidua its name (c.f. deciduous trees).
@@ -2745,7 +2365,7 @@ Fate of decidua: As the conceptus enlarges during development, the decidua capsu
 It is the first embryonic membrane. The trophoblast cells are the precursor cells of human placenta. At first the cells form
 
 Flowchart 6.2: Components of decidua and chorion
-![img-94.jpeg](img-94.jpeg.jpg)
+![img-94.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-94.jpeg.jpg)
 a unilaminar fetal membrane. Later with the formation of blastocyst it becomes bilaminar.
 Differentiation of two layers of trophoblast: This is essential for the formation of chorionic villi. The trophoblast is at first made up of a single layer of cells (Figs 6.9 and 6.10A). As these cells multiply, two distinct layers are formed (Fig. 6.10B):
 
@@ -2759,7 +2379,7 @@ Differentiation of two layers of trophoblast: This is essential for the formatio
 ## Chorion
 
 Definition: The cellular, outermost extraembryonic membrane composed of trophoblast lined with extraembryonic somatopleuric mesoderm.
-![img-95.jpeg](img-95.jpeg.jpg)
+![img-95.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-95.jpeg.jpg)
 
 Fig. 6.7: Normal attachment of placenta-upper uterine segment
 
@@ -2768,10 +2388,10 @@ Fig. 6.7: Normal attachment of placenta-upper uterine segment
 - The extraembryonic somatic mesoderm and the two layers of trophoblast (cytotrophoblast and syncytiotrophoblast) contribute for the formation of chorion all around the developing embryo (Fig. 6.9).
 - The extraembryonic coelom is now called the chorionic cavity. Embryo and its amniotic and yolk sacs are suspended into it by connecting stalk. The amniotic sac with embryonic epiblast forms its floor and the yolk sac with embryonic hypoblast forms its roof.
 
-![img-96.jpeg](img-96.jpeg.jpg)
+![img-96.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-96.jpeg.jpg)
 
 Figs 6.8A to D: Different degrees of placenta previa
-![img-97.jpeg](img-97.jpeg.jpg)
+![img-97.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-97.jpeg.jpg)
 
 Fig. 6.9: Differentiation of trophoblast and formation of chorion and amnion
 
@@ -2784,7 +2404,7 @@ Fig. 6.9: Differentiation of trophoblast and formation of chorion and amnion
 The chorionic villi are first formed all over the trophoblast and grow into the surrounding decidua (Fig. 6.10).
 
 - Chorion laeve: The villi associated with decidua capsularis are transitory. As the gestational sac grows they get compressed and their blood supply is reduced.
-![img-98.jpeg](img-98.jpeg.jpg)
+![img-98.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-98.jpeg.jpg)
 
 Fig. 6.10: Types of chorion: chorion frondosum in relation to decidua basalis and chorion laeve in relation to decidua capsularis
 
@@ -2805,10 +2425,10 @@ Process of villus formation: The various processes in the formation of villi are
 - Appearance of lacunae and trabeculae in syncytiotrophoblast: The syncytiotrophoblast grows rapidly and becomes thick. Small cavities called lacunae appear in this layer (Fig. 6.11C). Gradually, the lacunae increase in size. At first they are irregularly arranged (Fig. 6.11D), but gradually, they come to lie radially (Figs 6.12A to C) around the blastocyst. The lacunae are separated from one another by partitions of syncytium, which are
 called trabeculae. The lacunae gradually communicate with each other, so that eventually one large space is formed. Each trabeculus is now surrounded all around by this lacunar space (Figs 6.12A to C).
 - Erosion of maternal endometrium by syncytiotrophoblast and entry of maternal blood into the syncytial lacunae: The syncytiotrophoblast in which these changes are occurring grows into the endometrium. As the endometrium is eroded, some of its blood vessels are
-![img-99.jpeg](img-99.jpeg.jpg)
+![img-99.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-99.jpeg.jpg)
 
 Figs 6.11A to D: Differentiation of trophoblast and early stages in the formation of chorionic villi. (A) Cytotrophoblast in contact with decidua; (B) Formation of syncytiotrophoblast; (C) Lacunae in syncytiotrophoblast; (D) Enlarging lacunae
-![img-100.jpeg](img-100.jpeg.jpg)
+![img-100.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-100.jpeg.jpg)
 
 Figs 6.12A to C: (A) Radial arrangement of trabeculae and lacune around the blastocyst; (B) Regularly arranged syncytial trabeculae; (C) Transverse section through trabeculae containing syncytiotrophoblast
 
@@ -2817,10 +2437,10 @@ opened up, and blood from them fills the lacunar space (Figs 6.13A to C).
 - Formation of primary chorionic villi (Figs 6.14A to C): Each trabeculus is, initially, made up entirely of syncytiotrophoblast and in cut section it is surrounded by lacunar space filled with maternal blood. Now the cells of the cytotrophoblast begin to multiply and grow into each trabeculus. The trabeculus thus comes to have a central core of cytotrophoblast covered by an outer
 layer of syncytium. It is surrounded by maternal blood, filling the lacunar space. The trabeculus is now called a primary villus and the lacunar space is now called the intervillous space.
 - Formation of secondary chorionic villi (Figs 6.15A to C): Extraembryonic mesoderm invades the center of each primary villus. The villus now has a core of mesoderm covered by cytotrophoblast and by syncytium. This structure is called a secondary villus.
-![img-101.jpeg](img-101.jpeg.jpg)
+![img-101.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-101.jpeg.jpg)
 
 Figs 6.13A to C: (A) Radial arrangement of trabeculae and lacunae around the blastocyst with maternal blood vessels entering lacunar space; (B) Uterine blood vessels in the decidua open into the lacunar space and fill with maternal blood and trabecular filled with syncytiotrophoblast; (C) Transverse section through trabeculae containing syncytiotrophoblast surrounded by lacunar spaces filled with maternal blood
-![img-102.jpeg](img-102.jpeg.jpg)
+![img-102.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-102.jpeg.jpg)
 
 Figs 6.14A to C: (A) Primary chorionic villi and lacunae around the blastocyst with maternal blood vessels entering lacunar space and extensions of cytotrophoblast cells in the center of syncytial trabeculae; (B) Primary villi with central cytotrophoblast cells surrounded by syncytiotrophoblast; (C) Transverse section of primary villi with central cytotrophoblast and peripheral syncytiotrophoblast in contact with maternal blood in intervillous space
 
@@ -2828,10 +2448,10 @@ Figs 6.14A to C: (A) Primary chorionic villi and lacunae around the blastocyst w
 - Establishment of fetal blood circulation in tertiary villi: The blood vessels of the villus establish connections
 with the circulatory system of the embryo. Fetal blood now circulates through the villi, while maternal blood circulates through the intervillous space.
 - Formation of cytotrophoblastic shell: The cytotrophoblast that grows into the trabeculus (or villus) does not penetrate the entire thickness of syncytium and,
-![img-103.jpeg](img-103.jpeg.jpg)
+![img-103.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-103.jpeg.jpg)
 
 Figs 6.15A to C: (A) Secondary chorionic villi and intervillous space around the blastocyst with maternal in intervillous space and extensions of extraembryonic somatopleuric mesoderm cytotrophoblast cells and syncytiotrophoblast in the trabeculae; (B) Secondary chorionic villi with central extraembryonic mesoderm, intermediate cytotrophoblast cells surrounded by syncytiotrophoblast; (C) Transverse section of secondary villi with central core of extraembryonic mesoderm, intermediate cytotrophoblast and peripheral syncytiotrophoblast in contact with maternal blood in intervillous space
-![img-104.jpeg](img-104.jpeg.jpg)
+![img-104.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-104.jpeg.jpg)
 
 Figs 6.16A to C: (A) Tertiary chorionic villi and intervillous space around the blastocyst with maternal blood in intervillous space and extensions fetal blood capillaries in extraembryonic somatopleuric mesoderm, cytotrophoblast cells and syncytiotrophoblast in the trabeculae; (B) Tertiary chorionic villi with central core of extraembryonic mesoderm with capillaries, intermediate cytotrophoblast cells surrounded by syncytiotrophoblast; (C) Transverse section of tertiary villi with central extraembryonic mesoderm with capillaries, intermediate cytotrophoblast and peripheral syncytiotrophoblast in contact with maternal blood in intervillous space
 
@@ -2842,7 +2462,7 @@ therefore, does not come in contact with the decidua. At a later stage, however,
 - The villi that are first formed (as described above) and are attached on the fetal side to the extraembryonic mesoderm and on the maternal side to the cytotrophoblastic shell. They are, therefore, called anchoring villi.
 - Each anchoring villus consists of a stem villus or truncus chorii.
 - Each stem villus divides into a number of branches called rami chorii.
-![img-105.jpeg](img-105.jpeg.jpg)
+![img-105.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-105.jpeg.jpg)
 
 Fig. 6.17: Formation of cytotrophoblast shell
 
@@ -2857,13 +2477,13 @@ The placenta presents two parts (fetal and maternal), two surfaces (fetal and ma
 Maternal part: This is contributed by decidua basalis or decidual plate of endometrium.
 Fetal part: This is contributed by chorion frondosum or chorionic plate. This surface is covered by the fetal membrane amnion and the umbilical cord is attached near the center of this surface.
 Maternal surface: The maternal surface is rough and irregular (Fig. 6.19A). It is subdivided into a number of lobes called maternal cotyledons. Septa that grow into the intervillous space from the maternal side (Fig. 6.18) divide this surface into 15-20 rough and irregular maternal
-![img-106.jpeg](img-106.jpeg.jpg)
+![img-106.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-106.jpeg.jpg)
 
 Fig. 6.18: Maternal and fetal cotyledons. Subdivisions of villus-truncus, ramus and ramuli chorii, and anchoring villi
 
 cotyledons. If the placenta is viewed from the maternal side, the bases of the septa are seen as grooves while the cotyledons appear as convex areas bounded by the grooves.
 Fetal surface: This surface is smooth and is covered by amnion (Fig. 6.19B). The umbilical cord is attached close to the center of this surface. Umbilical vessels radiate from the umbilical cord beneath the amnion. The fetal part is contributed by chorionic frondosum that is seen as a plate called chorionic plate. From the chorionic plate 40-60 extensions (fetal cotyledons) arise and extend toward the decidua basalis. Each fetal cotyledon (Fig. 6.18) consists of a stem villus/truncus chorii that show ramifications into number of branches (ramus chorii), each further subdivides (ramuli chorii) like the branches of a tree. Their terminal ramifications look like fingers and are called chorionic
-![img-107.jpeg](img-107.jpeg.jpg)
+![img-107.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-107.jpeg.jpg)
 
 Figs 6.19A and B: Placenta: (A) Maternal surface; (B) Fetal surface
 villi. The villi that are attached to decidua basalis are called anchoring villi. Others float in the maternal blood that flows in between the villi and are called floating villi (Fig. 6.18).
@@ -2887,7 +2507,7 @@ Structure of placenta (Fig. 6.20):
 - Primary mesoderm with fetal blood vessels
 - Cytotrophoblast
 - Syncytiotrophoblast.
-![img-108.jpeg](img-108.jpeg.jpg)
+![img-108.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-108.jpeg.jpg)
 
 Fig. 6.20: Structural components of placental barrier or membrane
 
@@ -2935,7 +2555,7 @@ Description of human placenta based on certain criteria is presented in Table 6.
 It has several functions that facilitate growth of the fetus.
 
 - It acts as a temporary organ that allows transport of oxygen, water, electrolytes and nutrients (in the form of carbohydrates, lipids, polypeptides, amino acids
-![img-109.jpeg](img-109.jpeg.jpg)
+![img-109.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-109.jpeg.jpg)
 
 Figs 6.21A and B: Diagram of placental barrier (A) in early part of pregnancy and (B) in later part of pregnancy
 
@@ -2971,11 +2591,11 @@ the corpus luteum degenerates). Estrogens (mainly estriol) produced by the place
 - Paracentral insertion of umbilical cord (Fig. 6.23B)
 - Marginal or battledore placenta (Fig. 6.23C)-Cord is attached to the margin of placenta
 - Velamentous (Fig. 6.23D)—Umbilical cord is attached to the fetal membrane close to the peripheral margin of placenta.
-![img-110.jpeg](img-110.jpeg.jpg)
+![img-110.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-110.jpeg.jpg)
 
 Figs 6.22A to J: Types of placenta based on shape: (A) Discoid; (B) Bidiscoidal; (C) Oval; (D) Triangular; (E) Irregular; (F) Lobed-it divides into lobes; (G) Diffuse or placenta membranacea; (H) Placenta Succenturiata; (I) Fenestrated; (J) Circumvallate
 
-![img-111.jpeg](img-111.jpeg.jpg)
+![img-111.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-111.jpeg.jpg)
 
 Figs 6.23A to D: Types of placenta based on attachment of umbilical cord: (A) Normal; (B) Paracentral insertion of umbilical cord; (C) Marginal or Battledore placenta; (D) Velamentous
 3. According to distribution of umbilical arteries:
@@ -3012,11 +2632,11 @@ Structures that constitute the fetal membranes are:
 - Excretion
 - Nutrition-Amniotic fluid, placenta, umbilical cord
 - Clinical importance: They are essential for performing prenatal diagnostic procedures like chorionic villus biopsy and amniocentesis.
-![img-112.jpeg](img-112.jpeg.jpg)
+![img-112.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-112.jpeg.jpg)
 
 Fig. 6.24: Furcate placenta
 
-![img-113.jpeg](img-113.jpeg.jpg)
+![img-113.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-113.jpeg.jpg)
 
 Fig. 6.25: Phylogenetic classification of placenta into epitheliochorial, syndesmochorial, endotheliochorial, hemochorial and hemoendothelial
 
@@ -3045,7 +2665,7 @@ during the late embryonic period due to the collection of fluid within it. It gr
 - Functions:
 - Amniotic fluid provides support for the delicate tissues of the growing embryo or fetus.
 - It allows free movement and protects the fetus from external injury. It also avoids adhesion of the fetus to amnion.
-![img-114.jpeg](img-114.jpeg.jpg)
+![img-114.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-114.jpeg.jpg)
 
 Fig. 6.26: Scheme to show how maternal blood circulates through placenta
 
@@ -3063,7 +2683,7 @@ Function: The umbilical vessels transport oxygen and nutrients from the placenta
 ## Formation of Umbilical Cord
 
 - During 2nd week of development with the appearance of extraembryonic coelom, the extraembryonic mesoderm is divided into somatopleuric and splanchnopleuric layers around the entire conceptus except at one area.
-![img-115.jpeg](img-115.jpeg.jpg)
+![img-115.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-115.jpeg.jpg)
 
 Figs 6.27A and B: (A) Embryo covered with amniotic membrane and floating in the amniotic fluid; (B) Embryo after opening the amniotic cavity
 
@@ -3075,7 +2695,7 @@ This unsplit area of extraembryonic mesoderm forms the connecting stalk (Fig. 6.
 - During the 4th week of development with the formation of head fold, tail fold and lateral folds of the embryo, the connecting stalk with its constituent allantoic diverticulum moves to the ventral surface of the developing embryo. With the incorporation of yolk sac into the head and tail folds of the embryo, contributing for the foregut and hind gut respectively the midgut between the two is in communication with the extraembryonic part of yolk sac known as definitive yolk sac (Fig. 6.28). This communication between midgut and definitive yolk sac is known as vitellointestinal duct and lies close to the connecting stalk. Because of the formation of embryonic folds, the amniotic membrane forms a tubular investment enclosing the connecting stalk along with allantoic diverticulum, vitellointestinal duct and umbilical vessels forming the umbilical cord.
 Components: Components of umbilical cord vary with gestational age of the fetus. They are:
 - Umbilical arteries: Two umbilical arteries known as right and left umbilical arteries that are derived from
-![img-116.jpeg](img-116.jpeg.jpg)
+![img-116.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-116.jpeg.jpg)
 
 Fig. 6.28: Developing embryo with incorporation of yolk sac into the head and tail folds and its communication with the extraembryonic part of yolk sac
 ventral division of internal iliac arteries. These transport deoxygenated blood from the fetus to the chorionic villi of placenta.
@@ -3136,7 +2756,7 @@ Tears in the amnion results in amniotic bands. These bands may encircle parts of
 - Type I diabetes.
 - Wharton's jelly: Mesenchymal stem cells—cartilage, bone.
 - Umbilical cord cyst (Fig. 6.29)
-![img-117.jpeg](img-117.jpeg.jpg)
+![img-117.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-117.jpeg.jpg)
 
 Fig. 6.29: Fetus with umbilical cyst
 
@@ -3145,10 +2765,10 @@ Fig. 6.29: Fetus with umbilical cyst
 We have so far considered the fetal membranes (amnion and chorion), and the placenta, mainly in relation to the fetus. Let us now see their relationships to the uterine cavity. These are important, as they help us to understand some aspects of the process of childbirth. The changing relationships will be best understood by first reviewing Figures 6.2, 6.3, 6.6 and 6.9 and then by studying Figures 6.30 to 6.32 .
 
 In Figure 6.30, we see three cavities, namely (1) the uterine cavity, (2) the extraembryonic coelom and (3) the amniotic cavity. The outer wall of the extraembryonic coelom is formed by chorion and the inner wall by amnion. As the amniotic cavity enlarges, the extraembryonic coelom becomes smaller and smaller. It is eventually obliterated
-![img-118.jpeg](img-118.jpeg.jpg)
+![img-118.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-118.jpeg.jpg)
 
 Fig. 6.30: Relationship of amniotic cavity, extraembryonic coelom and uterine cavity
-![img-119.jpeg](img-119.jpeg.jpg)
+![img-119.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-119.jpeg.jpg)
 
 Fig. 6.31: Relationship of amniotic cavity and uterine cavity after obliteration of the extraembryonic coelom
 
@@ -3159,7 +2779,7 @@ From Figure 6.31, it will be seen that the wall of the amniotic cavity is now fo
 Still, further expansion of the amniotic cavity is achieved by enlargement of the uterus. Enlargement of the amniotic cavity is accompanied by an increase in the amount of amniotic fluid. At the time of parturition (childbirth), the fused amnion and chorion (amniochorionic membrane) (along with the greatly thinned out decidua capsularis), constitute what are called the membranes.
 
 As the uterine muscle contracts, increased pressure in the amniotic fluid causes these membranes to bulge into the cervical canal. This bulging helps to dilate this canal. The bulging membranes can be felt through the vagina and are referred to as the bag of waters. Ultimately the membranes rupture. Amniotic fluid flows out into the vagina. After the child is delivered, the placenta and the membranes, along
-![img-120.jpeg](img-120.jpeg.jpg)
+![img-120.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-120.jpeg.jpg)
 
 Figs 6.32A and B: (A) Amniotic cavity after obliteration of the extraembryonic coelom and uterine cavity; (B) A full term fetus and placenta in uterine cavity of a cadaver
 with all parts of the decidua, separate from the wall of the uterus and are expelled from it.
@@ -3184,7 +2804,7 @@ TABLE 6.3: Differences in features between monozygotic and dizygotic twins
 | Genetic constitution | Identical genetic constitution | Genetically dissimilar |
 | No. of amnion, chorion, placenta | Majority diamniotic, monochorionic | Two amnions, chorions and placentae |
 
-![img-121.jpeg](img-121.jpeg.jpg)
+![img-121.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-121.jpeg.jpg)
 
 Figs 6.33A to D: Twinning: (A) Dizygotic twins resulting from fertilization of two different ova-bichorial, biamniotic; (B to D) Monozygotic twins: (B) Bichorial, biamniotic; (C) Monochorial, biamniotic; (D) Monochorial, monoamniotic
 
@@ -3218,23 +2838,23 @@ A 28-year married woman with a history of regular menstrual cycles comes to the 
 
 - Amenorrhea is absence of menstruation in a woman of reproductive age. The physiological cause of amenorrhea is pregnancy and lactation. In the present case, the cause for amenorrhea is pregnancy.
 - The cause for severe pain in abdomen in the present case is most probably an ectopic pregnancy. Normal
-![img-122.jpeg](img-122.jpeg.jpg)
+![img-122.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-122.jpeg.jpg)
 
 Figs 6.34A and B: Derivation of triplets (A) from one ovum and (B) from two ova
-![img-123.jpeg](img-123.jpeg.jpg)
+![img-123.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-123.jpeg.jpg)
 
 Fig. 6.35: Two ways in which quadruplets may be derived from two ova
-![img-124.jpeg](img-124.jpeg.jpg)
+![img-124.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-124.jpeg.jpg)
 
 Figs 6.36A to D: Conjoined twins. (A) Craniopagus; (B) Thoracopagus; (C) Pygopagus; (D) Cephalothoracopagusfusion of thorax and head
 
-![img-125.jpeg](img-125.jpeg.jpg)
+![img-125.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-125.jpeg.jpg)
 
 Fig. 6.37: Acephalic acardiac fetus (Specimen Courtesy: Dr K Ashalatha)
-![img-126.jpeg](img-126.jpeg.jpg)
+![img-126.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-126.jpeg.jpg)
 
 Fig. 6.38: Parasitic twins
-![img-127.jpeg](img-127.jpeg.jpg)
+![img-127.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-127.jpeg.jpg)
 
 Figs 6.39A to C: Tubal pregnancy. (A) Separated tube with intact gestational sac; (B) Tubal gestation with sac opened; (C) Developing embryo in fallopian tube
 site of implantation of blastocyst is in the upper uterine segment. The most common site of extrauterine implantation is in the uterine tube. It is a case of ectopic pregnancy with implantation of blastocyst in the right uterine tube.
@@ -3244,7 +2864,7 @@ site of implantation of blastocyst is in the upper uterine segment. The most com
 removed with tube and subjected for examination by opening the tube the amniotic cavity and the attached conceptus can be identified (Fig. 6.39B).
 - As the cleaving blastocyst is passing through the uterine tube for implantation in the uterus, it is prevented from adhering to tubal mucosa by the zona pellucida. The zona pellucida of the cleaving blastocyst that is rolling on the uterine wall gradually becomes thin on 5th day. By 6th day the zona pellucida disappears. If fertilized ovum cannot reach the uterus by 5th day of fertilization, the implantation of blastocyst takes place in the extrauterine site and in the present case in the uterine tube (Fig. 6.39C).
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. What are the abnormal sites of implantation?
 2. Explain the decidual reaction.
@@ -3381,10 +3001,10 @@ Depending on the epithelium from which they take origin, glands may be:
 
 - A small proportion of mesodermal cells give rise to epithelia. The remaining cells that make up the bulk of mesoderm get converted into a loose tissue called mesenchyme (Fig. 7.2).
 
-![img-128.jpeg](img-128.jpeg.jpg)
+![img-128.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-128.jpeg.jpg)
 
 Figs 7.1A to E: Stages in the development of exocrine and endocrine glands
-![img-129.jpeg](img-129.jpeg.jpg)
+![img-129.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-129.jpeg.jpg)
 
 Fig. 7.2: Mesenchymal cells. Note the delicate cytoplasmic processes joining the cells to one another
 
@@ -3413,7 +3033,7 @@ At the site of formation of loose connective tissue, the mesenchymal cells get c
 - These stem cells first form colonies in the liver. In the late embryonic period, formation of blood starts in the liver, which remains an important site of blood cell formation till the 6th month of intrauterine life.
 - Almost near the middle of prenatal life, definitive hematopoietic stem cells from the liver migrate to
 
-![img-130.jpeg](img-130.jpeg.jpg)
+![img-130.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-130.jpeg.jpg)
 
 Fig. 7.3: Derivatives of mesenchymal cells
 colonize the bone marrow. At the time of birth, blood formation is mainly in the bone marrow. Here totipotent hemal stem cells give rise to pluripotent lymphoid stem cells and pluripotent hemal stem cells (Fig. 7.5). These stem cells form colony-forming units (CFUs).
@@ -3423,7 +3043,7 @@ and lymphocytes (Fig. 7.5). In the case of erythrocytes, stem cells divide so ra
 - In the adult, main sites of blood formation are bone marrow, lymph nodes, thymus and spleen.
 The precursors of various types of blood cells are generally regarded as being of mesodermal in origin.
 
-![img-131.jpeg](img-131.jpeg.jpg)
+![img-131.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-131.jpeg.jpg)
 
 Figs 7.4A to D: Formation of blood cells and blood vessels from a blood island. (A) In the embryo during 3rd week; (B) Formation of blood islands; (C) Formation of hemangioblasts; (D) Formation of blood cells and endothelial cells
 
@@ -3447,7 +3067,7 @@ To understand the formation of bone, it is necessary for students to know its no
 - With the mineralization of the sheets of lamellae, the spaces occupied by the osteocytes and their processes become lacunae and canaliculi respectively (Fig. 7.6D).
 - Through their processes the osteocytes of adjacent lamellae are connected to one another and also with the
 
-![img-132.jpeg](img-132.jpeg.jpg)
+![img-132.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-132.jpeg.jpg)
 
 Fig. 7.5: Scheme showing the terms applied to precursors of various blood cells
 blood vessels in the bone marrow and periosteal vessels for the supply of nutrition to the developing bone cells.
@@ -3472,17 +3092,17 @@ have abundant basophilic cytoplasm and are arranged in regular rows, looking ver
 1. Intramembranous ossification
 2. Endochondral ossification.
 
-![img-133.jpeg](img-133.jpeg.jpg)
+![img-133.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-133.jpeg.jpg)
 
 Figs 7.6A to D: (A to C) Scheme to show that bone is made up of lamellae; (D) Position of osteocytes among the lamellae
 
 ## Intramembranous Ossification
 
 - It is direct conversion of mesenchymal tissue into bone. In some situations (e.g. the vault of the skull), formation of bone is not preceded by formation of a cartilaginous model. Instead, bone is laid down directly in a fibrous membrane.
-![img-134.jpeg](img-134.jpeg.jpg)
+![img-134.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-134.jpeg.jpg)
 
 Figs 7.7A and B: (A) Structure of spongy bone; (B) Structure of compact bone
-![img-135.jpeg](img-135.jpeg.jpg)
+![img-135.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-135.jpeg.jpg)
 
 Fig. 7.8: Relationship of osteoblasts and osteoclasts to developing bone
 
@@ -3491,12 +3111,12 @@ Fig. 7.8: Relationship of osteoblasts and osteoclasts to developing bone
 - The various steps involved in this type of bone formation are (Flowchart 7.1):
 
 Flowchart 7.1: Intramembranous ossification
-![img-136.jpeg](img-136.jpeg.jpg)
+![img-136.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-136.jpeg.jpg)
 
 1. Mesenchymal condensation: Star-shaped mesenchymal cells of loose connective tissue aggregate in the area where bone is to be formed. The mesenchymal cells are converted to spindle-shaped cells thus forming a condensed mesenchymal tissue model (Fig. 7.9A).
 2. Conversion into a fibrous membrane: Spindle-shaped mesenchymal cells differentiate into fibroblasts. Fibroblasts lay down collagen fibers converting the mesenchymal model into a fibrous model (Fig. 7.9B).
 3. Osteoblast and osteoid formation: Fibroblasts get converted into osteoblasts and start laying down the early bone matrix, i.e. osteoid (uncalcified bone). It contains fibers and ground substance which are products of osteoblasts. This forms the center of ossification (Fig. 7.9C).
-![img-137.jpeg](img-137.jpeg.jpg)
+![img-137.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-137.jpeg.jpg)
 
 Figs 7.9A to F: Stages in intramembranous ossification
 
@@ -3518,7 +3138,7 @@ Figs 7.9A to F: Stages in intramembranous ossification
 4. Calcification of intercellular matrix: The intercellular substance between the enlarged cartilage cells
 
 Flowchart 7.2: Endochondral ossification
-![img-138.jpeg](img-138.jpeg.jpg)
+![img-138.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-138.jpeg.jpg)
 
 Figs 7.10A to D: Endochondral ossification. (A and B) Mesenchymal condensation; (C) Cartilaginous model with perichondrium; (D) Enlarged cartilage cells (ECC) at the site of bone formation
 becomes calcified, under the influence of an enzyme called alkaline phosphatase, which is secreted by the cartilage cells. The nutrition to the cells is thus cut off and they die, leaving behind empty spaces called primary areolae (Figs 7.11A and B).
@@ -3526,7 +3146,7 @@ becomes calcified, under the influence of an enzyme called alkaline phosphatase,
 5. Vascularization of cartilaginous matrix: Some blood vessels of the perichondrium (which may be called periosteum as soon as bone is formed) now invade the calcified cartilaginous matrix. They are accompanied by osteogenic cells. This mass of vessels and cells is called the periosteal bud. It eats away much of the calcified matrix forming the walls of the primary areolae, and thus creates large cavities called secondary areolae (Fig. 7.11C).
 6. Osteoid and lamella formation: The walls of the secondary areolae are formed by thin layers of calcified matrix that have not been dissolved. The osteogenic cells become osteoblasts and arrange themselves along the surfaces of these bars, or plates, of calcified cartilaginous matrix (Fig. 7.12A). These osteoblasts now lay down a layer of ossein fibrils embedded in a gelatinous intercellular matrix (Fig. 7.12B). This material is called osteoid. It is calcified and a lamellus of bone is formed (Fig. 7.12C).
 7. Formation of trabeculae: The osteoblasts now lay down another layer of osteoid over the first lamellus. This is also calcified. Thus two lamellae of bone are formed. Some osteoblasts that get caught between the lamellae form osteocytes. As more lamellae are laid down, bony trabeculae are formed (Fig. 7.12D).
-![img-139.jpeg](img-139.jpeg.jpg)
+![img-139.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-139.jpeg.jpg)
 
 Figs 7.11A to C: Endochondral ossification. (A and B) Formation of primary areolae; (C) Formation of secondary areolae
 
@@ -3536,7 +3156,7 @@ Figs 7.11A to C: Endochondral ossification. (A and B) Formation of primary areol
 - A zone of hypertrophied cartilage cells, in an uncalcified matrix (3 in Fig. 7.13A).
 - A normal cartilage (4 in Fig. 7.13A) in which there is considerable mitotic activity.
 - If we see the same cartilage a little latter (Fig. 7.13B), we find that ossification has now extended into zone 2, and simultaneously the matrix in zone 3 has become calcified. The deeper cells of zone 4 have meanwhile hypertrophied, while the more superficial ones have multiplied to form zone 5 .
-![img-140.jpeg](img-140.jpeg.jpg)
+![img-140.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-140.jpeg.jpg)
 
 Figs 7.12A to D: Endochondral ossification. Stages in the formation of bony lamellae
 
@@ -3551,25 +3171,25 @@ The various stages in the formation of a long bone are:
 3. Endochondral ossification starts in a small area of the shaft as described above. This area is called the primary center of ossification (Fig. 7.15A).
 4. Gradually, bone formation extends from the primary center toward the ends of the shaft. This is accompanied by enlargement of the cartilaginous model (Fig. 7.15B).
 5. Soon after the appearance of the primary center, and onset of endochondral ossification in it, the
-![img-141.jpeg](img-141.jpeg.jpg)
+![img-141.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-141.jpeg.jpg)
 
 Figs 7.13A and B: Scheme to show the growth in length of a bone
 perichondrium (which may now be called periosteum) becomes active. The osteogenic cells in its deeper layer lay down bone on the surface of the cartilaginous model by intramembranous ossification. This periosteal bone completely surrounds the cartilaginous shaft and is, therefore, called the periosteal collar (Fig. 7.16A). It is first formed only around the region of the primary center but rapidly extends toward the ends of the cartilaginous model.
 6. The periosteal collar acts as a splint, and gives strength to the cartilaginous model, at the site where it is weakened by the formation of secondary areolae. We shall see that most of the shaft of the bone is derived from this periosteal collar and is, therefore, intramembranous in origin.
 7. At about the time of birth, the developing bone consists of a part called the diaphysis (or shaft) (that is bony, and
-![img-142.jpeg](img-142.jpeg.jpg)
+![img-142.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-142.jpeg.jpg)
 
 Figs 7.14A to C: Formation of a typical long bone. Establishment of cartilaginous model
-![img-143.jpeg](img-143.jpeg.jpg)
+![img-143.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-143.jpeg.jpg)
 
 Figs 7.15A and B: Formation of a typical long bone. Primary center of ossification and periosteal collar
 
 has been formed by extension of the primary center of ossification); and ends that are cartilaginous (Fig. 7.16A). At varying times after birth, secondary centers of endochondral ossification appear in the cartilages forming the ends of the bone (Fig. 7.16B). These centers enlarge until the ends become bony (Fig. 7.16C). More than one secondary center of ossification may appear at either end. The portion of bone formed from one secondary center is called an epiphysis.
 8. For a considerable time after birth, the bone of the diaphysis and the bone of the epiphysis are separated
-![img-144.jpeg](img-144.jpeg.jpg)
+![img-144.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-144.jpeg.jpg)
 
 Figs 7.16A to C: Formation of a typical long bone. Secondary centers of ossification
-![img-145.jpeg](img-145.jpeg.jpg)
+![img-145.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-145.jpeg.jpg)
 by a plate of cartilage called the epiphyseal cartilage, or epiphyseal plate. This is formed by cartilage into which ossification has not extended either from the diaphysis or from the epiphysis. We shall see that this plate plays a vital role in growth of the bone.
 
 ## Growth of a Long Bone
@@ -3579,7 +3199,7 @@ A growing bone increases both in length and in thickness.
 - We have seen that the periosteum lays down a layer of bone around the shaft of the cartilaginous model. This periosteal collar gradually extends over the whole length of the diaphysis. As more layers of bone are laid down over it, the periosteal bone becomes thicker and thicker.
 - However, it is neither necessary nor desirable for it to become too thick. Hence, osteoclasts come to line the internal surface of the shaft and remove bone from this aspect. As bone is laid down outside the shaft, it is removed from the inside. The shaft thus grows in diameter, and at the same time, its wall does not become too thick (Figs 7.17A to E). The osteoclasts also remove the trabeculae lying in the center of the bone that were formed by endochondral ossification. In this way, a marrow cavity is formed.
 - As the shaft increases in diameter, there is a corresponding increase in the size of the marrow cavity. This cavity also extends toward the ends of the diaphysis but does not reach the epiphyseal plate. Gradually, most of the bone
-![img-146.jpeg](img-146.jpeg.jpg)
+![img-146.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-146.jpeg.jpg)
 
 Figs 7.17A to E: Formation of a typical long bone. Increase in thickness. Shaft is ultimately made up almost entirely of periosteal bone formed by the process of intramembranous ossification
 
@@ -3592,7 +3212,7 @@ formed from the primary center (i.e. of endochondral origin) is removed, except 
 3. Zone of calcification: Here, the cells become still larger and the matrix becomes calcified.
 
 - Next to the zone of calcification, there is a zone where cartilage cells are dead and the calcified matrix is being replaced by bone. Growth in length of the bone takes place by continuous transformation of the epiphyseal cartilage to bone (Figs 7.18 and 7.19) in this zone (i.e. on the diaphyseal surface of epiphyseal cartilage). At the same time, the thickness of the epiphyseal cartilage is maintained by active multiplication of cells in the zone of proliferation.
-![img-147.jpeg](img-147.jpeg.jpg)
+![img-147.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-147.jpeg.jpg)
 
 Fig. 7.18: Structure of epiphyseal cartilage
 
@@ -3610,11 +3230,11 @@ Tissues grow by two methods. In some of them, growth takes place by multiplicati
 ## Remodeling
 
 We have seen above that when a tissue grows by interstitial growth it is easy for it to maintain its shape. However, this is not true of bone which can grow only by apposition. This will be clear from Figure 7.20. In this Figure, the brown
-![img-148.jpeg](img-148.jpeg.jpg)
+![img-148.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-148.jpeg.jpg)
 
 Fig. 7.19: Growth in length of bone at epiphyseal cartilage
 
-![img-149.jpeg](img-149.jpeg.jpg)
+![img-149.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-149.jpeg.jpg)
 
 Fig. 7.20: Remodeling of bone ends during growth
 line represents the shape of a bone end. The green line represents the same bone end after it has grown for some time. It will be clear that some areas of the original bone have to disappear if proper shape is to be maintained. This process of removal of unwanted bone is called remodeling.
@@ -3650,7 +3270,7 @@ Some anomalies that affect the skeleton as a whole are as follows:
 ## MUSCULAR TISSUE
 
 There are three different types of muscles. They are (1) skeletal, (2) cardiac and (3) smooth muscles. The primitive mesenchymal cells differentiate into spindle-shaped cells with longitudinal striations called myoblasts or premuscle
-![img-150.jpeg](img-150.jpeg.jpg)
+![img-150.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-150.jpeg.jpg)
 
 Fig. 7.21: Achondroplasia
 
@@ -3672,9 +3292,9 @@ Almost all smooth muscle is formed from mesenchyme. The origin of smooth muscle 
 - The neuroectodermal optic cup forms the smooth muscles of iris.
 
 Flowchart 7.3: Myogenesis of different muscles
-![img-151.jpeg](img-151.jpeg.jpg)
+![img-151.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-151.jpeg.jpg)
 
-![img-152.jpeg](img-152.jpeg.jpg)
+![img-152.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-152.jpeg.jpg)
 
 Fig. 7.22: Myogenesis of different muscle tissues
 
@@ -3732,10 +3352,10 @@ After cessation of production of neuroblasts and spongioblasts, the neuroepithel
 1. Stage of apolar neuroblast: One of the germinal cells passes from the germinal layer to the mantle layer and becomes an apolar neuroblast (Fig. 7.25).
 2. Stage of bipolar neuroblast: Two processes develop and convert the apolar neuroblast to a bipolar neuroblast (Fig. 7.25).
 3. Stage of unipolar neuroblast: One of the processes of the neuroblast disappears, and it can now be called a unipolar neuroblast (Fig. 7.25).
-![img-153.jpeg](img-153.jpeg.jpg)
+![img-153.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-153.jpeg.jpg)
 
 Fig. 7.23: (A to E) Histogenesis of neural tube before and after closure. Pattern of formation of cells (A to D) before and (E) after closure of neural tube. (A) Neuroepithelial cells extend between internal limiting membrane (ILM) and external limiting membrane (ELM); (B) DNA synthesis in cells close to EEM and their migration from ELM; (C) Mitosis parallel to ILM; (D) Elongation to reach ELM; (E) Mitosis at right angles to ILM and migration of daughter cell and formation of neuroblast
-![img-154.jpeg](img-154.jpeg.jpg)
+![img-154.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-154.jpeg.jpg)
 
 Figs 7.24A to C: Layers of neural tube. (A) Cavity and wall of neural tube; (B and C) Differentiation of three layers of wall and formation of nerve cells, processes and neuroglia
 
@@ -3744,7 +3364,7 @@ Figs 7.24A to C: Layers of neural tube. (A) Cavity and wall of neural tube; (B a
 - Differentiation of processes of neuroblast: The main process of the multipolar neuroblast now grows into the marginal layer, and becomes the axon of the nerve cell (Fig. 7.24B). The axon can grow to a considerable length. It may either remain within the central nervous system, or may grow out of it as an efferent nerve fiber of a peripheral nerve. At its destination, it establishes connections, either with the cell bodies and dendrites of other neurons or with an effector organ (e.g. muscle). The smaller processes of the neuroblast are the dendrites. These ramify and establish connections with other nerve cells.
 - At first the cytoplasm of the nerve cell is homogeneous. Later Nissl's granules make their appearance. After their formation, neurons lose the ability to divide.
 - Formation of neuroglial cells: Majority of neuroglial cells are formed from germinal cells of the ependymal layer after it ceases to produce neuroblasts. These cells (glioblasts) migrate to the mantle and marginal zones. In the mantle zone, they form medulloblasts (also called spongioblasts), which differentiate into astroblasts, and subsequently into astrocytes. There are two types of astrocytes, i.e. (1) protoplasmic and (2) fibrous. In the marginal zone the glioblasts differentiate into oligodendroblasts that become oligodendrocytes. The oligodendrocytes form myelin sheath around the axons of ascending and descending tracts. There is a third type of neuroglial cell called microglia. This type does not develop from the cells of the neural tube, but migrates
-![img-155.jpeg](img-155.jpeg.jpg)
+![img-155.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-155.jpeg.jpg)
 
 Fig. 7.25: Stages in the formation of neuroblast-apolar, bipolar, unipolar and multipolar
 
@@ -3786,13 +3406,13 @@ into it along with blood vessels. These cells are believed to be of mesodermal o
 - Nerve fibers in different parts of the brain and spinal cord become myelinated at different stages of development. The process begins during the 4th month of intrauterine life, but is not completed until the child is $2-3$ years old. Nerve fibers become fully functional only after they have acquired their myelin sheaths.
 - The blood vessels of the brain, and their surrounding connective tissue, are not derived from the neural tube. These are mesodermal in origin and invade the developing brain and spinal cord from the surrounding mesoderm.
 - The development of the pia mater and the arachnoid mater (leptomeninges) is not definitely understood.
-![img-156.jpeg](img-156.jpeg.jpg)
+![img-156.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-156.jpeg.jpg)
 
 Fig. 7.26: Process of formation of (A to D) myelinated and (E to G) unmyelinated axons
 
 According to some workers, these are derived from the neural crest. The dura mater develops from the mesoderm surrounding the neural tube.
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Name five derivatives of ectoderm.
 2. Name the derivatives of mesenchymal cells.
@@ -3835,10 +3455,10 @@ stratum granulosum, stratum lucidum and stratum corneum.
 - Proliferation of stratum germinativum extends into the developing dermis as epidermal ridges. They appear by 11th week and become permanent by 18th week (Figs 8.2A to D).
 - Finger and palm prints are grooves on the surface of palms of the hand and soles of the feet including digits that are formed by epidermal ridges. Soon, thereafter,
 
-![img-157.jpeg](img-157.jpeg.jpg)
+![img-157.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-157.jpeg.jpg)
 
 Fig. 8.1: Derivation of components of the skin
-![img-158.jpeg](img-158.jpeg.jpg)
+![img-158.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-158.jpeg.jpg)
 
 Figs 8.2A to D: Stages in the development of the epidermis
 characteristic patterns (whorls, composite, loop and arch) are formed on the tips of fingers and toes. The patterns are genetically determined, and are different for each person. Similarly the epidermal ridges form patterns on palm and sole also (Figs 8.3A and B).
@@ -3863,7 +3483,7 @@ characteristic patterns (whorls, composite, loop and arch) are formed on the tip
 - The dermis over most of the head and over the anterior aspect of the neck is derived from the neural crest.
 - By 11th week mesenchymal cells begin to produce collagen and elastic fibers.
 - The line of junction between dermis and epidermis is at first straight (Figs 8.2A and B) subsequently, during 3rd and 4th months the epidermis shows regularly
-![img-159.jpeg](img-159.jpeg.jpg)
+![img-159.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-159.jpeg.jpg)
 
 Figs 8.3A and B: Dermatoglyphics: Epidermal ridges forming (A) patterns on palm and (B) patterns on fingers-arch, loop, composite and whorl
 spaced thickenings that project into the dermis (Fig. 8.2D). The portions of dermis intervening between these projections form the dermal papillae. Still later, surface elevations (epidermal ridges) are formed by further thickening of the epidermis in the same situation.
@@ -3881,7 +3501,7 @@ The appendages of skin are associated structures that are derived from the epide
 - The ectoderm at the tip of each digit becomes thickened at 10th week to form a primary nail field.
 - Subsequently, this thickening migrates from the tip of the digit onto its dorsal aspect and is surrounded by U-shaped nail folds of epidermis (Fig. 8.4A).
 - The cells in the most proximal part of the nail field proliferate to form the root of the nail. Here the cells of
-![img-160.jpeg](img-160.jpeg.jpg)
+![img-160.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-160.jpeg.jpg)
 
 Figs 8.4A and B: Derivation of nail. (A) Parts of nail; (B) Developing nail root and substance
 
@@ -3891,7 +3511,7 @@ the germinal layer multiply to form a thick layer of cells called the germinal m
 - At first the stratum corneum covers the surface of the nail but later it disappears except over the proximal part of nail plate.
 - The part of epidermis overlapping proximal part of nail plate is called eponychium. The epidermis below free margin of nail is called hyponychium (Fig. 8.4A).
 Migration of primary nail fields from the tips of the digits to their dorsal aspect explains why the skin of the dorsal aspect of the terminal part of the digits is supplied by nerves of the ventral aspect.
-![img-161.jpeg](img-161.jpeg.jpg)
+![img-161.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-161.jpeg.jpg)
 
 ## Hair
 
@@ -3899,7 +3519,7 @@ Migration of primary nail fields from the tips of the digits to their dorsal asp
 - The lower end of this downgrowth becomes expanded and is invaginated by a condensation of mesoderm, which forms the papilla (Figs 8.5C and D).
 - The hair itself is formed by proliferation of germinal cells overlying the papilla. As the hair grows to the surface, the cells forming the wall of the downgrowth surround it and form the epithelial root sheath (Fig. 8.5E).
 - An additional dermal root sheath is formed from the surrounding mesenchymal cells (Fig. 8.5E).
-![img-162.jpeg](img-162.jpeg.jpg)
+![img-162.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-162.jpeg.jpg)
 
 Figs 8.5A to E: Development of a hair follicle and sebaceous glands
 
@@ -3939,7 +3559,7 @@ Some stages in the formation of a sebaceous gland are shown in Figures 8.5C to E
 - In the presence of Wnt signaling and absence of response to fibroblast growth factor (FGF) signaling, the ectodermal cells express bone morphogenetic proteins (BMPs), and become committed to develop into epidermis.
 - The cells that are not responding to Wnt signaling may receive BMP and FGF inhibitory signals from underlying mesenchyme thus facilitating development of skin appendages.
 - Pax3 genes are active in neural crest cells migration and their differentiation into melanoblasts, melanocytes and to start their function of producing melanin pigment.
-![img-163.jpeg](img-163.jpeg.jpg)
+![img-163.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-163.jpeg.jpg)
 
 Figs 8.6A to D: Development of a sweat gland
 
@@ -3988,14 +3608,14 @@ Figs 8.6A to D: Development of a sweat gland
 - In some animals (e.g. bitches), a series of mammary glands are present on either side of the midline, on the ventral surface of the trunk. These are situated along a line that extends from the axilla to the inguinal region (mammary line or ridge).
 - In the human embryo, these lines appear around 7th week of development extending from root of upper limb to root of lower limb (Figs 8.8A and B). The ectoderm becomes thickened along this line to form mammary ridges or lines (Figs 8.8A and B). Most of this line soon disappears except in thoracic region.
 - Each mammary gland develops from a part of this line that overlies the pectoral region. In the region where the mammary gland is to form, a thickened mass of
-![img-164.jpeg](img-164.jpeg.jpg)
+![img-164.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-164.jpeg.jpg)
 
 Fig. 8.7: Vitiligo-absence of pigmentation (Image Courtesy: Dr Suguna)
-![img-165.jpeg](img-165.jpeg.jpg)
+![img-165.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-165.jpeg.jpg)
 
 Figs 8.8A and B: Mammary ridge/line. (A) The mammary line passing from the axilla to the inguinal region in fetus; (B) Adult mammary gland in pectoral region and accessory mammary gland in inguinal region
 
-![img-166.jpeg](img-166.jpeg.jpg)
+![img-166.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-166.jpeg.jpg)
 
 Figs 8.9A to D: Stages in the development of the mammary gland
 epidermal cells is seen projecting into the dermis as primary bud (Figs 8.8 and 8.9A). From this thickened mass, 16-20 solid outgrowths arise, and grow into the underlying dermis as secondary bud (Figs 8.9B and C).
@@ -4050,7 +3670,7 @@ induced or other causes will be excluded. In the absence of a history of trauma 
 For understanding different types of pigment disorders refer to pigment disorders mentioned under clinical correlation in this chapter.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Name the developmental derivatives of skin.
 2. Write notes on development of sweat glands.
@@ -4098,10 +3718,10 @@ Each of these "bars" grows ventrally in the floor of the developing pharynx and 
 
 - The pharyngeal arches are six-curved mesodermal thickenings with each arch having an ectodermal covering and an endodermal lining containing a mesodermal core. These provide support to the ventral and lateral walls of primitive pharynx. By the time that the anterior neuropore closes, the first and second pharyngeal arches are present.
 - The mesoderm of the arches is derived from paraxial mesoderm and lateral plate mesoderm. It is invaded by neural crest cells that contribute for skeletal elements and connective tissue of head and neck region.
-![img-167.jpeg](img-167.jpeg.jpg)
+![img-167.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-167.jpeg.jpg)
 
 Fig. 9.1: Lateral views of embryos showing the formation of pharyngeal arches between stomatodeum and the pericardial bulge
-![img-168.jpeg](img-168.jpeg.jpg)
+![img-168.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-168.jpeg.jpg)
 
 Figs 9.2A and B: Coronal sections through cranial part of foregut. (A) Before; (B) After formation of pharyngeal arches
 
@@ -4110,7 +3730,7 @@ Figs 9.2A and B: Coronal sections through cranial part of foregut. (A) Before; (
 - Striated muscle: This muscle is supplied by the nerve of the arch (see below). In later development, this musculature may, or may not, retain its attachment to the skeletal elements derived from the arch. It may subdivide to form a number of distinct muscles, which may migrate away from the pharyngeal region. When they do so, however, they carry their nerve with them and their embryological origin can thus be determined from their nerve supply.
 - An arterial arch: Ventral to the foregut, an artery called the ventral aorta develops. Dorsal to the foregut, another artery called the dorsal aorta, is formed. A series of arterial arches (aortic arches) connect the ventral and dorsal aortae. One such arterial arch lies in each pharyngeal arch. In a subsequent development, the arrangement of these arteries is greatly modified. The fate of the arterial arches is considered in Chapter 15: Cardiovascular System.
 - Nerve of the arch: Each pharyngeal arch is supplied by a nerve derived from hind brain. In addition to supplying the skeletal muscle of the arch, it supplies sensory branches to the overlying ectoderm, and endoderm (Fig. 9.3). In some lower animals, each arch is supplied by two nerves (Fig. 9.4). The nerve of the arch itself
-![img-169.jpeg](img-169.jpeg.jpg)
+![img-169.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-169.jpeg.jpg)
 
 Fig. 9.3: Structures to be seen in a pharyngeal arch
 runs along the cranial border of the arch. This is called the posttrematic nerve of the arch (trema $=$ trench). Each arch also receives a branch from the nerve of the succeeding arch. This runs along the caudal border of the arch, and is called the pretrematic nerve of the arch. In the human embryo, however, a double innervation is to be seen only in the first pharyngeal arch.
@@ -4118,10 +3738,10 @@ runs along the cranial border of the arch. This is called the posttrematic nerve
 ## DERIVATIVES OF SKELETAL ELEMENTS
 
 - The cartilage of the first arch is called Meckel's cartilage (Fig. 9.5). The incus and malleus (of the middle ear) and spine of sphenoid are derived from its dorsal end. The ventral part of the cartilage is surrounded by the mesenchyme that forms the mandible by membranous ossification. The Meckel's
-![img-170.jpeg](img-170.jpeg.jpg)
+![img-170.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-170.jpeg.jpg)
 
 Fig. 9.4: Arrangement of nerves supplying the pharyngeal arches in some lower animals
-![img-171.jpeg](img-171.jpeg.jpg)
+![img-171.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-171.jpeg.jpg)
 
 Fig. 9.5: Fate of the cartilages of the pharyngeal arches. The left half of the figure shows an earlier stage of development. The derivatives of the first arch are shown in red, second arch in green, third arch in orange, and fourth, fifth and sixth arches in blue
 
@@ -4209,10 +3829,10 @@ TABLE 9.3: Muscles derived from somitomeres and somites
 
 and the third, fourth and sixth arches is called the cervical sinus.
 
-![img-172.jpeg](img-172.jpeg.jpg)
+![img-172.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-172.jpeg.jpg)
 
 Fig. 9.6: Derivation of pharyngeal pouches including superior and inferior parathyroid glands. Note that the relative position of parathyroid III and IV is reversed during development
-![img-173.jpeg](img-173.jpeg.jpg)
+![img-173.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-173.jpeg.jpg)
 
 Fig. 9.7: Cervical sinus. The left half of the figure shows an earlier stage than the right half
 
@@ -4263,7 +3883,7 @@ TABLE 9.4: Derivatives of endodermal pouches
 |  | - Thyroid gland? |
 |  | Ultimobranchial body |
 
-![img-174.jpeg](img-174.jpeg.jpg)
+![img-174.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-174.jpeg.jpg)
 
 Fig. 9.8: Scheme to show the fate of the pharyngeal pouches
 
@@ -4334,11 +3954,11 @@ It includes:
 - Pharyngeal arches (mesoderm)
 - Pharyngeal clefts (ectoderm)
 - Pharyngeal pouches (endoderm)
-![img-175.jpeg](img-175.jpeg.jpg)
+![img-175.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-175.jpeg.jpg)
 
 Fig. 9.9: Floor of the pharynx showing the foramen cecum from where the thyroglossal duct arises
 
-![img-176.jpeg](img-176.jpeg.jpg)
+![img-176.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-176.jpeg.jpg)
 
 Figs 9.10A to D: Stages in the development of the thyroid gland
 
@@ -4373,10 +3993,10 @@ In the surgical removal of thyroglossal cysts and fistulae, it is important to r
 ## Molecular regulation and genetic basis of pharyngeal arch development
 
 The formation of pharyngeal arches is controlled by pharyngeal arch endoderm. Lateral migration of pharyngeal endodermal cells forms the pharyngeal pouches. This migration is controlled by fibroblast growth factor (FGF-8), bone mineral protein (BMP7), paired box gene (PAX-1), and sonic hedgehog (SHH) gene.
-![img-177.jpeg](img-177.jpeg.jpg)
+![img-177.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-177.jpeg.jpg)
 
 Figs 9.11A to D: Variations in the pyramidal process of the thyroid gland
-![img-178.jpeg](img-178.jpeg.jpg)
+![img-178.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-178.jpeg.jpg)
 
 Figs 9.12A to C: Anomalies of the thyroid gland. The parts of the gland shown in dotted outline are missing
 
@@ -4414,10 +4034,10 @@ TABLE 9.5: Time table of developmental events
 | 5th week (29th day) | Four arches are seen. Thyroid, <br> parathyroid and thymus start <br> forming |
 | 7th week | Thyroid gland reaches its definitive <br> position |
 
-![img-179.jpeg](img-179.jpeg.jpg)
+![img-179.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-179.jpeg.jpg)
 
 Fig. 9.13: Path of thyroglossal duct. Note that thyroid tissue may come to lie anywhere along the course of this duct
-![img-180.jpeg](img-180.jpeg.jpg)
+![img-180.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-180.jpeg.jpg)
 
 Fig. 9.14: Ultrasound image of a fetus with micrognathia, cleft lip and cleft palate. Image courtesy: Dr Ganesh Kumar and Dr Sasikala
 
@@ -4435,7 +4055,7 @@ opening at the middle of anterior border of sternomastoid muscle was observed wi
 - In the present case, it is a fistula in relation to the 2 nd branchial cleft between 3rd and 4th branchial arches. The 2 nd branchial arch contributes for the formation of hyoid bone and its endodermal pouch forms the tonsil and the cleft forms the tonsillar fossa. The fistula is travelling between internal and external carotid arteries. Internal opening of fistula is at level of tonsillar fossa. External opening is found along the anterior border of sternocleidomastoid muscle.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. What are the derivatives of first pharyngeal arch?
 2. Name the nerves of pharyngeal arches.
@@ -4486,7 +4106,7 @@ Some books refer them as dermomyotome and sclerotome as shown in Flowchart 10.1.
 Skeletal system includes cartilage and bone. The process of formation of cartilage and bone has been considered in Chapter 7. Skeleton is classified into axial skeleton
 
 Flowchart 10.1: Development of vertebra
-![img-181.jpeg](img-181.jpeg.jpg)
+![img-181.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-181.jpeg.jpg)
 and appendicular skeleton. All bones are of mesodermal origin. Bones can be classified as cartilaginous bones or membranous bones or membrano-cartilaginous bones on the basis of their mode of ossification.
 
 - Most bones of the axial skeleton are derived from sclerotomes of somites (paraxial mesoderm) and head mesoderm.
@@ -4512,7 +4132,7 @@ In the cervical, thoracic, lumbar and sacral regions, one spinal nerve innervate
 - Occipital somites (4-5) which give rise to muscles of the tongue and are supplied by the hypoglossal nerve.
 - Preoccipital (or preotic) somites (somitomeres), supplied by the third, 4th and 6th cranial nerves.
 
-![img-182.jpeg](img-182.jpeg.jpg)
+![img-182.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-182.jpeg.jpg)
 
 Figs 10.1A to C: (A) Somites lying on either side of the neural tube. Note subdivisions of somite. (B) The cells of the sclerotome have migrated medially and now surround the neural tube. The myotome is innervated by nerves growing out of the neural tube. (C) The cells of the dermatome have migrated to form the dermis of the skin
 
@@ -4542,10 +4162,10 @@ TABLE 10.1: Distribution of somites and their skeletal and muscular derivatives
 | Sacral | 5 | Vertebra |  |
 | Coccygeal | $8-10$ |  |  |
 
-![img-183.jpeg](img-183.jpeg.jpg)
+![img-183.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-183.jpeg.jpg)
 
 Fig. 10.2: Formation of mesenchymal basis of the body of a vertebra from a sclerotome
-![img-184.jpeg](img-184.jpeg.jpg)
+![img-184.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-184.jpeg.jpg)
 
 Fig. 10.3: Formation of mesenchymal basis of the neural arch and of the costal element
 
@@ -4560,27 +4180,27 @@ From the above account, we may note that (Fig. 10.5, Flowchart 10.2):
 - The vertebra is an intersegmental structure made up from portions of two somites.
 - The intervertebral disc is formed at the center of the somite.
 - The transverse processes and ribs are also intersegmental. They separate the muscles derived from two adjoining myotomes.
-![img-185.jpeg](img-185.jpeg.jpg)
+![img-185.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-185.jpeg.jpg)
 
 Figs 10.4A to C: (A) Mesenchyme derived from somites is seen in the form of segments. (B) Each segment has a central condensed part, and cranial less dense and caudal more dense parts. (C) Centrum of a vertebra is formed by fusion of more dense caudal part of one sclerotomic segment with the cranial less dense part of adjacent sclerotomic segment. Hence, it is an intersegmental structure. Each intervertebral disc is derived from the condensed part of one somite. Hence, it is segmental in position
-![img-186.jpeg](img-186.jpeg.jpg)
+![img-186.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-186.jpeg.jpg)
 
 Fig. 10.5: Showing the segmental and intersegmental components of the parts of a vertebra and the nerves and arteries
 
 Flowchart 10.2: Development of vertebra
-![img-187.jpeg](img-187.jpeg.jpg)
+![img-187.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-187.jpeg.jpg)
 
 - Spinal nerves are segmental structures. They, therefore, emerge from between the two adjacent vertebrae and lie between two adjacent ribs.
 - The blood vessels supplying structures derived from the myotome (e.g. intercostal vessels) are intersegmental like the vertebrae. Therefore, the intercostal and lumbar arteries lie opposite the vertebral bodies.
 - The mesenchymal basis of the vertebra is converted into cartilage by the appearance of several centers of chondrification. Three primary centers of ossification appear in the cartilaginous model for each vertebra; one for each neural arch and one for the greater part of the body (centrum).
 - At birth, the centrum and the two halves of the neural arch are joined by cartilage (Fig. 10.6A). These are
-![img-188.jpeg](img-188.jpeg.jpg)
+![img-188.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-188.jpeg.jpg)
 
 Figs 10.6A and B: (A) A vertebra at birth consisting of three separate pieces of bone: a centrum and two neural arches. (B) Diagram to show the neurocentral line which is the line along which body and neural arch have fused
 termed neurocentral joints. Note that the posterolateral parts of the vertebral body are formed from the neural arch (Fig. 10.6B). After the centrum and neural arch have fused, the junction between the two is indicated by the neurocentral line.
 
 - In the cervical, thoracic, lumbar and sacral regions, the contributions to the various parts of the vertebrae by the centrum, neural arches and costal elements are shown in Figure 10.7 and Table 10.2.
-![img-189.jpeg](img-189.jpeg.jpg)
+![img-189.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-189.jpeg.jpg)
 
 Fig. 10.7: Relative contribution to vertebrae by the centrum, the neural arch and the costal element in different regions. Note that a small part of the body of the vertebra is derived from the neural arch
 
@@ -4619,7 +4239,7 @@ TABLE 10.2: Adult vertebral and rib derivatives from various embryonic component
 
 - The ribs are derived from ventral extensions of the sclerotomic mesenchyme that forms the vertebral arches. These extensions are present not only in the thoracic region but also in the cervical, lumbar and sacral regions.
 - They lie ventral to the mesenchymal basis of the transverse processes with which they are continuous. In the thoracic region, the entire extension (called the
-![img-190.jpeg](img-190.jpeg.jpg)
+![img-190.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-190.jpeg.jpg)
 
 Fig. 10.8: Spina bifida produced by nonfusion of the two halves of the neural arch
 
@@ -4650,10 +4270,10 @@ The manubrium and the body of the sternum are ossified, separately. The xiphoid 
 
 - The bones of skull (cranium) develop around the developing brain.
 - Cranial to the first cervical somite there are four occipital somites. The mesenchyme arising from the sclerotomes of these somites helps to form part of the base of the skull in the region of the occipital bone.
-![img-191.jpeg](img-191.jpeg.jpg)
+![img-191.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-191.jpeg.jpg)
 
 Fig. 10.9: Occipitalization of atlas
-![img-192.jpeg](img-192.jpeg.jpg)
+![img-192.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-192.jpeg.jpg)
 
 Figs 10.10A to C: Development of the sternum. (A) Sternal bars formed on each side of the middle line. (B) The sternal bars begin to fuse with each other at the cranial end. (C) Fusion progresses caudally
 
@@ -4700,7 +4320,7 @@ Figs 10.10A to C: Development of the sternum. (A) Sternal bars formed on each si
 
 - The ethmoid bone and the inferior nasal concha are derived from the cartilage of the nasal capsule.
 - The septal and alar cartilages of the nose represent parts of the capsule that do not undergo ossification.
-![img-193.jpeg](img-193.jpeg.jpg)
+![img-193.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-193.jpeg.jpg)
 
 Fig. 10.11: Developmental components of chondrocranium and their derivatives
 
@@ -4733,10 +4353,10 @@ Fig. 10.11: Developmental components of chondrocranium and their derivatives
 - While the limb buds are growing, the mesenchymal cells in the buds form cartilaginous models, which subsequently ossify to form the bones of the limb.
 - The limb buds are at first directed forward and laterally from the body of the embryo (Fig. 10.14). Each bud has a preaxial (or cranial) border and a postaxial border (Fig. 10.15). The thumb and great toe are formed on the preaxial border.
 - The radius is the preaxial bone of the forearm. In a later development, the forelimb is adducted to the side of the
-![img-194.jpeg](img-194.jpeg.jpg)
+![img-194.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-194.jpeg.jpg)
 
 Fig. 10.12: Embryo showing limb buds
-![img-195.jpeg](img-195.jpeg.jpg)
+![img-195.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-195.jpeg.jpg)
 
 Fig. 10.13: Stages in differentiation of the forelimb bud
 
@@ -4759,13 +4379,13 @@ Three centers in the limb bud determine the three limb axes. They are:
 The tissues of joints are derived from mesenchyme intervening between developing bone ends. This mesenchyme may differentiate into fibrous tissue, forming a fibrous joint (syndesmosis), or into cartilage forming a cartilaginous joint. In the case of some cartilaginous joints (synchondrosis or primary cartilaginous joints), the cartilage connecting the bones is later ossified, with the result that the two bones become continuous. This is seen, typically, at the joints between the diaphyses and epiphyses of long bones.
 
 At the site where a synovial joint is to be formed, the mesenchyme is usually seen in three layers. The two outer layers are continuous with the perichondrium covering the cartilaginous ends of the articulating bones. The middle layer becomes loose and a cavity is formed in it. The cavity comes to be lined by a mesothelium that forms the synovial membrane (Fig. 10.16). The capsule and other ligaments are derived from the surrounding mesenchyme.
-![img-196.jpeg](img-196.jpeg.jpg)
+![img-196.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-196.jpeg.jpg)
 
 Fig. 10.14: Scheme to show that the longitudinal axis of the limb buds is transverse to the long axis of the embryonic body
-![img-197.jpeg](img-197.jpeg.jpg)
+![img-197.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-197.jpeg.jpg)
 
 Fig. 10.15: Scheme showing that with "adduction" of the embryonic limb, the preaxial border becomes the lateral border
-![img-198.jpeg](img-198.jpeg.jpg)
+![img-198.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-198.jpeg.jpg)
 
 Fig. 10.16: Development of a synovial joint
 
@@ -4797,10 +4417,10 @@ Majority of the skeletal muscles develop from somites. The cardiac and smooth mu
 occipital myotomes are believed to give rise to the musculature of the tongue, while the extrinsic muscles of the eyeball are regarded as derivatives of the preoccipital myotomes.
 - Soon after its formation, each myotome, in the neck and trunk, separates into a small dorsal part (epimere) which gives rise to the muscles supplied by the dorsal primary ramus of the spinal nerve, and a larger ventral part (hypomere), which gives origin to the muscles supplied by the ventral ramus (Figs 10.1A to C) of spinal nerve. The epimeres give origin to the muscles of the back (epaxial/extensors of the vertebral column), while the hypomeres give origin to the hypoxia1/flexor muscles of the body wall and limbs. The intermuscular septum separating these two groups is represented by thoracolumbar fascia.
 - Some cells from the ventrolateral region of the dermomyotomes migrate into the parietal layer of lateral
-![img-199.jpeg](img-199.jpeg.jpg)
+![img-199.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-199.jpeg.jpg)
 
 Fig. 10.17: Clubfoot
-![img-200.jpeg](img-200.jpeg.jpg)
+![img-200.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-200.jpeg.jpg)
 
 Fig. 10.18: Polydactyly
 
@@ -4838,7 +4458,7 @@ The somite derived musculature distribution is divided as follows (Table 10.3, F
 
 - All muscles of tongue both intrinsic and extrinsic except palatoglossus are derived from the four occipital myotomes (Fig. 10.19) and are supplied by 12th cranial nerve (which is formed by fusion of pre cervical nerves) and the palatoglossus is supplied by vagus nerve.
 - The occipital myotomes migrate into the developing tongue (contributed by 1st to 3rd pharyngeal arches) in the floor of mouth.
-![img-201.jpeg](img-201.jpeg.jpg)
+![img-201.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-201.jpeg.jpg)
 
 Fig. 10.19: Myotomic segment derived muscles of the body
 
@@ -4854,10 +4474,10 @@ TABLE 10.3: Somite derived skeletal musculature
 | Diaphragm | Ventrolateral divisions of C3-C5 | Phrenic nerve (C3-C5) |
 | Other muscles <br> - Posterior abdominal wall muscles (quadratus lumborum) <br> - Pelvic diaphragm (levator ani and coccygeus) <br> - External anal sphincter and striated muscles of superficial deep perineal pouches | - Ventrolateral divisions of L1-L5 <br> - Ventrolateral divisions of S2-Co1 <br> - Cloacal sphincter-skin muscle | - L1-L5 <br> - S2-Co1 <br> - S2-Co1 |
 
-![img-202.jpeg](img-202.jpeg.jpg)
+![img-202.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-202.jpeg.jpg)
 
 Figs 10.20A and B: Distribution of thoracoabdominal musculature
-![img-203.jpeg](img-203.jpeg.jpg)
+![img-203.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-203.jpeg.jpg)
 
 Figs 10.21A to C: Distribution of limb and trunk musculature
 
@@ -4878,7 +4498,7 @@ somatopleuric layer of mesoderm of coelomic cavities and form the flexors of ver
 - For upper limb they are derived from C4 to T2 segments and for lower limb they are derived from L1 to S3 segments (Figs 10.21A to C).
 - The muscles are at first organized along the preaxial and postaxial borders of in situ developing somatopleuric mesodermal derived bones. The muscles and the borders of the limbs differentiate into preaxial and postaxial groups. The preaxial muscles are supplied by upper segments of nerves and the postaxial muscles are supplied by lower segmental nerves.
 - Regrouping of muscles and spinal nerves results in formation of anterior and posterior groups of muscles of limbs and nerve plexuses in relation to the limbs respectively. The anterior groups are flexors and adductors of the limb and are supplied by anterior divisions of nerve plexuses (e.g. medial and ulnar nerves supply flexors). The posterior groups are extensors and abductors of the limbs and are supplied by posterior divisions of nerve plexuses (e.g. radial nerve supplies the extensors).
-![img-204.jpeg](img-204.jpeg.jpg)
+![img-204.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-204.jpeg.jpg)
 
 Fig. 10.22: Ultrasound image of twin pregnancy with one normal and one anencephalic fetus. Image Courtesy: Dr Ganesh Kumar and Dr Sasikala
 
@@ -4909,7 +4529,7 @@ TABLE 10.4: Time table of some developmental events
 | 12th week | Primary centers of ossification are seen in all the long bones |
 
 Note: The extremities are most susceptible to teratogens during the 4th-7th weeks; and slightly less susceptible in the 8th week.
-![img-205.jpeg](img-205.jpeg.jpg)
+![img-205.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-205.jpeg.jpg)
 
 Fig. 10.23: Anencephalic fetus
 
@@ -4926,7 +4546,7 @@ A primi of 30 years age came for obstetric checkup at 22nd week and was informed
 - Since it is a multiple gestation with dichorionic and diamniotic pregnancy with one normal fetus the pregnancy was continued.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Describe somites.
 2. Explain development of vertebra.
@@ -4971,10 +4591,10 @@ downward projection is called the frontonasal process (Fig. 11.2).
 
 - Each mandibular arch forms the lateral wall of the stomatodeum (Fig. 11.3A). This arch gives off a bud from its dorsal end. This bud is called the maxillary process (Fig. 11.3B). It grows ventromedially cranial to the main part of the arch which is now called the mandibular process.
 - The five primordia for face development are an unpaired frontonasal process and paired maxillary and mandibular processes.
-![img-206.jpeg](img-206.jpeg.jpg)
+![img-206.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-206.jpeg.jpg)
 
 Fig. 11.1: Head end of an embryo just before formation of the frontonasal process
-![img-207.jpeg](img-207.jpeg.jpg)
+![img-207.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-207.jpeg.jpg)
 
 Fig. 11.2: Formation of frontonasal process
 
@@ -4992,7 +4612,7 @@ The mandibular processes of the two sides grow toward each other (Fig. 11.3B) an
 ## Upper Lip
 
 - Each maxillary process now grows medially below the developing eye and fuses, first with the lateral nasal process (Fig. 11.5), and then with the medial nasal process (Fig. 11.6). The medial and lateral nasal processes also fuse with each other. In this way, the
-![img-208.jpeg](img-208.jpeg.jpg)
+![img-208.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-208.jpeg.jpg)
 
 Figs 11.3A and B: Development of face: Formation of mandibular and maxillary processes
 
@@ -5001,7 +4621,7 @@ nasal pits (now called external nares) are cut off from the stomatodeum.
 - The maxillary processes undergo considerable growth (Fig. 11.6). At the same time, the frontonasal process
 becomes much narrower from side to side, with the result that the two external nares come closer together.
 - The stomatodeum is now bounded above by the upper lip that is derived as follows (Figs 11.7 and 11.8):
-![img-209.jpeg](img-209.jpeg.jpg)
+![img-209.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-209.jpeg.jpg)
 
 Figs 11.4A and B: Development of face (continued). (A) The right and left mandibular processes fuse and form the lower boundary of the future mouth. The nasal placodes appear over the frontonasal process. The lens placode appears; (B) The nasal placode is converted into the nasal pit. Elevations of the pit form the medial and lateral nasal processes
 
@@ -5013,14 +4633,14 @@ TABLE 11.1: Face-primordia, their relation to stomatodeum and parts of face cont
 | Maxillary <br> (Paired) | Mesoderm of dorsal part of 1st arch | Lateral part of upper border | - Lateral parts of upper lip <br> - Upper parts cheeks | Maxillary |
 | Mandibular (Paired) | Mesoderm of ventral part of 1st arch | Lower border | - Chin <br> - Lower lip <br> - Lower parts of cheeks | Mandibular |
 
-![img-210.jpeg](img-210.jpeg.jpg)
+![img-210.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-210.jpeg.jpg)
 
 Figs 11.5A and B: Development of the face (continued). (A) The right and left nasal pits come close to each other. The lateral nasal process is separated from the maxillary process by the nasooptic furrow; (B) The maxillary process fuses with the lateral nasal process obliterating the nasooptic furrow
 
 - The mesodermal basis of the lateral part of the lip is formed from the maxillary process. The overlying skin is derived from ectoderm covering this process.
 - The mesodermal basis of the median part of the lip (called philtrum) is formed from the frontonasal process. The ectoderm of the maxillary process, however, overgrows this mesoderm to meet that of the opposite maxillary process in the midline (Fig. 11.8). As a result, the skin of the entire upper lip is innervated by the maxillary nerves.
 - The muscles of the face (including those of the lips) are derived from mesoderm of the second branchial arch and are, therefore, supplied by the facial nerve.
-![img-211.jpeg](img-211.jpeg.jpg)
+![img-211.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-211.jpeg.jpg)
 
 Figs 11.6A and B: Development of the face (continued). (A) The maxillary process extends below the nasal pit and fuses with the medial nasal process. In this way, the nasal pit is separated from the stomatodeum; (B) The maxillary and mandibular processes partly fuse to form the cheek. With growth of the maxillary processes the nasal pits come closer to each other
 
@@ -5038,14 +4658,14 @@ Figs 11.6A and B: Development of the face (continued). (A) The maxillary process
 - The bulgings of the eyes are at first directed laterally (Figs 11.5 and 11.6), and lie in the angles between the maxillary processes and the lateral nasal processes.
 - With the narrowing of the frontonasal process, they come to face forward (Figs 11.6 and 11.7).
 - The eyelids are derived from folds of ectoderm that are formed above and below the eyes, and by mesoderm enclosed within the folds.
-![img-212.jpeg](img-212.jpeg.jpg)
+![img-212.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-212.jpeg.jpg)
 
 Fig. 11.7: Derivation of parts of the face
 
 ## Nose
 
 - The nose receives contributions from the frontonasal process and from the medial and lateral nasal processes of the right and left sides.
-![img-213.jpeg](img-213.jpeg.jpg)
+![img-213.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-213.jpeg.jpg)
 
 Fig. 11.8: Formation of upper lip: Scheme to show how the maxillary process "overgrows" the frontonasal process
 
@@ -5057,10 +4677,10 @@ Fig. 11.8: Formation of upper lip: Scheme to show how the maxillary process "ove
 - Frontonasal process forms the bridge of the nose.
 - Fused medial nasal processes form the dorsum and tip of nose.
 - Lateral nasal processes form the alae of the nose. The development of the nasal cavity is considered later.
-![img-214.jpeg](img-214.jpeg.jpg)
+![img-214.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-214.jpeg.jpg)
 
 Figs 11.9A and B: Early stages in the development of the face as seen from the lateral aspect
-![img-215.jpeg](img-215.jpeg.jpg)
+![img-215.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-215.jpeg.jpg)
 
 Figs 11.10A and B: Later stage in the development of the face as seen from the lateral aspect
 
@@ -5101,21 +4721,21 @@ It has been seen that the formation of various parts of the face involves fusion
 - Soon the medial and lateral nasal processes fuse, and form a partition between the pit and the stomatodeum. This is called the primitive palate (Fig. 11.14B), and is derived from the frontonasal process.
 - The nasal pits now deepen to form the nasal sacs which expand both dorsally and caudally (Fig. 11.14C). The dorsal part of this sac is, at first, separated from the stomatodeum by a thin membrane called the bucconasal membrane (or nasal fin). This soon breaks down (Figs 11.14D and 11.15B). The nasal sac now has a ventral orifice that opens on the face (anterior or external nares), and a dorsal orifice that opens into the stomatodeum (primitive posterior nasal aperture).
 - The two nasal sacs are at first widely separated from one another by the frontonasal process (Figs 11.15A and B).
-![img-216.jpeg](img-216.jpeg.jpg)
+![img-216.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-216.jpeg.jpg)
 
 Figs 11.11A to F: Varieties of harelip. For explanation see text
 
-![img-217.jpeg](img-217.jpeg.jpg)
+![img-217.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-217.jpeg.jpg)
 
 Figs 11.12A to C: (A) Oblique facial cleft; (B) Macrostomia; (C) Microstomia
-![img-218.jpeg](img-218.jpeg.jpg)
+![img-218.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-218.jpeg.jpg)
 
 Fig. 11.13: Abnormal face showing single median eye (cyclops). A rod-like projection is seen above the eye (proboscis). Also see Figure 19.11
-![img-219.jpeg](img-219.jpeg.jpg)
+![img-219.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-219.jpeg.jpg)
 
 Figs 11.14A to D: Parasagittal sections through developing nasal cavity. (A) Nasal pit formed; (B) Nasal pit deepens. It is separated from the stomatodeum by the primitive palate; (C) The nasal pit enlarges to form the nasal sac. Posterior to the primitive palate the sac is separated from the oral cavity by the bucconasal membrane; (D) Bucconasal membrane breaks down
 
-![img-220.jpeg](img-220.jpeg.jpg)
+![img-220.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-220.jpeg.jpg)
 
 Figs 11.15A to D: Formation of the nasal septum. A and C are coronal sections through the anterior part of the nasal sac. B and $D$ are sections through the posterior part. (A) Right and left nasal sacs are widely separated by the frontonasal process. Anterior part of nasal sac is separated from the stomatodeum by the primitive palate; (B) Posterior part of nasal sac is separated from the stomatodeum by the bucconasal membrane; (C) Nasal sacs enlarge and come close together. The frontonasal process is narrow and forms the nasal septum. The lower edge of the septum reaches the primitive palate; (D) Bucconasal membrane breaks down. As a result the posterior part of the nasal sac opens into the stomatodeum
 
@@ -5156,7 +4776,7 @@ Later, the frontonasal process becomes progressively narrower. This narrowing of
 - From each maxillary process, a palate like shelf grows medially (Fig. 11.16D). This is called the palatal process of maxilla.
 - We now have three components from which the palate will be formed. These are (Figs 11.17 and 11.18):
 
-![img-221.jpeg](img-221.jpeg.jpg)
+![img-221.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-221.jpeg.jpg)
 
 Figs 11.16A to D: Development of the palate
 
@@ -5168,11 +4788,11 @@ Figs 11.16A to D: Development of the palate
 
 1. Fusion of palatal processes of maxilla with primitive palate: Each palatal process fuses with the posterior margin of the primitive palate (Fig. 11.18) in a Y-shaped manner. Each limb of Y extends between lateral incisor and canine teeth. The junction of these two components in the midline is represented by incisive fossa.
 2. Fusion of both palatal processes of maxilla: The two palatal processes fuse with each other in the midline (Fig. 11.19A). Their fusion begins anteriorly and proceeds backward.
-![img-222.jpeg](img-222.jpeg.jpg)
+![img-222.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-222.jpeg.jpg)
 
 Fig. 11.17: Constituents of the developing palate as seen in a schematic horizontal section through the maxillary processes
 
-![img-223.jpeg](img-223.jpeg.jpg)
+![img-223.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-223.jpeg.jpg)
 
 Fig. 11.18: Embryological subdivisions of the palate and the lines of fusion of these subdivisions
 3. Fusion of palatal processes with nasal septum: The medial edges of the palatal processes fuse with the free lower edge of the nasal septum (Fig. 11.19B), thus separating the two nasal cavities from each other, and from the mouth.
@@ -5211,10 +4831,10 @@ TABLE 11.2: Time table of developmental events
 | 8th week | - Eyes shift from a lateral to a frontal position <br> - Bucconasal membrane ruptures |
 | 10th week | Palatal processes and nasal septum fuse with each other |
 
-![img-224.jpeg](img-224.jpeg.jpg)
+![img-224.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-224.jpeg.jpg)
 
 Figs 11.19A and B: Separation of nasal cavities from each other, and from the mouth. Compare with Figure 11.16D
-![img-225.jpeg](img-225.jpeg.jpg)
+![img-225.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-225.jpeg.jpg)
 
 Figs 11.20A to E: Varieties of cleft palate. (A) Complete cleft with bilateral harelip; (B) Unilateral cleft palate and cleft of upper lip. The left maxillary process has fused with the premaxilla, but not with the right maxillary process. The cleft is accompanied by unilateral harelip; (C) Midline cleft of hard palate and soft palate; (D) Cleft of soft palate; (E) Bifid uvula
 
@@ -5233,7 +4853,7 @@ A mother brings her apparently normal newborn of 20 days old with a complaint of
 - This condition is not life-threatening. This case required surgery to close the cleft within 1st year of life to avoid speech difficulties and hearing problems.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain development of face.
 2. Explain development of palate.
@@ -5296,7 +4916,7 @@ The derivatives of oral part can be subdivided into those from ectoderm and thos
 3. Tongue.
 
 - At first these regions are not demarcated from each other (Fig. 12.2A). Soon the tongue forms a recognizable swelling, which is separated laterally from the rest of the mandibular process by the linguogingival sulcus (Fig. 12.2B) which is endodermal.
-![img-226.jpeg](img-226.jpeg.jpg)
+![img-226.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-226.jpeg.jpg)
 
 Fig. 12.1: Derivation of the ectodermal part, and endodermal part of the floor of the mouth. (A) Stomatodeum separated from foregut by buccopharyngeal membrane. (B) Buccopharyngeal membrane disappears. (C) Lips, cheeks and gums lined by ectoderm, tongue by endoderm
 
@@ -5315,10 +4935,10 @@ Some anomalies in the region of the mouth are described in Chapter 11.
 - Bud stage: During this stage, ten thickening of dental lamina appears five on each side. These are called tooth buds/enamel organs.
 - Cap stage: As the enamel organ grows downward into the mesenchyme (of the alveolar process)
 
-![img-227.jpeg](img-227.jpeg.jpg)
+![img-227.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-227.jpeg.jpg)
 
 Fig. 12.2: (A) Floor of mouth formed by fused mandibular processes. (B) Linguogingival sulcus separates developing tongue from rest of mandibular processes. (C) Labiogingival sulcus separates alveolar process from lip (or cheek). The dental lamina, seen in the alveolar process, gives origin to teeth (Also see Fig. 12.3)
-![img-228.jpeg](img-228.jpeg.jpg)
+![img-228.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-228.jpeg.jpg)
 
 Fig. 12.3: Floor of mouth showing labiogingival and linguogingival sulci
 
@@ -5327,7 +4947,7 @@ Fig. 12.4: Development of some structures seen in relation to the roof of the mo
 its lower end assumes a cup-shaped appearance (Fig. 12.6C). The cup comes to be occupied by a mass of mesenchyme called the dental papilla (According to some authorities, this mesenchyme is of neural crest origin). The enamel organ and the dental papilla together constitute the tooth germ. At this stage the developing tooth looks like a cap: it is, therefore, described as the cap stage of tooth development. The cells of the enamel organ that line the papilla become columnar. These are called ameloblasts (Fig. 12.6D).
 
 - Bell stage: Mesodermal cells of the papilla that are adjacent to the ameloblasts arrange themselves as a continuous epithelium like layer. The cells of this layer are called odontoblasts (Fig. 12.6E). The ameloblasts and odontoblasts are separated by a basement membrane. The remaining cells of the papilla from the pulp of the
-![img-229.jpeg](img-229.jpeg.jpg)
+![img-229.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-229.jpeg.jpg)
 
 Fig. 12.5: Formation of enamel organs from dental lamina. (A) Dental lamina following the curve of the alveolar process (Compare with Fig. 12.3). (B) Enamel organs formed in relation to the dental lamina
 tooth. The developing tooth now looks like a bell (bell stage).
@@ -5337,7 +4957,7 @@ tooth. The developing tooth now looks like a bell (bell stage).
 - The alveolar parts of the maxillae and mandible are formed by ossification in the corresponding alveolar process. As ossification progresses, the roots of the teeth are surrounded by bone.
 - The root of the tooth is established by continued growth into underlying mesenchyme. Odontoblasts in this region lay down dentine. As layers of dentine are deposited, the pulp space becomes progressively narrower and is gradually converted into a canal through which nerves and blood vessels pass into the tooth.
 - In the region of the root there are no ameloblasts. The dentine is covered by mesenchymal cells that differentiate into cementoblasts. These cells lay down a layer of dense bone called the cementum. Still further to the outside, mesenchymal cells form the periodontal
-![img-230.jpeg](img-230.jpeg.jpg)
+![img-230.jpeg](Medical/Preclinical/Human%20Body%20and%20Function/Embryology/Books%20in%20MD/Inderbir%20Singh/Inderbir%20Singh's%20Human%20embryology%20(2018)%20-%20libgen.li_images/img-230.jpeg.jpg)
 
 Fig. 12.6: Stages in the formation of a tooth germ. (A) Dental lamina formed by proliferation of ectoderm lining the alveolar process. (B) Deeper part of dental lamina enlarges to form enamel organ. (C) Mesodermal cells invaginate the enamel organ to form the papilla. (D) Layer of ameloblasts (ectoderm) formed from deepest cells of enamel organ. (E) Odontoblasts, derived from mesodermal cells, form a layer next to the ameloblasts
 
@@ -5520,7 +5140,7 @@ TABLE 12.5: Time table of developmental events
 | Just before birth | Cementum is formed. |
 | After birth | Periodontal ligaments are formed before eruption of <br> teeth. |
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain development of tongue.
 2. What are the stages in the development of tooth?
@@ -5952,7 +5572,7 @@ Prenatal diagnosis of this condition is by:
 - Increased nuchal translucency.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Write a short note on tracheoesophageal fistula.
 2. What are the stages in the rotation of gut?
@@ -6843,7 +6463,7 @@ What is the embryological basis for difference in innervation of mucosa and musc
 - The vocal folds are formed at the junction of 4th and 6th arches. Hence, the sensory innervation of mucosa of larynx above the vocal folds is from internal laryngeal branch of superior laryngeal nerve vagus (4th arch) whereas that part below the vocal folds is from recurrent laryngeal branch of vagus ( 6 th arch) (Fig. 14.49C).
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain development of liver.
 2. Write a short note on septum transversum.
@@ -7953,7 +7573,7 @@ Observe the diagram (Fig. 15.65) and name the embryological components and adult
 9. Right posterior cardinal vein (cephalic part)—arch of azygos vein
 10. Suprahepatic part of right vitelline vein (common hepatic vein)-inferior vena cava (terminal part).
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Describe sinus venosus.
 2. Explain development of right atrium.
@@ -8079,7 +7699,7 @@ clumps in relation to the ampulla. Each solid clump is converted into a vesicle.
 
 Fig. 16.8: Scheme to show stages in the development of the nephron
 
-# Ascent of the Kidney 
+### Ascent of the Kidney 
 
 - The definitive human kidney is derived from the metanephros and lies in the sacral region in the initial stages of development. In subsequent development of the embryo, differential growth of the abdominal wall causes the kidney to ascend to the lumbar region (Fig. 16.9).
 - The metanephros, at first, receives its blood supply from the lateral sacral arteries, but with its ascent, higher branches of the aorta take over the supply. The definitive renal artery represents the lateral splanchnic branch of the aorta at the level of the second lumbar segment.
@@ -8653,7 +8273,7 @@ TABLE 16.2: Time table of some developmental events
 
 Note: The external genitalia are most susceptible to teratogens between the 7th and 9th weeks; but they can be affected later in pregnancy as well.
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain development of kidney.
 2. Explain developmental anomalies of kidney.
@@ -9006,7 +8626,7 @@ Fig. 17.22: Establishment of the form of the cerebral hemisphere and of the late
 
 Fig. 17.23: Formation of the choroid fissure, telachoroidea (fold of pia mater) and choroid plexus (bunch of capillaries). The wall of the telencephalon remains thin at this site
 
-# Thalamus and Hypothalamus 
+### Thalamus and Hypothalamus 
 
 The thalamus and hypothalamus develop from the diencephalon. After the establishment of the telencephalon,
 the lateral wall of the diencephalon becomes thickened. It is soon subdivided into three regions by the appearance of two grooves, called the epithalamic and hypothalamic sulci (Fig. 17.24A).
@@ -9243,7 +8863,7 @@ A neonate was presented to the neonatologist with a soft bulging in the lumbosac
 - Due to the compression of medulla and stretching of cranial nerves IX, X, XI, XII that are attached to the medulla, the symptoms of dyspnea, dysphagia, and diminished gag reflex, etc. have resulted.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Write a short note on neural crest cells.
 2. Describe the brainstem nuclei derived from alar lamina.
@@ -9390,7 +9010,7 @@ A 20-year-male was admitted to the neurology department with a history of chroni
 - It occurs in sella turcica region of cranial cavity. Early diagnosis of this tumor helps in prevention of sequelae, i.e. raised intracranial tension and pressure effects on surrounding structures like optic chiasma, temporal lobe, and hypothalamus producing visual, neurological and hormonal disturbances.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain the development of pituitary gland.
 2. Explain the development of adrenal gland.
@@ -9706,13 +9326,13 @@ A newly born dead fetus presented with absence of eyes and nose. But on close ob
 
 It is a case of severe craniofacial malformation. This condition is called holoprosencephaly with synophtholmos and proboscis. Holoprosencephaly is a structural malformation of the brain. There will be partial or total nonseparation of prosencephalon (forebrain). Majority of cases of holoprosencephaly are associated with a single completely fused eye (cyclops) in a single orbit or partially fused eyes (synophtholmos), absence of nose (arhinia) and a tubular appendage called proboscis. The cause for this condition can be genetic or there are environmental causes like maternal diabetes, alcohol use, etc. It can be diagnosed by fetal ultrasound or fetal MRI. This condition is not compatible with life and majority die in utero. If diagnosed prenatally, the parents should be advised termination of pregnancy to avoid mental agony.
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Write a short note on optic cup.
 2. Explain the development of lens.
 3. Explain the development of lacrimal apparatus.
 
-# Chapter 
+# Chapter 20
 
 ## Development of the Ear
 
@@ -9920,7 +9540,7 @@ Figs 20.11A to C: Aborted fetus with bilateral middle ear atresia and right-side
 - The cause for this abnormality can be genetic, environmental exposure to radiation, infections or due to the use of certain medicines taken by the mother.
 
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. Explain the development of tympanic membrane.
 2. Explain the development of external ear.
@@ -10254,7 +9874,7 @@ Fetal transfusion is given directly into the umbilical vein by the percutaneous 
 
 Surgical correction of some birth defects like congenital diaphragmatic hernias, urinary tract obstruction, etc. in the fetus has become possible. In this procedure, the uterus is opened by cesarean section and the fetus is operated upon directly. After repair of the defect, the fetus is placed back into the uterus. Most of the surgeries in utero are performed after 28th weeks of pregnancy.
 
-# REVIEW QUESTIONS 
+## REVIEW QUESTIONS 
 
 1. What are the stages of gestational period?
 2. Write a note on prenatal diagnosis of fetal anomalies.
